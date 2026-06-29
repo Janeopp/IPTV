@@ -1,287 +1,143 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" ,CCTV-1高清
-rtp://239.255.30.101:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" ,CCTV-2高清
-rtp://239.255.30.179:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png" ,CCTV-3高清
-rtp://239.255.29.12:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" ,CCTV-4高清
-rtp://239.255.30.83:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png" ,CCTV-5高清
-rtp://239.255.29.13:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" ,CCTV-5+高清
-rtp://239.255.30.184:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png" ,CCTV-6高清
-rtp://239.255.29.14:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" ,CCTV-7高清
-rtp://239.255.30.178:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png" ,CCTV-8高清
-rtp://239.255.29.15:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" ,CCTV-9高清
-rtp://239.255.30.180:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" ,CCTV-10高清
-rtp://239.255.30.181:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" ,CCTV-11高清
-rtp://239.255.30.62:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" ,CCTV-12高清
-rtp://239.255.30.182:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" ,CCTV-13高清
-rtp://239.255.29.28:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" ,CCTV-14高清
-rtp://239.255.30.183:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" ,CCTV-15高清
-rtp://239.255.30.68:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" ,CCTV-16高清
-rtp://239.255.30.88:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" ,CCTV-17高清
-rtp://239.255.30.96:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" ,CCTV-4K
-rtp://239.255.29.54:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃卫视.png" ,甘肃卫视高清
-rtp://239.255.30.249:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃文化影视.png" ,甘肃文化影视高清
-rtp://239.255.30.250:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃公共应急.png" ,甘肃公共应急高清
-rtp://239.255.30.251:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃科教.png" ,甘肃科教高清
-rtp://239.255.30.252:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃少儿.png" ,甘肃少儿高清
-rtp://239.255.30.254:8231
-#EXTINF:-1 ,兰州文旅频道
-rtp://239.255.30.108:8231
-#EXTINF:-1 ,兰州新闻频道
-rtp://239.255.30.107:8231
-#EXTINF:-1 ,武威综合
-rtp://239.255.30.103:8231
-#EXTINF:-1 ,凉州频道
-rtp://239.255.30.105:8231
-#EXTINF:-1 ,民勤综合
-rtp://239.255.30.52:8231
-#EXTINF:-1 ,天祝综合
-rtp://239.255.30.223:8231
-#EXTINF:-1 ,古浪综合
-rtp://239.255.30.82:8231
-#EXTINF:-1 ,金昌综合
-rtp://239.255.30.119:8231
-#EXTINF:-1 ,金川综合
-rtp://239.255.30.92:8231
-#EXTINF:-1 ,民乐综合
-rtp://239.255.30.228:8231
-#EXTINF:-1 ,山丹综合
-rtp://239.255.30.229:8231
-#EXTINF:-1 ,临泽综合
-rtp://239.255.29.40:8231
-#EXTINF:-1 ,甘州综合
-rtp://239.255.29.33:8231
-#EXTINF:-1 ,张掖新闻
-rtp://239.255.30.189:8231
-#EXTINF:-1 ,张掖农村
-rtp://239.255.30.190:8231
-#EXTINF:-1 ,会宁综合
-rtp://239.255.30.72:8231
-#EXTINF:-1 ,靖远综合
-rtp://239.255.30.78:8231
-#EXTINF:-1 ,平川综合
-rtp://239.255.30.81:8231
-#EXTINF:-1 ,永登综合
-rtp://239.255.30.93:8231
-#EXTINF:-1 ,景泰综合
-rtp://239.255.30.97:8231
-#EXTINF:-1 ,合水综合
-rtp://239.255.30.93:8231
-#EXTINF:-1 ,凤凰卫视
-rtp://239.255.30.50:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/香港/凤凰资讯.png" ,凤凰资讯
-rtp://239.255.30.70:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/香港/凤凰香港.png" ,凤凰香港
-rtp://239.255.30.123:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" ,北京卫视4K
-rtp://239.255.29.53:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视4K.png" ,广东卫视4K
-rtp://239.255.30.153:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视4K.png" ,深圳卫视4K
-rtp://239.255.30.152:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方卫视4K.png" ,东方卫视4K
-rtp://239.255.29.79:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视4K.png" ,湖南卫视4K
-rtp://239.255.29.76:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视4K.png" ,江苏卫视4K
-rtp://239.255.29.77:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视4K.png" ,浙江卫视4K
-rtp://239.255.29.78:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视4K.png" ,四川卫视4K
-rtp://239.255.29.80:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视4K.png" ,山东卫视4K
-rtp://239.255.29.81:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方卫视.png" ,东方卫视高清
-rtp://239.255.30.130:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖南卫视.png" ,湖南卫视高清
-rtp://239.255.30.136:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" ,江苏卫视高清
-rtp://239.255.30.131:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视.png" ,浙江卫视高清
-rtp://239.255.30.132:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视.png" ,北京卫视高清
-rtp://239.255.30.133:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视.png" ,广东卫视高清
-rtp://239.255.30.134:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视.png" ,深圳卫视高清
-rtp://239.255.30.135:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" ,四川卫视高清
-rtp://239.255.30.91:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河南卫视.png" ,河南卫视高清
-rtp://239.255.29.3:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" ,山东卫视高清
-rtp://239.255.30.139:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/天津卫视.png" ,天津卫视高清
-rtp://239.255.30.67:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/辽宁卫视.png" ,辽宁卫视高清
-rtp://239.255.30.69:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江西卫视.png" ,江西卫视高清
-rtp://239.255.30.71:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/贵州卫视.png" ,贵州卫视高清
-rtp://239.255.30.98:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/海南卫视.png" ,海南卫视高清
-rtp://239.255.30.99:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/安徽卫视.png" ,安徽卫视高清
-rtp://239.255.30.84:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/河北卫视.png" ,河北卫视高清
-rtp://239.255.30.85:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东南卫视.png" ,东南卫视高清
-rtp://239.255.30.86:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/黑龙江卫视.png" ,黑龙江卫视高清
-rtp://239.255.30.137:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/湖北卫视.png" ,湖北卫视高清
-rtp://239.255.30.138:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/重庆卫视.png" ,重庆卫视高清
-rtp://239.255.30.89:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/云南卫视.png" ,云南卫视高清
-rtp://239.255.29.2:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广西卫视.png" ,广西卫视高清
-rtp://239.255.29.4:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/吉林卫视.png" ,吉林卫视高清
-rtp://239.255.29.5:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/西藏卫视.png" ,西藏卫视高清
-rtp://239.255.29.70:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/新疆卫视.png" ,新疆卫视高清
-rtp://239.255.29.71:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/兵团卫视.png" ,兵团卫视高清
-rtp://239.255.29.72:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/青海卫视.png" ,青海卫视高清
-rtp://239.255.29.73:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山西卫视.png" ,山西卫视高清
-rtp://239.255.29.74:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/陕西卫视.png" ,陕西卫视高清
-rtp://239.255.29.75:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/宁夏卫视.png" ,宁夏卫视高清
-rtp://239.255.29.69:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/三沙卫视.png" ,三沙卫视高清
-rtp://239.255.29.46:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" ,中国教育1高清
-rtp://239.255.30.90:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育2.png" ,中国教育2
-rtp://239.255.30.46:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png" ,中国教育4高清
-rtp://239.255.29.51:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/多彩文体4K.png" ,多彩文体4K
-rtp://239.255.29.7:8231
-#EXTINF:-1 ,测试4K
-rtp://239.255.30.76:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/都市剧场.png" ,都市剧场高清
-rtp://239.255.29.41:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/济南都市.png" ,都市频道
-rtp://239.255.29.22:8231
-#EXTINF:-1 ,多彩文体高清
-rtp://239.255.29.19:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/都市剧场.png" ,都市剧场
-rtp://239.255.30.49:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/卡酷少儿.png" ,卡酷少儿高清
-rtp://239.255.29.38:8231
-#EXTINF:-1 ,哈哈炫动
-rtp://239.255.29.37:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金色学堂.png" ,金色学堂高清
-rtp://239.255.29.23:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/动漫秀场.png" ,动漫秀场高清
-rtp://239.255.29.16:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰卡通.png" ,金鹰卡通
-rtp://239.255.30.38:8231
-#EXTINF:-1 ,卡酷卡通
-rtp://239.255.30.39:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/嘉佳卡通.png" ,嘉佳卡通
-rtp://239.255.30.65:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/游戏风云.png" ,游戏风云高清
-rtp://239.255.29.20:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/购物/东方购物.png" ,东方购物上星高清
-rtp://239.255.29.42:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/生活时尚.png" ,生活时尚高清
-rtp://239.255.29.18:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/乐游.png" ,乐游高清
-rtp://239.255.29.17:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰纪实.png" ,金鹰纪实高清
-rtp://239.255.29.39:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/东方财经.png" ,东方财经高清
-rtp://239.255.29.43:8231
-#EXTINF:-1 ,证券服务
-rtp://239.255.29.6:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/法治天地.png" ,法治天地高清
-rtp://239.255.29.24:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱体育.png" ,爱体育高清
-rtp://239.255.30.115:8231
-#EXTINF:-1 ,绚丽甘肃资讯
-rtp://239.255.30.127:8231
-#EXTINF:-1 ,陇尚生活高清
-rtp://239.255.30.73:8231
-#EXTINF:-1 ,热门综艺高清
-rtp://239.255.30.116:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/戏曲.png" ,戏曲精选高清
-rtp://239.255.30.118:8231
-#EXTINF:-1 ,电竞天堂高清
-rtp://239.255.30.128:8231
-#EXTINF:-1 ,宝宝动画高清
-rtp://239.255.30.151:8231
-#EXTINF:-1 ,青春动漫高清
-rtp://239.255.30.150:8231
-#EXTINF:-1 ,百变课堂高清
-rtp://239.255.30.160:8231
-#EXTINF:-1 ,热门剧场高清
-rtp://239.255.30.100:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/谍战剧场.png" ,谍战剧场高清
-rtp://239.255.30.166:8231
-#EXTINF:-1 ,华语影院高清
-rtp://239.255.30.193:8231
-#EXTINF:-1 ,星光影院高清
-rtp://239.255.30.194:8231
-#EXTINF:-1 ,全球大片高清
-rtp://239.255.30.196:8231
-#EXTINF:-1 ,健康养生高清
-rtp://239.255.30.197:8231
-#EXTINF:-1 ,看天下精选高清
-rtp://239.255.30.217:8231
-#EXTINF:-1 ,电影
-rtp://239.255.30.166:8231
-#EXTINF:-1 ,羽毛球精品赛事
-rtp://239.255.29.31:8231
-#EXTINF:-1 ,IPTV足球
-rtp://239.255.30.102:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/地理.png" ,地理频道
-rtp://239.255.30.53:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱综艺.png" ,爱综艺
-rtp://239.255.30.185:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱体育.png" ,爱体育
-rtp://239.255.30.186:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱电影.png" ,爱电影
-rtp://239.255.30.187:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/爱大剧.png" ,爱大剧
-rtp://239.255.30.188:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/解密.png" ,解密
-rtp://239.255.30.243:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/军事.png" ,军事
-rtp://239.255.30.244:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/国学.png" ,国学
-rtp://239.255.30.245:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/早教.png" ,早教
-rtp://239.255.30.246:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/鉴赏.png" ,鉴赏
-rtp://239.255.30.247:8231
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/墨宝.png" ,墨宝
-rtp://239.255.30.248:8231
+CCTV-1高清,http://192.168.1.1:4022/rtp/239.255.30.101:8231
+CCTV-2高清,http://192.168.1.1:4022/rtp/239.255.30.179:8231
+CCTV-3高清,http://192.168.1.1:4022/rtp/239.255.29.12:8231
+CCTV-4高清,http://192.168.1.1:4022/rtp/239.255.30.83:8231
+CCTV-5高清,http://192.168.1.1:4022/rtp/239.255.29.13:8231
+CCTV-5+高清,http://192.168.1.1:4022/rtp/239.255.30.184:8231
+CCTV-6高清,http://192.168.1.1:4022/rtp/239.255.29.14:8231
+CCTV-7高清,http://192.168.1.1:4022/rtp/239.255.30.178:8231
+CCTV-8高清,http://192.168.1.1:4022/rtp/239.255.29.15:8231
+CCTV-9高清,http://192.168.1.1:4022/rtp/239.255.30.180:8231
+CCTV-10高清,http://192.168.1.1:4022/rtp/239.255.30.181:8231
+CCTV-11高清,http://192.168.1.1:4022/rtp/239.255.30.62:8231
+CCTV-12高清,http://192.168.1.1:4022/rtp/239.255.30.182:8231
+CCTV-13高清,http://192.168.1.1:4022/rtp/239.255.29.28:8231
+CCTV-14高清,http://192.168.1.1:4022/rtp/239.255.30.183:8231
+CCTV-15高清,http://192.168.1.1:4022/rtp/239.255.30.68:8231
+CCTV-16高清,http://192.168.1.1:4022/rtp/239.255.30.88:8231
+CCTV-17高清,http://192.168.1.1:4022/rtp/239.255.30.96:8231
+CCTV-4K,http://192.168.1.1:4022/rtp/239.255.29.54:8231
+甘肃卫视高清,http://192.168.1.1:4022/rtp/239.255.30.249:8231
+文化影视高清,http://192.168.1.1:4022/rtp/239.255.30.250:8231
+公共应急高清,http://192.168.1.1:4022/rtp/239.255.30.251:8231
+甘肃科教高清,http://192.168.1.1:4022/rtp/239.255.30.252:8231
+甘肃少儿高清,http://192.168.1.1:4022/rtp/239.255.30.254:8231
+兰州文旅频道,http://192.168.1.1:4022/rtp/239.255.30.108:8231
+兰州新闻频道,http://192.168.1.1:4022/rtp/239.255.30.107:8231
+武威综合,http://192.168.1.1:4022/rtp/239.255.30.103:8231
+凉州频道,http://192.168.1.1:4022/rtp/239.255.30.105:8231
+民勤综合,http://192.168.1.1:4022/rtp/239.255.30.52:8231
+天祝综合,http://192.168.1.1:4022/rtp/239.255.30.223:8231
+古浪综合,http://192.168.1.1:4022/rtp/239.255.30.82:8231
+金昌综合,http://192.168.1.1:4022/rtp/239.255.30.119:8231
+金川综合,http://192.168.1.1:4022/rtp/239.255.30.92:8231
+民乐综合,http://192.168.1.1:4022/rtp/239.255.30.228:8231
+山丹综合,http://192.168.1.1:4022/rtp/239.255.30.229:8231
+临泽综合,http://192.168.1.1:4022/rtp/239.255.29.40:8231
+甘州综合,http://192.168.1.1:4022/rtp/239.255.29.33:8231
+张掖新闻,http://192.168.1.1:4022/rtp/239.255.30.189:8231
+张掖农村,http://192.168.1.1:4022/rtp/239.255.30.190:8231
+会宁综合,http://192.168.1.1:4022/rtp/239.255.30.72:8231
+靖远综合,http://192.168.1.1:4022/rtp/239.255.30.78:8231
+平川综合,http://192.168.1.1:4022/rtp/239.255.30.81:8231
+永登综合,http://192.168.1.1:4022/rtp/239.255.30.93:8231
+景泰综合,http://192.168.1.1:4022/rtp/239.255.30.97:8231
+合水综合,http://192.168.1.1:4022/rtp/239.255.30.93:8231
+凤凰卫视,http://192.168.1.1:4022/rtp/239.255.30.50:8231
+凤凰资讯,http://192.168.1.1:4022/rtp/239.255.30.70:8231
+凤凰香港,http://192.168.1.1:4022/rtp/239.255.30.123:8231
+北京卫视4K,http://192.168.1.1:4022/rtp/239.255.29.53:8231
+广东卫视4K,http://192.168.1.1:4022/rtp/239.255.30.153:8231
+深圳卫视4K,http://192.168.1.1:4022/rtp/239.255.30.152:8231
+东方卫视4K,http://192.168.1.1:4022/rtp/239.255.29.79:8231
+湖南卫视4K,http://192.168.1.1:4022/rtp/239.255.29.76:8231
+江苏卫视4K,http://192.168.1.1:4022/rtp/239.255.29.77:8231
+浙江卫视4K,http://192.168.1.1:4022/rtp/239.255.29.78:8231
+四川卫视4K,http://192.168.1.1:4022/rtp/239.255.29.80:8231
+山东卫视4K,http://192.168.1.1:4022/rtp/239.255.29.81:8231
+东方卫视高清,http://192.168.1.1:4022/rtp/239.255.30.130:8231
+湖南卫视高清,http://192.168.1.1:4022/rtp/239.255.30.136:8231
+江苏卫视高清,http://192.168.1.1:4022/rtp/239.255.30.131:8231
+浙江卫视高清,http://192.168.1.1:4022/rtp/239.255.30.132:8231
+北京卫视高清,http://192.168.1.1:4022/rtp/239.255.30.133:8231
+广东卫视高清,http://192.168.1.1:4022/rtp/239.255.30.134:8231
+深圳卫视高清,http://192.168.1.1:4022/rtp/239.255.30.135:8231
+四川卫视高清,http://192.168.1.1:4022/rtp/239.255.30.91:8231
+河南卫视高清,http://192.168.1.1:4022/rtp/239.255.29.3:8231
+山东卫视高清,http://192.168.1.1:4022/rtp/239.255.30.139:8231
+天津卫视高清,http://192.168.1.1:4022/rtp/239.255.30.67:8231
+辽宁卫视高清,http://192.168.1.1:4022/rtp/239.255.30.69:8231
+江西卫视高清,http://192.168.1.1:4022/rtp/239.255.30.71:8231
+贵州卫视高清,http://192.168.1.1:4022/rtp/239.255.30.98:8231
+海南卫视高清,http://192.168.1.1:4022/rtp/239.255.30.99:8231
+安徽卫视高清,http://192.168.1.1:4022/rtp/239.255.30.84:8231
+河北卫视高清,http://192.168.1.1:4022/rtp/239.255.30.85:8231
+东南卫视高清,http://192.168.1.1:4022/rtp/239.255.30.86:8231
+黑龙江卫视高清,http://192.168.1.1:4022/rtp/239.255.30.137:8231
+湖北卫视高清,http://192.168.1.1:4022/rtp/239.255.30.138:8231
+重庆卫视高清,http://192.168.1.1:4022/rtp/239.255.30.89:8231
+云南卫视高清,http://192.168.1.1:4022/rtp/239.255.29.2:8231
+广西卫视高清,http://192.168.1.1:4022/rtp/239.255.29.4:8231
+吉林卫视高清,http://192.168.1.1:4022/rtp/239.255.29.5:8231
+西藏卫视高清,http://192.168.1.1:4022/rtp/239.255.29.70:8231
+新疆卫视高清,http://192.168.1.1:4022/rtp/239.255.29.71:8231
+兵团卫视高清,http://192.168.1.1:4022/rtp/239.255.29.72:8231
+青海卫视高清,http://192.168.1.1:4022/rtp/239.255.29.73:8231
+山西卫视高清,http://192.168.1.1:4022/rtp/239.255.29.74:8231
+陕西卫视高清,http://192.168.1.1:4022/rtp/239.255.29.75:8231
+宁夏卫视高清,http://192.168.1.1:4022/rtp/239.255.29.69:8231
+三沙卫视高清,http://192.168.1.1:4022/rtp/239.255.29.46:8231
+中国教育1高清,http://192.168.1.1:4022/rtp/239.255.30.90:8231
+中国教育2,http://192.168.1.1:4022/rtp/239.255.30.46:8231
+中国教育4高清,http://192.168.1.1:4022/rtp/239.255.29.51:8231
+多彩文体4K,http://192.168.1.1:4022/rtp/239.255.29.7:8231
+测试4K,http://192.168.1.1:4022/rtp/239.255.30.76:8231
+都市剧场高清,http://192.168.1.1:4022/rtp/239.255.29.41:8231
+都市频道,http://192.168.1.1:4022/rtp/239.255.29.22:8231
+多彩文体高清,http://192.168.1.1:4022/rtp/239.255.29.19:8231
+都市剧场,http://192.168.1.1:4022/rtp/239.255.30.49:8231
+卡酷少儿高清,http://192.168.1.1:4022/rtp/239.255.29.38:8231
+哈哈炫动,http://192.168.1.1:4022/rtp/239.255.29.37:8231
+金色学堂高清,http://192.168.1.1:4022/rtp/239.255.29.23:8231
+动漫秀场高清,http://192.168.1.1:4022/rtp/239.255.29.16:8231
+金鹰卡通,http://192.168.1.1:4022/rtp/239.255.30.38:8231
+卡酷卡通,http://192.168.1.1:4022/rtp/239.255.30.39:8231
+嘉佳卡通,http://192.168.1.1:4022/rtp/239.255.30.65:8231
+游戏风云高清,http://192.168.1.1:4022/rtp/239.255.29.20:8231
+东方购物上星高清,http://192.168.1.1:4022/rtp/239.255.29.42:8231
+生活时尚高清,http://192.168.1.1:4022/rtp/239.255.29.18:8231
+乐游高清,http://192.168.1.1:4022/rtp/239.255.29.17:8231
+金鹰纪实高清,http://192.168.1.1:4022/rtp/239.255.29.39:8231
+东方财经高清,http://192.168.1.1:4022/rtp/239.255.29.43:8231
+证券服务,http://192.168.1.1:4022/rtp/239.255.29.6:8231
+法治天地高清,http://192.168.1.1:4022/rtp/239.255.29.24:8231
+爱体育高清,http://192.168.1.1:4022/rtp/239.255.30.115:8231
+绚丽甘肃资讯,http://192.168.1.1:4022/rtp/239.255.30.127:8231
+陇尚生活高清,http://192.168.1.1:4022/rtp/239.255.30.73:8231
+热门综艺高清,http://192.168.1.1:4022/rtp/239.255.30.116:8231
+戏曲精选高清,http://192.168.1.1:4022/rtp/239.255.30.118:8231
+电竞天堂高清,http://192.168.1.1:4022/rtp/239.255.30.128:8231
+宝宝动画高清,http://192.168.1.1:4022/rtp/239.255.30.151:8231
+青春动漫高清,http://192.168.1.1:4022/rtp/239.255.30.150:8231
+百变课堂高清,http://192.168.1.1:4022/rtp/239.255.30.160:8231
+热门剧场高清,http://192.168.1.1:4022/rtp/239.255.30.100:8231
+谍战剧场高清,http://192.168.1.1:4022/rtp/239.255.30.166:8231
+华语影院高清,http://192.168.1.1:4022/rtp/239.255.30.193:8231
+星光影院高清,http://192.168.1.1:4022/rtp/239.255.30.194:8231
+全球大片高清,http://192.168.1.1:4022/rtp/239.255.30.196:8231
+健康养生高清,http://192.168.1.1:4022/rtp/239.255.30.197:8231
+看天下精选高清,http://192.168.1.1:4022/rtp/239.255.30.217:8231
+电影,http://192.168.1.1:4022/rtp/239.255.30.166:8231
+羽毛球精品赛事,http://192.168.1.1:4022/rtp/239.255.29.31:8231
+IPTV足球,http://192.168.1.1:4022/rtp/239.255.30.102:8231
+地理频道,http://192.168.1.1:4022/rtp/239.255.30.53:8231
+爱综艺,http://192.168.1.1:4022/rtp/239.255.30.185:8231
+爱体育,http://192.168.1.1:4022/rtp/239.255.30.186:8231
+爱电影,http://192.168.1.1:4022/rtp/239.255.30.187:8231
+爱大剧,http://192.168.1.1:4022/rtp/239.255.30.188:8231
+解密,http://192.168.1.1:4022/rtp/239.255.30.243:8231
+军事,http://192.168.1.1:4022/rtp/239.255.30.244:8231
+国学,http://192.168.1.1:4022/rtp/239.255.30.245:8231
+早教,http://192.168.1.1:4022/rtp/239.255.30.246:8231
+鉴赏,http://192.168.1.1:4022/rtp/239.255.30.247:8231
+墨宝,http://192.168.1.1:4022/rtp/239.255.30.248:8231
