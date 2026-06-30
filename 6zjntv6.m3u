@@ -228,25 +228,32 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226144/i
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226831/index.m3u8
 #EXTINF:-1
-tvg-logo="https://live.404003.xyz/LOGO/睛彩广场舞.png"  group-title="晴彩频道",晴彩广场舞 
+tvg-logo="https://live.404003.xyz/LOGO/睛彩广场舞.png"
+group-title="晴彩频道",晴彩广场舞 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226828/index.m3u8
 #EXTINF:-1
-tvg-logo="https://live.404003.xyz/LOGO/睛彩广场舞.png" group-title="晴彩频道",晴彩广场舞  
+tvg-logo="https://live.404003.xyz/LOGO/睛彩广场舞.png"
+group-title="晴彩频道",晴彩广场舞  
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226913/index.m3u8
 #EXTINF:-1 
-tvg-logo="https://live.404003.xyz/LOGO/睛彩竞技.png" group-title="晴彩频道",晴彩竞技 
+tvg-logo="https://live.404003.xyz/LOGO/睛彩竞技.png"
+group-title="晴彩频道",晴彩竞技 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226151/index.m3u8
 #EXTINF:-1
-tvg-logo="https://live.404003.xyz/LOGO/睛彩竞技.png"  group-title="晴彩频道",晴彩竞技 
+tvg-logo="https://live.404003.xyz/LOGO/睛彩竞技.png"
+group-title="晴彩频道",晴彩竞技 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226498/index.m3u8
 #EXTINF:-1 
-tvg-logo="https://live.404003.xyz/LOGO/睛彩竞技.png" group-title="晴彩频道",晴彩竞技 
+tvg-logo="https://live.404003.xyz/LOGO/睛彩竞技.png"
+group-title="晴彩频道",晴彩竞技 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226504/index.m3u8
 #EXTINF:-1
-tvg-logo="https://live.404003.xyz/LOGO/睛彩篮球.png"  group-title="晴彩频道",晴彩篮球 
+tvg-logo="https://live.404003.xyz/LOGO/睛彩篮球.png"
+group-title="晴彩频道",晴彩篮球 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226506/index.m3u8
 #EXTINF:-1
-tvg-logo="https://live.404003.xyz/LOGO/睛彩篮球.png"  group-title="晴彩频道",晴彩篮球 
+tvg-logo="https://live.404003.xyz/LOGO/睛彩篮球.png"
+group-title="晴彩频道",晴彩篮球 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界1
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226188/index.m3u8
