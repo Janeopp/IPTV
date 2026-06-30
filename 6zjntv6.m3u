@@ -165,7 +165,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226774/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226742/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226759/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视新闻综合
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃卫视.png" group-title="甘肃频道",甘肃卫视新闻综合
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226788/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226180/index.m3u8
@@ -210,9 +210,9 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226847/i
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226805/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226207/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226764/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
