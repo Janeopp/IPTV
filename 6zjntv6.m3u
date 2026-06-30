@@ -57,10 +57,14 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226616/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226819/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" group-title="央视频道",CCTV-16
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" group-title="央视频道",CETV1
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" group-title="央视频道",CETV-1
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226883/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png" group-title="央视频道",CETV4
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png" group-title="央视频道",CETV-4
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226802/index.m3u8
+#EXTINF:-1 tvg-id="兰州新闻综合" tvg-name="兰州新闻综合" tvg-logo="https://live.404003.xyz/LOGO/兰州新闻综合.png" group-title="甘肃频道",兰州新闻综合
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226788/index.m3u8
+#EXTINF:-1 tvg-id="兰州文旅频道" tvg-name="兰州文旅频道" tvg-logo="https://live.404003.xyz/LOGO/兰州文旅频道.png" group-title="甘肃频道",兰州文旅频道
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226869/index.m3u8
 #EXTINF:-1 group-title="甘肃频道",阿克塞
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226790/index.m3u8
 #EXTINF:-1 group-title="甘肃频道",定西文旅生活
@@ -89,8 +93,6 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226865/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226784/index.m3u8
 #EXTINF:-1 group-title="甘肃频道",酒泉文旅
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226867/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",兰州文旅频道
-http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226869/index.m3u8
 #EXTINF:-1 group-title="甘肃频道",凉州
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226911/index.m3u8
 #EXTINF:-1 group-title="甘肃频道",灵台
