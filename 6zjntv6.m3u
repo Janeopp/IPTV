@@ -73,8 +73,6 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226746/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226829/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃文化影视.png" group-title="甘肃频道",甘肃文化影视
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226827/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",甘肃移动
-http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226863/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="高清4K频道",CCTV-4K
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226885/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="高清4K频道",北京卫视4K
@@ -229,87 +227,83 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226750/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226144/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226831/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/购物/东方购物.png" group-title="购物频道",东方购物
-http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226691/index.m3u8
-#EXTINF:-1 group-title="晴彩频道",晴彩广场舞
+#EXTINF:-1 group-title="晴彩频道",晴彩广场舞 tvg-logo="https://live.404003.xyz/LOGO/睛彩广场舞.png" 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1 group-title="晴彩频道",晴彩广场舞
+#EXTINF:-1 group-title="晴彩频道",晴彩广场舞 tvg-logo="https://live.404003.xyz/LOGO/睛彩广场舞.png" 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226913/index.m3u8
-#EXTINF:-1 group-title="晴彩频道",晴彩竞技
+#EXTINF:-1 group-title="晴彩频道",晴彩竞技 tvg-logo="https://live.404003.xyz/LOGO/睛彩竞技.png" 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226151/index.m3u8
-#EXTINF:-1 group-title="晴彩频道",晴彩竞技
+#EXTINF:-1 group-title="晴彩频道",晴彩竞技 tvg-logo="https://live.404003.xyz/LOGO/睛彩竞技.png" 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226498/index.m3u8
-#EXTINF:-1 group-title="晴彩频道",晴彩竞技
+#EXTINF:-1 group-title="晴彩频道",晴彩竞技 tvg-logo="https://live.404003.xyz/LOGO/睛彩竞技.png" 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226504/index.m3u8
-#EXTINF:-1 group-title="晴彩频道",晴彩篮球
+#EXTINF:-1 group-title="晴彩频道",晴彩篮球 tvg-logo="https://live.404003.xyz/LOGO/睛彩篮球.png" 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226506/index.m3u8
-#EXTINF:-1 group-title="晴彩频道",晴彩篮球
+#EXTINF:-1 group-title="晴彩频道",晴彩篮球 tvg-logo="https://live.404003.xyz/LOGO/睛彩篮球.png" 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界1
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226188/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界2
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226190/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界3
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226192/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界4
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226194/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界5
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226196/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界6
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226215/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界7
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226217/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界8
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226219/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界9
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226221/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界10
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226223/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界11
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226225/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界12
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226229/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界13
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226231/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界14
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226326/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界15
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226328/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界16
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226351/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界17
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界18
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226355/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界19
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226357/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界20
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226359/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界21
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226363/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界22
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226365/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界23
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226367/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界24
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226401/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界25
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226403/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界26
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226494/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界27
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226496/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界28
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226500/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界29
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226591/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界30
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226593/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界.png" group-title="咪视界",咪视界31
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226595/index.m3u8
-#EXTINF:-1 group-title="甘肃频道",华亭
-http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226871/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/金鹰卡通.png" group-title="卫视频道",金鹰卡通
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226703/index.m3u8
-#EXTINF:-1 group-title="晴彩频道",晴彩青少
+#EXTINF:-1 group-title="晴彩频道",晴彩青少 tvg-logo="https://live.404003.xyz/LOGO/睛彩青少.png" 
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226340/index.m3u8
