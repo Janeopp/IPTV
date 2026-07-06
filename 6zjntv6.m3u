@@ -729,3 +729,79 @@ http://39.134.32.167:6610/270000001128/9900000105/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000112/index.m3u8?channel-id=newtv&Contentid=9900000112&livemode=1
 #EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://live.404003.xyz/LOGO/惊悚悬疑.png" group-title="NewTV",惊悚悬疑
 http://39.134.32.167:6610/270000001128/9900000113/index.m3u8?channel-id=newtv&Contentid=9900000113&livemode=1
+
+
+#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://live.404003.xyz/LOGO/天祝.png" group-title="地方",天祝
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226909/index.m3u8
+#EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://live.404003.xyz/LOGO/凉州.png" group-title="地方",凉州
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226911/index.m3u8
+#EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://live.404003.xyz/LOGO/灵台.png" group-title="地方",灵台
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226915/index.m3u8
+#EXTINF:-1 tvg-id="玉门" tvg-name="玉门" tvg-logo="https://live.404003.xyz/LOGO/玉门.png" group-title="地方",玉门
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-id="敦煌" tvg-name="敦煌" tvg-logo="https://live.404003.xyz/LOGO/敦煌.png" group-title="地方",敦煌
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226875/index.m3u8
+#EXTINF:-1 tvg-id="安定" tvg-name="安定" tvg-logo="https://live.404003.xyz/LOGO/安定.png" group-title="地方",安定
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226873/index.m3u8
+#EXTINF:-1 tvg-id="金塔" tvg-name="金塔" tvg-logo="https://live.404003.xyz/LOGO/金塔.png" group-title="地方",金塔
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226865/index.m3u8
+#EXTINF:-1 tvg-id="武威" tvg-name="武威" tvg-logo="https://live.404003.xyz/LOGO/武威.png" group-title="地方",武威
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226826/index.m3u8
+#EXTINF:-1 tvg-id="嘉峪关" tvg-name="嘉峪关" tvg-logo="https://live.404003.xyz/LOGO/嘉峪关.png" group-title="地方",嘉峪关
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226818/index.m3u8
+#EXTINF:-1 tvg-id="庄浪" tvg-name="庄浪" tvg-logo="https://live.404003.xyz/LOGO/庄浪.png" group-title="地方",庄浪
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1 tvg-id="金昌" tvg-name="金昌" tvg-logo="https://live.404003.xyz/LOGO/金昌.png" group-title="地方",金昌
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226782/index.m3u8
+#EXTINF:-1 tvg-id="酒泉" tvg-name="酒泉" tvg-logo="https://live.404003.xyz/LOGO/酒泉.png" group-title="地方",酒泉
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226784/index.m3u8
+#EXTINF:-1 tvg-id="崆峒" tvg-name="崆峒" tvg-logo="https://live.404003.xyz/LOGO/崆峒.png" group-title="地方",崆峒
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226786/index.m3u8
+#EXTINF:-1 tvg-id="平凉" tvg-name="平凉" tvg-logo="https://live.404003.xyz/LOGO/平凉.png" group-title="地方",平凉
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226792/index.m3u8
+#EXTINF:-1 tvg-id="肃州" tvg-name="肃州" tvg-logo="https://live.404003.xyz/LOGO/肃州.png" group-title="地方",肃州
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226907/index.m3u8
+#EXTINF:-1 tvg-id="定西" tvg-name="定西" tvg-logo="https://live.404003.xyz/LOGO/定西.png" group-title="地方",定西
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226903/index.m3u8
+#EXTINF:-1 tvg-id="泾川" tvg-name="泾川" tvg-logo="https://live.404003.xyz/LOGO/泾川.png" group-title="地方",泾川
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226901/index.m3u8
+#EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://live.404003.xyz/LOGO/岷县.png" group-title="地方",岷县
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226877/index.m3u8
+
+#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://live.404003.xyz/LOGO/天祝.png" group-title="地方",天祝
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226909/index.m3u8
+#EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://live.404003.xyz/LOGO/凉州.png" group-title="地方",凉州
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226911/index.m3u8
+#EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://live.404003.xyz/LOGO/灵台.png" group-title="地方",灵台
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226915/index.m3u8
+#EXTINF:-1 tvg-id="玉门" tvg-name="玉门" tvg-logo="https://live.404003.xyz/LOGO/玉门.png" group-title="地方",玉门
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-id="敦煌" tvg-name="敦煌" tvg-logo="https://live.404003.xyz/LOGO/敦煌.png" group-title="地方",敦煌
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226875/index.m3u8
+#EXTINF:-1 tvg-id="安定" tvg-name="安定" tvg-logo="https://live.404003.xyz/LOGO/安定.png" group-title="地方",安定
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226873/index.m3u8
+#EXTINF:-1 tvg-id="金塔" tvg-name="金塔" tvg-logo="https://live.404003.xyz/LOGO/金塔.png" group-title="地方",金塔
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226865/index.m3u8
+#EXTINF:-1 tvg-id="武威" tvg-name="武威" tvg-logo="https://live.404003.xyz/LOGO/武威.png" group-title="地方",武威
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226826/index.m3u8
+#EXTINF:-1 tvg-id="嘉峪关" tvg-name="嘉峪关" tvg-logo="https://live.404003.xyz/LOGO/嘉峪关.png" group-title="地方",嘉峪关
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226818/index.m3u8
+#EXTINF:-1 tvg-id="庄浪" tvg-name="庄浪" tvg-logo="https://live.404003.xyz/LOGO/庄浪.png" group-title="地方",庄浪
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1 tvg-id="金昌" tvg-name="金昌" tvg-logo="https://live.404003.xyz/LOGO/金昌.png" group-title="地方",金昌
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226782/index.m3u8
+#EXTINF:-1 tvg-id="酒泉" tvg-name="酒泉" tvg-logo="https://live.404003.xyz/LOGO/酒泉.png" group-title="地方",酒泉
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226784/index.m3u8
+#EXTINF:-1 tvg-id="崆峒" tvg-name="崆峒" tvg-logo="https://live.404003.xyz/LOGO/崆峒.png" group-title="地方",崆峒
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226786/index.m3u8
+#EXTINF:-1 tvg-id="平凉" tvg-name="平凉" tvg-logo="https://live.404003.xyz/LOGO/平凉.png" group-title="地方",平凉
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226792/index.m3u8
+#EXTINF:-1 tvg-id="肃州" tvg-name="肃州" tvg-logo="https://live.404003.xyz/LOGO/肃州.png" group-title="地方",肃州
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226907/index.m3u8
+#EXTINF:-1 tvg-id="定西" tvg-name="定西" tvg-logo="https://live.404003.xyz/LOGO/定西.png" group-title="地方",定西
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226903/index.m3u8
+#EXTINF:-1 tvg-id="泾川" tvg-name="泾川" tvg-logo="https://live.404003.xyz/LOGO/泾川.png" group-title="地方",泾川
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226901/index.m3u8
+#EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://live.404003.xyz/LOGO/岷县.png" group-title="地方",岷县
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226877/index.m3u8
+
