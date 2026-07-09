@@ -91,7 +91,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226891/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226810/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视4K.png" group-title="高清4K频道",四川卫视4K
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226893/index.m3u8
-#EXTINF:-1 group-title="高清4K频道",央视频4K
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界4K.png" group-title="高清4K频道",咪视界4K
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226227/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视4K.png" group-title="高清4K频道",浙江卫视4K
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226812/index.m3u8
@@ -398,7 +398,7 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226891/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226810/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视4K.png" group-title="高清4K频道",四川卫视4K
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226893/index.m3u8
-#EXTINF:-1 group-title="高清4K频道",央视频4K
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/咪视界4K.png" group-title="高清4K频道",咪视界4K
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226227/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/浙江卫视4K.png" group-title="高清4K频道",浙江卫视4K
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226812/index.m3u8
