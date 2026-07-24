@@ -72,7 +72,9 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226746/i
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃少儿.png" group-title="甘肃频道",甘肃少儿
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226829/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃文化影视.png" group-title="甘肃频道",甘肃文化影视
-http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226827/index.m3u8
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226829/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃移动.png" group-title="甘肃频道",甘肃移动
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226863/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="高清4K频道",CCTV-4K
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226885/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="高清4K频道",北京卫视4K
@@ -380,6 +382,8 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226746/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226829/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃文化影视.png" group-title="甘肃频道",甘肃文化影视
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226827/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃移动.png" group-title="甘肃频道",甘肃移动
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226863/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="高清4K频道",CCTV-4K
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226885/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="高清4K频道",北京卫视4K
@@ -731,8 +735,8 @@ http://39.134.32.167:6610/270000001128/9900000112/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000113/index.m3u8?channel-id=newtv&Contentid=9900000113&livemode=1
 
 
-#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://live.404003.xyz/LOGO/天祝.png" group-title="省内频道",天祝
-http://39.134.39.39/000000001000PLTV/88888888/224/3221226909/index.m3u8
+#EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://live.404003.xyz/LOGO/临洮.png" group-title="省内频道",临洮
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226905/index.m3u8
 #EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://live.404003.xyz/LOGO/凉州.png" group-title="省内频道",凉州
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226911/index.m3u8
 #EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://live.404003.xyz/LOGO/灵台.png" group-title="省内频道",灵台
@@ -767,9 +771,13 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226903/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226901/index.m3u8
 #EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://live.404003.xyz/LOGO/岷县.png" group-title="省内频道",岷县
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226877/index.m3u8
+#EXTINF:-1 tvg-id="酒泉文旅" tvg-name="酒泉文旅" tvg-logo="https://live.404003.xyz/LOGO/酒泉文旅.png" group-title="省内频道",酒泉文旅
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226867/index.m3u8
+#EXTINF:-1 tvg-id="华亭" tvg-name="华亭" tvg-logo="https://live.404003.xyz/LOGO/华亭.png" group-title="省内频道",华亭
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226871/index.m3u8
 
-#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://live.404003.xyz/LOGO/天祝.png" group-title="省内频道",天祝
-http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226909/index.m3u8
+#EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://live.404003.xyz/LOGO/临洮.png" group-title="省内频道",临洮
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226905/index.m3u8
 #EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://live.404003.xyz/LOGO/凉州.png" group-title="省内频道",凉州
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226911/index.m3u8
 #EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://live.404003.xyz/LOGO/灵台.png" group-title="省内频道",灵台
@@ -804,6 +812,10 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226903/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226901/index.m3u8
 #EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://live.404003.xyz/LOGO/岷县.png" group-title="省内频道",岷县
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226877/index.m3u8
+#EXTINF:-1 tvg-id="酒泉文旅" tvg-name="酒泉文旅" tvg-logo="https://live.404003.xyz/LOGO/酒泉文旅.png" group-title="省内频道",酒泉文旅
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226867/index.m3u8
+#EXTINF:-1 tvg-id="华亭" tvg-name="华亭" tvg-logo="https://live.404003.xyz/LOGO/华亭.png" group-title="省内频道",华亭
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226871/index.m3u8
 
 
 
