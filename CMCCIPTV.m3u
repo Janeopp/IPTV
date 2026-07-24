@@ -775,6 +775,16 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226877/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226867/index.m3u8
 #EXTINF:-1 tvg-id="华亭" tvg-name="华亭" tvg-logo="https://live.404003.xyz/LOGO/华亭.png" group-title="省内频道",华亭
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226871/index.m3u8
+#EXTINF:-1 tvg-id="阿克赛" tvg-name="阿克赛" tvg-logo="https://live.404003.xyz/LOGO/阿克赛.png" group-title="省内频道",阿克赛
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226790/index.m3u8
+#EXTINF:-1 tvg-id="陇西" tvg-name="陇西" tvg-logo="https://live.404003.xyz/LOGO/陇西.png" group-title="省内频道",陇西
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226794/index.m3u8
+#EXTINF:-1 tvg-id="肃北" tvg-name="肃北" tvg-logo="https://live.404003.xyz/LOGO/肃北.png" group-title="省内频道",肃北
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226796/index.m3u8
+#EXTINF:-1 tvg-id="武都" tvg-name="武都" tvg-logo="https://live.404003.xyz/LOGO/武都.png" group-title="省内频道",武都
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226798/index.m3u8
+#EXTINF:-1 tvg-id="定西文旅生活" tvg-name="定西文旅生活" tvg-logo="https://live.404003.xyz/LOGO/定西文旅生活.png" group-title="省内频道",定西文旅生活
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226820/index.m3u8
 
 #EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://live.404003.xyz/LOGO/临洮.png" group-title="省内频道",临洮
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226905/index.m3u8
@@ -816,6 +826,16 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226877/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226867/index.m3u8
 #EXTINF:-1 tvg-id="华亭" tvg-name="华亭" tvg-logo="https://live.404003.xyz/LOGO/华亭.png" group-title="省内频道",华亭
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226871/index.m3u8
+#EXTINF:-1 tvg-id="阿克赛" tvg-name="阿克赛" tvg-logo="https://live.404003.xyz/LOGO/阿克赛.png" group-title="省内频道",阿克赛
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226790/index.m3u8
+#EXTINF:-1 tvg-id="陇西" tvg-name="陇西" tvg-logo="https://live.404003.xyz/LOGO/陇西.png" group-title="省内频道",陇西
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226794/index.m3u8
+#EXTINF:-1 tvg-id="肃北" tvg-name="肃北" tvg-logo="https://live.404003.xyz/LOGO/肃北.png" group-title="省内频道",肃北
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226796/index.m3u8
+#EXTINF:-1 tvg-id="武都" tvg-name="武都" tvg-logo="https://live.404003.xyz/LOGO/武都.png" group-title="省内频道",武都
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226798/index.m3u8
+#EXTINF:-1 tvg-id="定西文旅生活" tvg-name="定西文旅生活" tvg-logo="https://live.404003.xyz/LOGO/定西文旅生活.png" group-title="省内频道",定西文旅生活
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226820/index.m3u8
 
 
 
