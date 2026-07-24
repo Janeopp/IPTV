@@ -971,9 +971,9 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000020/index.m3u8?channel
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000021/index.m3u8?channel-id=newtv&Contentid=9900000021&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/超级电视剧.png" group-title="NewTV频道",超级电视剧
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000022/index.m3u8?channel-id=newtv&Contentid=9900000022&livemode=1
-#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/CETV2.png" group-title="央视频道",CETV-2
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育2.png"  group-title="央视频道",CETV-2
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000071/index.m3u8?channel-id=newtv&Contentid=9900000071&livemode=1
-#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/CETV4.png" group-title="央视频道",CETV-4
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png"  group-title="央视频道",CETV-4
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000072/index.m3u8?channel-id=newtv&Contentid=9900000072&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/藏语频道.png" group-title="卫视频道",藏语频道
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000093/index.m3u8?channel-id=newtv&Contentid=9900000093&livemode=1
@@ -1199,9 +1199,9 @@ http://39.134.32.167:6610/270000001128/9900000020/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000021/index.m3u8?channel-id=newtv&Contentid=9900000021&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/超级电视剧.png" group-title="NewTV频道",超级电视剧
 http://39.134.32.167:6610/270000001128/9900000022/index.m3u8?channel-id=newtv&Contentid=9900000022&livemode=1
-#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/CETV2.png" group-title="央视频道",CETV-2
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育2.png"  group-title="央视频道",CETV-2
 http://39.134.32.167:6610/270000001128/9900000071/index.m3u8?channel-id=newtv&Contentid=9900000071&livemode=1
-#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/CETV4.png" group-title="央视频道",CETV-4
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png"  group-title="央视频道",CETV-4
 http://39.134.32.167:6610/270000001128/9900000072/index.m3u8?channel-id=newtv&Contentid=9900000072&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/藏语频道.png" group-title="卫视频道",藏语频道
 http://39.134.32.167:6610/270000001128/9900000093/index.m3u8?channel-id=newtv&Contentid=9900000093&livemode=1
