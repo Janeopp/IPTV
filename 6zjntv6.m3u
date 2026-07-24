@@ -57,6 +57,8 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226616/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226819/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" group-title="央视频道",CCTV-16
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" group-title="央视频道",CCTV-17
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226823/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" group-title="央视频道",CETV-1
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226883/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png" group-title="央视频道",CETV-4
@@ -366,6 +368,8 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226616/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226819/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" group-title="央视频道",CCTV-16
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" group-title="央视频道",CCTV-17
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226823/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" group-title="央视频道",CETV-1
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226883/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育4.png" group-title="央视频道",CETV-4
@@ -785,6 +789,8 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226796/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226798/index.m3u8
 #EXTINF:-1 tvg-id="定西文旅生活" tvg-name="定西文旅生活" tvg-logo="https://live.404003.xyz/LOGO/定西文旅生活.png" group-title="省内频道",定西文旅生活
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226820/index.m3u8
+#EXTINF:-1 tvg-id="民勤" tvg-name="民勤" tvg-logo="https://live.404003.xyz/LOGO/民勤.png" group-title="省内频道",民勤
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226822/index.m3u8
 
 #EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://live.404003.xyz/LOGO/临洮.png" group-title="省内频道",临洮
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226905/index.m3u8
@@ -836,6 +842,8 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226796/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226798/index.m3u8
 #EXTINF:-1 tvg-id="定西文旅生活" tvg-name="定西文旅生活" tvg-logo="https://live.404003.xyz/LOGO/定西文旅生活.png" group-title="省内频道",定西文旅生活
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226820/index.m3u8
+#EXTINF:-1 tvg-id="民勤" tvg-name="民勤" tvg-logo="https://live.404003.xyz/LOGO/民勤.png" group-title="省内频道",民勤
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226822/index.m3u8
 
 
 
