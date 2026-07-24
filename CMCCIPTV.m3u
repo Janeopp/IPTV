@@ -1295,3 +1295,10 @@ http://39.134.32.167:6610/270000001128/9900000120/index.m3u8?channel-id=newtv&Co
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.404003.xyz/LOGO/睛彩广场舞.png" group-title="晴彩频道",睛彩广场舞
 http://39.134.32.167:6610/270000001128/9900000532/index.m3u8?channel-id=newtv&Contentid=9900000532&livemode=1
 
+
+#EXTINF:-1 tvg-id="BesTV直播" tvg-name="BesTV直播" tvg-logo="https://live.404003.xyz/LOGO/BesTV.png" group-title="BesTV频道",BesTV直播
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226132/index.m3u8
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226132/index.m3u8
+
+
+
