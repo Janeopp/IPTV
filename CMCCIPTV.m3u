@@ -1009,7 +1009,7 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000083/index.m3u8?channel
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000084/index.m3u8?channel-id=newtv&Contentid=9900000084&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/东北热剧.png" group-title="NewTV频道",东北热剧
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000092/index.m3u8?channel-id=newtv&Contentid=9900000092&livemode=1
-#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/高尔夫.png" group-title="央视频道",高尔夫
+#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/CCTV高尔夫网球.png" group-title="央视频道",高尔夫
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000094/index.m3u8?channel-id=newtv&Contentid=9900000094&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/精品萌宠.png" group-title="NewTV频道",精品萌宠
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000122/index.m3u8?channel-id=newtv&Contentid=9900000122&livemode=1
@@ -1237,7 +1237,7 @@ http://39.134.32.167:6610/270000001128/9900000083/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000084/index.m3u8?channel-id=newtv&Contentid=9900000084&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/东北热剧.png" group-title="NewTV频道",东北热剧
 http://39.134.32.167:6610/270000001128/9900000092/index.m3u8?channel-id=newtv&Contentid=9900000092&livemode=1
-#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/高尔夫.png" group-title="央视频道",高尔夫
+#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/CCTV高尔夫网球.png" group-title="央视频道",高尔夫
 http://39.134.32.167:6610/270000001128/9900000094/index.m3u8?channel-id=newtv&Contentid=9900000094&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/精品萌宠.png" group-title="NewTV频道",精品萌宠
 http://39.134.32.167:6610/270000001128/9900000122/index.m3u8?channel-id=newtv&Contentid=9900000122&livemode=1
