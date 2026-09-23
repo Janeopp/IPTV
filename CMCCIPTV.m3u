@@ -930,7 +930,7 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000516/index.m3u8?channel
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000039/index.m3u8?channel-id=newtv&Contentid=9900000039&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/卡酷卡通.png" group-title="数字频道",卡酷卡通
-http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000040/index.m3u8?channel-id=newtv&Contentid=9900000040&livemode=1
+http://[2409:8087:74f1:21::8]/000000001000PLTV/88888888/224/3221225643/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000529/index.m3u8?channel-id=newtv&Contentid=9900000529&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/青海卫视.png" group-title="卫视频道",青海卫视
@@ -1158,7 +1158,7 @@ http://39.134.32.167:6610/270000001128/9900000516/index.m3u8?channel-id=newtv&Co
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://39.134.32.167:6610/270000001128/9900000039/index.m3u8?channel-id=newtv&Contentid=9900000039&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/卡酷卡通.png" group-title="数字频道",卡酷卡通
-http://39.134.32.167:6610/270000001128/9900000040/index.m3u8?channel-id=newtv&Contentid=9900000040&livemode=1
+http://39.134.39.39/000000001000PLTV/88888888/224/3221225643/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://39.134.32.167:6610/270000001128/9900000529/index.m3u8?channel-id=newtv&Contentid=9900000529&livemode=1
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/青海卫视.png" group-title="卫视频道",青海卫视
