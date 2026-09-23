@@ -745,6 +745,8 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226832/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226919/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/灵台.png" group-title="省内频道",灵台
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226915/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/天祝.png" group-title="省内频道",天祝
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226909/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/玉门.png" group-title="省内频道",玉门
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/敦煌.png" group-title="省内频道",敦煌
@@ -755,7 +757,7 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226873/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226865/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/武威.png" group-title="省内频道",武威
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226826/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/嘉峪关.png" group-title="省内频道",嘉峪关
+#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/嘉峪关综合.png" group-title="省内频道",嘉峪关综合
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226818/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/庄浪.png" group-title="省内频道",庄浪
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226800/index.m3u8
@@ -801,6 +803,8 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226832/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226919/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/灵台.png" group-title="省内频道",灵台
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226915/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/天祝.png" group-title="省内频道",天祝
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226909/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/玉门.png" group-title="省内频道",玉门
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/敦煌.png" group-title="省内频道",敦煌
@@ -811,7 +815,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226873/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226865/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/武威.png" group-title="省内频道",武威
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226826/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/嘉峪关.png" group-title="省内频道",嘉峪关
+#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/嘉峪关综合.png" group-title="省内频道",嘉峪关综合
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226818/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/庄浪.png" group-title="省内频道",庄浪
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226800/index.m3u8
