@@ -739,6 +739,10 @@ http://39.134.32.167:6610/270000001128/9900000113/index.m3u8?channel-id=newtv&Co
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226905/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/凉州.png" group-title="省内频道",凉州
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226911/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/陇南公共频道.png" group-title="省内频道",陇南公共频道
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226832/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/西和综合频道.png" group-title="省内频道",西和综合频道
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226919/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/灵台.png" group-title="省内频道",灵台
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226915/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/玉门.png" group-title="省内频道",玉门
@@ -791,6 +795,10 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226822/index.m3u8
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226905/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/凉州.png" group-title="省内频道",凉州
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226911/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/陇南公共频道.png" group-title="省内频道",陇南公共频道
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226832/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/西和综合频道.png" group-title="省内频道",西和综合频道
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226919/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/灵台.png" group-title="省内频道",灵台
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226915/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.404003.xyz/LOGO/玉门.png" group-title="省内频道",玉门
