@@ -1009,15 +1009,15 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000077/index.m3u8?channel
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000078/index.m3u8?channel-id=newtv&Contentid=9900000078&livemode=1
 #EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.404003.xyz/LOGO/健康养生.png" group-title="购物频道",健康养生
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000079/index.m3u8?channel-id=newtv&Contentid=9900000079&livemode=1
-#EXTINF:-1 tvg-id="精品家居" tvg-name="精品家居" tvg-logo="https://live.404003.xyz/LOGO/精品家居.png" group-title="购物频道",精品家居
+#EXTINF:-1 tvg-id="精品家居" tvg-name="精品家居" tvg-logo="https://live.404003.xyz/LOGO/优购物.png" group-title="购物频道",精品家居
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000080/index.m3u8?channel-id=newtv&Contentid=9900000080&livemode=1
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/聚鲨环球.png" group-title="购物频道",聚鲨环球精选
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000081/index.m3u8?channel-id=newtv&Contentid=9900000081&livemode=1
-#EXTINF:-1 tvg-id="家电食品" tvg-name="家电食品" tvg-logo="https://live.404003.xyz/LOGO/家电食品.png" group-title="购物频道",家电食品
+#EXTINF:-1 tvg-id="家电食品" tvg-name="家电食品" tvg-logo="https://live.404003.xyz/LOGO/优购物.png" group-title="购物频道",家电食品
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000082/index.m3u8?channel-id=newtv&Contentid=9900000082&livemode=1
-#EXTINF:-1 tvg-id="万人推荐" tvg-name="万人推荐" tvg-logo="https://live.404003.xyz/LOGO/万人推荐.png" group-title="购物频道",万人推荐
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/购物/家有购物.png" group-title="购物频道",家有购物
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000083/index.m3u8?channel-id=newtv&Contentid=9900000083&livemode=1
-#EXTINF:-1 tvg-id="运动文旅" tvg-name="运动文旅" tvg-logo="https://live.404003.xyz/LOGO/运动文旅.png" group-title="购物频道",运动文旅
+#EXTINF:-1 tvg-id="运动文旅" tvg-name="运动文旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/购物/央广购物.png" group-title="购物频道",运动文旅
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000084/index.m3u8?channel-id=newtv&Contentid=9900000084&livemode=1
 #EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV东北热剧.png" group-title="NewTV频道",东北热剧
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000092/index.m3u8?channel-id=newtv&Contentid=9900000092&livemode=1
@@ -1237,15 +1237,15 @@ http://39.134.32.167:6610/270000001128/9900000077/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000078/index.m3u8?channel-id=newtv&Contentid=9900000078&livemode=1
 #EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.404003.xyz/LOGO/健康养生.png" group-title="购物频道",健康养生
 http://39.134.32.167:6610/270000001128/9900000079/index.m3u8?channel-id=newtv&Contentid=9900000079&livemode=1
-#EXTINF:-1 tvg-id="精品家居" tvg-name="精品家居" tvg-logo="https://live.404003.xyz/LOGO/精品家居.png" group-title="购物频道",精品家居
+#EXTINF:-1 tvg-id="精品家居" tvg-name="精品家居" tvg-logo="https://live.404003.xyz/LOGO/优购物.png" group-title="购物频道",精品家居
 http://39.134.32.167:6610/270000001128/9900000080/index.m3u8?channel-id=newtv&Contentid=9900000080&livemode=1
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/聚鲨环球.png" group-title="购物频道",聚鲨环球精选
 http://39.134.32.167:6610/270000001128/9900000081/index.m3u8?channel-id=newtv&Contentid=9900000081&livemode=1
-#EXTINF:-1 tvg-id="家电食品" tvg-name="家电食品" tvg-logo="https://live.404003.xyz/LOGO/家电食品.png" group-title="购物频道",家电食品
+#EXTINF:-1 tvg-id="家电食品" tvg-name="家电食品" tvg-logo="https://live.404003.xyz/LOGO/优购物.png" group-title="购物频道",家电食品
 http://39.134.32.167:6610/270000001128/9900000082/index.m3u8?channel-id=newtv&Contentid=9900000082&livemode=1
-#EXTINF:-1 tvg-id="万人推荐" tvg-name="万人推荐" tvg-logo="https://live.404003.xyz/LOGO/万人推荐.png" group-title="购物频道",万人推荐
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/购物/家有购物.png" group-title="购物频道",家有购物
 http://39.134.32.167:6610/270000001128/9900000083/index.m3u8?channel-id=newtv&Contentid=9900000083&livemode=1
-#EXTINF:-1 tvg-id="运动文旅" tvg-name="运动文旅" tvg-logo="https://live.404003.xyz/LOGO/运动文旅.png" group-title="购物频道",运动文旅
+#EXTINF:-1 tvg-id="运动文旅" tvg-name="运动文旅" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/购物/央广购物.png" group-title="购物频道",运动文旅
 http://39.134.32.167:6610/270000001128/9900000084/index.m3u8?channel-id=newtv&Contentid=9900000084&livemode=1
 #EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/NewTV/NewTV东北热剧.png" group-title="NewTV频道",东北热剧
 http://39.134.32.167:6610/270000001128/9900000092/index.m3u8?channel-id=newtv&Contentid=9900000092&livemode=1
