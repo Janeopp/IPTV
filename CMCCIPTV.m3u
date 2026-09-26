@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV-1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV-1
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226670/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV-1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV-1
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226724/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV-2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV-2
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226676/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV-2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV-2
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226807/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png" group-title="央视频道",CCTV-3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png" group-title="央视频道",CCTV-3
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226730/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" group-title="央视频道",CCTV-4
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" group-title="央视频道",CCTV-4
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226803/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png" group-title="央视频道",CCTV-5
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226809/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" group-title="央视频道",CCTV-5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png" group-title="央视频道",CCTV-6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png" group-title="央视频道",CCTV-6
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226732/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" group-title="央视频道",CCTV-7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" group-title="央视频道",CCTV-7
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226432/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" group-title="央视频道",CCTV-7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" group-title="央视频道",CCTV-7
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png" group-title="央视频道",CCTV-8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png" group-title="央视频道",CCTV-8
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226734/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV-9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV-9
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226434/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV-9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV-9
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226813/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" group-title="央视频道",CCTV-10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" group-title="央视频道",CCTV-10
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226164/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" group-title="央视频道",CCTV-10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" group-title="央视频道",CCTV-10
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226736/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" group-title="央视频道",CCTV-11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" group-title="央视频道",CCTV-11
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226541/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" group-title="央视频道",CCTV-11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" group-title="央视频道",CCTV-11
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226815/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" group-title="央视频道",CCTV-12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" group-title="央视频道",CCTV-12
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226436/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" group-title="央视频道",CCTV-12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" group-title="央视频道",CCTV-12
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226740/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226438/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226817/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226823/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" group-title="央视频道",CCTV-14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" group-title="央视频道",CCTV-14
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226166/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" group-title="央视频道",CCTV-14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" group-title="央视频道",CCTV-14
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226726/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" group-title="央视频道",CCTV-15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" group-title="央视频道",CCTV-15
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226616/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" group-title="央视频道",CCTV-15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" group-title="央视频道",CCTV-15
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226819/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" group-title="央视频道",CCTV-16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" group-title="央视频道",CCTV-16
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" group-title="央视频道",CCTV-17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" group-title="央视频道",CCTV-17
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226823/index.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" group-title="央视频道",CETV-1
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226883/index.m3u8
@@ -77,7 +77,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226829/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226827/index.m3u8
 #EXTINF:-1 tvg-id="甘肃移动" tvg-name="甘肃移动" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃移动.png" group-title="甘肃频道",甘肃移动
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226863/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="高清4K频道",CCTV-4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="高清4K频道",CCTV-4K
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226885/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="高清4K频道",北京卫视4K
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226804/index.m3u8
@@ -309,65 +309,65 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226340/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226913/index.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.404003.xyz/LOGO/睛彩广场舞.png" group-title="晴彩频道",睛彩广场舞
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV-1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV-1
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226670/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV-1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV1.png" group-title="央视频道",CCTV-1
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226724/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV-2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV-2
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226676/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV-2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV2.png" group-title="央视频道",CCTV-2
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226807/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png" group-title="央视频道",CCTV-3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV3.png" group-title="央视频道",CCTV-3
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226730/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" group-title="央视频道",CCTV-4
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226539/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4.png" group-title="央视频道",CCTV-4
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226803/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5.png" group-title="央视频道",CCTV-5
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226809/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" group-title="央视频道",CCTV-5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png" group-title="央视频道",CCTV-6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV6.png" group-title="央视频道",CCTV-6
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226732/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" group-title="央视频道",CCTV-7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" group-title="央视频道",CCTV-7
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226432/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" group-title="央视频道",CCTV-7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV7.png" group-title="央视频道",CCTV-7
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png" group-title="央视频道",CCTV-8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV8.png" group-title="央视频道",CCTV-8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226734/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV-9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV-9
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226434/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV-9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV9.png" group-title="央视频道",CCTV-9
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226813/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" group-title="央视频道",CCTV-10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" group-title="央视频道",CCTV-10
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226164/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" group-title="央视频道",CCTV-10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV10.png" group-title="央视频道",CCTV-10
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226736/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" group-title="央视频道",CCTV-11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" group-title="央视频道",CCTV-11
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226541/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" group-title="央视频道",CCTV-11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV11.png" group-title="央视频道",CCTV-11
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226815/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" group-title="央视频道",CCTV-12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" group-title="央视频道",CCTV-12
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226436/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" group-title="央视频道",CCTV-12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV12.png" group-title="央视频道",CCTV-12
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226740/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226438/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226817/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV13.png" group-title="央视频道",CCTV-13
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226823/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" group-title="央视频道",CCTV-14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" group-title="央视频道",CCTV-14
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226166/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" group-title="央视频道",CCTV-14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV14.png" group-title="央视频道",CCTV-14
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226726/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" group-title="央视频道",CCTV-15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" group-title="央视频道",CCTV-15
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226616/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" group-title="央视频道",CCTV-15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV15.png" group-title="央视频道",CCTV-15
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226819/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" group-title="央视频道",CCTV-16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV16.png" group-title="央视频道",CCTV-16
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" group-title="央视频道",CCTV-17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV17.png" group-title="央视频道",CCTV-17
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226823/index.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/中国教育1.png" group-title="央视频道",CETV-1
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226883/index.m3u8
@@ -387,7 +387,7 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226829/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226827/index.m3u8
 #EXTINF:-1 tvg-id="甘肃移动" tvg-name="甘肃移动" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/甘肃/甘肃移动.png" group-title="甘肃频道",甘肃移动
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226863/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="高清4K频道",CCTV-4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/CCTV4K.png" group-title="高清4K频道",CCTV-4K
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226885/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/北京卫视4K.png" group-title="高清4K频道",北京卫视4K
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226804/index.m3u8
@@ -851,49 +851,49 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226798/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226820/index.m3u8
 #EXTINF:-1 tvg-id="民勤" tvg-name="民勤" tvg-logo="https://live.404003.xyz/LOGO/民勤.png" group-title="省内频道",民勤
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226822/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视频道",CCTV-1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视频道",CCTV-1
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000501/index.m3u8?channel-id=newtv&Contentid=9900000501&livemode=1
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png" group-title="央视频道",CCTV-2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png" group-title="央视频道",CCTV-2
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000502/index.m3u8?channel-id=newtv&Contentid=9900000502&livemode=1
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视频道",CCTV-3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视频道",CCTV-3
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000003/index.m3u8?channel-id=newtv&Contentid=9900000003&livemode=1
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://live.404003.xyz/LOGO/CCTV4.png" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.404003.xyz/LOGO/CCTV4.png" group-title="央视频道",CCTV-4
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000503/index.m3u8?channel-id=newtv&Contentid=9900000503&livemode=1
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="央视频道",CCTV-5
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000005/index.m3u8?channel-id=newtv&Contentid=9900000005&livemode=1
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="央视频道",CCTV-6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="央视频道",CCTV-6
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000006/index.m3u8?channel-id=newtv&Contentid=9900000006&livemode=1
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://live.404003.xyz/LOGO/CCTV7.png" group-title="央视频道",CCTV-7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.404003.xyz/LOGO/CCTV7.png" group-title="央视频道",CCTV-7
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000504/index.m3u8?channel-id=newtv&Contentid=9900000504&livemode=1
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="央视频道",CCTV-8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="央视频道",CCTV-8
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000008/index.m3u8?channel-id=newtv&Contentid=9900000008&livemode=1
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://live.404003.xyz/LOGO/CCTV9.png" group-title="央视频道",CCTV-9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.404003.xyz/LOGO/CCTV9.png" group-title="央视频道",CCTV-9
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000505/index.m3u8?channel-id=newtv&Contentid=9900000505&livemode=1
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://live.404003.xyz/LOGO/CCTV10.png" group-title="央视频道",CCTV-10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.404003.xyz/LOGO/CCTV10.png" group-title="央视频道",CCTV-10
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000506/index.m3u8?channel-id=newtv&Contentid=9900000506&livemode=1
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://live.404003.xyz/LOGO/CCTV11.png" group-title="央视频道",CCTV-11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.404003.xyz/LOGO/CCTV11.png" group-title="央视频道",CCTV-11
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000508/index.m3u8?channel-id=newtv&Contentid=9900000508&livemode=1
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://live.404003.xyz/LOGO/CCTV12.png" group-title="央视频道",CCTV-12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.404003.xyz/LOGO/CCTV12.png" group-title="央视频道",CCTV-12
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000509/index.m3u8?channel-id=newtv&Contentid=9900000509&livemode=1
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://live.404003.xyz/LOGO/CCTV13.png" group-title="央视频道",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.404003.xyz/LOGO/CCTV13.png" group-title="央视频道",CCTV-13
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000510/index.m3u8?channel-id=newtv&Contentid=9900000510&livemode=1
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://live.404003.xyz/LOGO/CCTV14.png" group-title="央视频道",CCTV-14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.404003.xyz/LOGO/CCTV14.png" group-title="央视频道",CCTV-14
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000511/index.m3u8?channel-id=newtv&Contentid=9900000511&livemode=1
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.404003.xyz/LOGO/CCTV15.png" group-title="央视频道",CCTV-15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.404003.xyz/LOGO/CCTV15.png" group-title="央视频道",CCTV-15
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000512/index.m3u8?channel-id=newtv&Contentid=9900000512&livemode=1
-#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png" group-title="央视频道",CCTV-16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png" group-title="央视频道",CCTV-16
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000016/index.m3u8?channel-id=newtv&Contentid=9900000016&livemode=1
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://live.404003.xyz/LOGO/CCTV17.png" group-title="央视频道",CCTV-17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.404003.xyz/LOGO/CCTV17.png" group-title="央视频道",CCTV-17
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000513/index.m3u8?channel-id=newtv&Contentid=9900000513&livemode=1
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://live.404003.xyz/LOGO/CCTV5+.png" group-title="央视频道",CCTV-5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.404003.xyz/LOGO/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000507/index.m3u8?channel-id=newtv&Contentid=9900000507&livemode=1
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视频道",CCTV-3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视频道",CCTV-3
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000003/index.m3u8?channel-id=newtv&Contentid=9900000003&livemode=1
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="央视频道",CCTV-5
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000005/index.m3u8?channel-id=newtv&Contentid=9900000005&livemode=1
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="央视频道",CCTV-6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="央视频道",CCTV-6
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000006/index.m3u8?channel-id=newtv&Contentid=9900000006&livemode=1
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="央视频道",CCTV-8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="央视频道",CCTV-8
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000008/index.m3u8?channel-id=newtv&Contentid=9900000008&livemode=1
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.404003.xyz/LOGO/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000023/index.m3u8?channel-id=newtv&Contentid=9900000023&livemode=1
@@ -1079,49 +1079,49 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000118/index.m3u8?channel
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000120/index.m3u8?channel-id=newtv&Contentid=9900000120&livemode=1
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://live.404003.xyz/LOGO/睛彩广场舞.png" group-title="晴彩频道",睛彩广场舞
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000532/index.m3u8?channel-id=newtv&Contentid=9900000532&livemode=1
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视频道",CCTV-1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视频道",CCTV-1
 http://39.134.32.167:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&Contentid=9900000501&livemode=1
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png" group-title="央视频道",CCTV-2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png" group-title="央视频道",CCTV-2
 http://39.134.32.167:6610/270000001128/9900000502/index.m3u8?channel-id=newtv&Contentid=9900000502&livemode=1
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视频道",CCTV-3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视频道",CCTV-3
 http://39.134.32.167:6610/270000001128/9900000003/index.m3u8?channel-id=newtv&Contentid=9900000003&livemode=1
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://live.404003.xyz/LOGO/CCTV4.png" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.404003.xyz/LOGO/CCTV4.png" group-title="央视频道",CCTV-4
 http://39.134.32.167:6610/270000001128/9900000503/index.m3u8?channel-id=newtv&Contentid=9900000503&livemode=1
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="央视频道",CCTV-5
 http://39.134.32.167:6610/270000001128/9900000005/index.m3u8?channel-id=newtv&Contentid=9900000005&livemode=1
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="央视频道",CCTV-6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="央视频道",CCTV-6
 http://39.134.32.167:6610/270000001128/9900000006/index.m3u8?channel-id=newtv&Contentid=9900000006&livemode=1
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://live.404003.xyz/LOGO/CCTV7.png" group-title="央视频道",CCTV-7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.404003.xyz/LOGO/CCTV7.png" group-title="央视频道",CCTV-7
 http://39.134.32.167:6610/270000001128/9900000504/index.m3u8?channel-id=newtv&Contentid=9900000504&livemode=1
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="央视频道",CCTV-8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="央视频道",CCTV-8
 http://39.134.32.167:6610/270000001128/9900000008/index.m3u8?channel-id=newtv&Contentid=9900000008&livemode=1
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://live.404003.xyz/LOGO/CCTV9.png" group-title="央视频道",CCTV-9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.404003.xyz/LOGO/CCTV9.png" group-title="央视频道",CCTV-9
 http://39.134.32.167:6610/270000001128/9900000505/index.m3u8?channel-id=newtv&Contentid=9900000505&livemode=1
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://live.404003.xyz/LOGO/CCTV10.png" group-title="央视频道",CCTV-10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.404003.xyz/LOGO/CCTV10.png" group-title="央视频道",CCTV-10
 http://39.134.32.167:6610/270000001128/9900000506/index.m3u8?channel-id=newtv&Contentid=9900000506&livemode=1
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://live.404003.xyz/LOGO/CCTV11.png" group-title="央视频道",CCTV-11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.404003.xyz/LOGO/CCTV11.png" group-title="央视频道",CCTV-11
 http://39.134.32.167:6610/270000001128/9900000508/index.m3u8?channel-id=newtv&Contentid=9900000508&livemode=1
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://live.404003.xyz/LOGO/CCTV12.png" group-title="央视频道",CCTV-12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.404003.xyz/LOGO/CCTV12.png" group-title="央视频道",CCTV-12
 http://39.134.32.167:6610/270000001128/9900000509/index.m3u8?channel-id=newtv&Contentid=9900000509&livemode=1
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://live.404003.xyz/LOGO/CCTV13.png" group-title="央视频道",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.404003.xyz/LOGO/CCTV13.png" group-title="央视频道",CCTV-13
 http://39.134.32.167:6610/270000001128/9900000510/index.m3u8?channel-id=newtv&Contentid=9900000510&livemode=1
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://live.404003.xyz/LOGO/CCTV14.png" group-title="央视频道",CCTV-14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.404003.xyz/LOGO/CCTV14.png" group-title="央视频道",CCTV-14
 http://39.134.32.167:6610/270000001128/9900000511/index.m3u8?channel-id=newtv&Contentid=9900000511&livemode=1
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.404003.xyz/LOGO/CCTV15.png" group-title="央视频道",CCTV-15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.404003.xyz/LOGO/CCTV15.png" group-title="央视频道",CCTV-15
 http://39.134.32.167:6610/270000001128/9900000512/index.m3u8?channel-id=newtv&Contentid=9900000512&livemode=1
-#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png" group-title="央视频道",CCTV-16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png" group-title="央视频道",CCTV-16
 http://39.134.32.167:6610/270000001128/9900000016/index.m3u8?channel-id=newtv&Contentid=9900000016&livemode=1
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://live.404003.xyz/LOGO/CCTV17.png" group-title="央视频道",CCTV-17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.404003.xyz/LOGO/CCTV17.png" group-title="央视频道",CCTV-17
 http://39.134.32.167:6610/270000001128/9900000513/index.m3u8?channel-id=newtv&Contentid=9900000513&livemode=1
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://live.404003.xyz/LOGO/CCTV5+.png" group-title="央视频道",CCTV-5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.404003.xyz/LOGO/CCTV5+.png" group-title="央视频道",CCTV-5+
 http://39.134.32.167:6610/270000001128/9900000507/index.m3u8?channel-id=newtv&Contentid=9900000507&livemode=1
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视频道",CCTV-3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视频道",CCTV-3
 http://39.134.32.167:6610/270000001128/9900000003/index.m3u8?channel-id=newtv&Contentid=9900000003&livemode=1
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="央视频道",CCTV-5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="央视频道",CCTV-5
 http://39.134.32.167:6610/270000001128/9900000005/index.m3u8?channel-id=newtv&Contentid=9900000005&livemode=1
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="央视频道",CCTV-6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="央视频道",CCTV-6
 http://39.134.32.167:6610/270000001128/9900000006/index.m3u8?channel-id=newtv&Contentid=9900000006&livemode=1
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="央视频道",CCTV-8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="央视频道",CCTV-8
 http://39.134.32.167:6610/270000001128/9900000008/index.m3u8?channel-id=newtv&Contentid=9900000008&livemode=1
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.404003.xyz/LOGO/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://39.134.32.167:6610/270000001128/9900000023/index.m3u8?channel-id=newtv&Contentid=9900000023&livemode=1
