@@ -735,121 +735,121 @@ http://39.134.32.167:6610/270000001128/9900000105/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000112/index.m3u8?channel-id=newtv&Contentid=9900000112&livemode=1
 #EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/惊悚悬疑.png" group-title="NewTV频道",惊悚悬疑
 http://39.134.32.167:6610/270000001128/9900000113/index.m3u8?channel-id=newtv&Contentid=9900000113&livemode=1
-#EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/临洮.png" group-title="省内频道",临洮
+#EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",临洮
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226905/index.m3u8
-#EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/凉州.png" group-title="省内频道",凉州
+#EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",凉州
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226911/index.m3u8
-#EXTINF:-1 tvg-id="陇南公共频道" tvg-name="陇南公共频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/陇南公共频道.png" group-title="省内频道",陇南公共频道
+#EXTINF:-1 tvg-id="陇南公共频道" tvg-name="陇南公共频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",陇南公共频道
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226832/index.m3u8
-#EXTINF:-1 tvg-id="西和综合频道" tvg-name="西和综合频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/西和综合频道.png" group-title="省内频道",西和综合频道
+#EXTINF:-1 tvg-id="西和综合频道" tvg-name="西和综合频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",西和综合频道
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226919/index.m3u8
-#EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/灵台.png" group-title="省内频道",灵台
+#EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",灵台
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226915/index.m3u8
-#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/天祝.png" group-title="省内频道",天祝
+#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",天祝
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226909/index.m3u8
-#EXTINF:-1 tvg-id="玉门" tvg-name="玉门" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/玉门.png" group-title="省内频道",玉门
+#EXTINF:-1 tvg-id="玉门" tvg-name="玉门" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",玉门
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-id="敦煌" tvg-name="敦煌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/敦煌.png" group-title="省内频道",敦煌
+#EXTINF:-1 tvg-id="敦煌" tvg-name="敦煌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",敦煌
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226875/index.m3u8
-#EXTINF:-1 tvg-id="安定" tvg-name="安定" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/安定.png" group-title="省内频道",安定
+#EXTINF:-1 tvg-id="安定" tvg-name="安定" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",安定
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226873/index.m3u8
-#EXTINF:-1 tvg-id="金塔" tvg-name="金塔" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/金塔.png" group-title="省内频道",金塔
+#EXTINF:-1 tvg-id="金塔" tvg-name="金塔" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金塔
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226865/index.m3u8
-#EXTINF:-1 tvg-id="武威" tvg-name="武威" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/武威.png" group-title="省内频道",武威
+#EXTINF:-1 tvg-id="武威" tvg-name="武威" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",武威
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226826/index.m3u8
-#EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/嘉峪关综合.png" group-title="省内频道",嘉峪关综合
+#EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",嘉峪关综合
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226818/index.m3u8
-#EXTINF:-1 tvg-id="庄浪" tvg-name="庄浪" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/庄浪.png" group-title="省内频道",庄浪
+#EXTINF:-1 tvg-id="庄浪" tvg-name="庄浪" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",庄浪
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1 tvg-id="金昌" tvg-name="金昌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/金昌.png" group-title="省内频道",金昌
+#EXTINF:-1 tvg-id="金昌" tvg-name="金昌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金昌
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226782/index.m3u8
-#EXTINF:-1 tvg-id="酒泉" tvg-name="酒泉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/酒泉.png" group-title="省内频道",酒泉
+#EXTINF:-1 tvg-id="酒泉" tvg-name="酒泉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",酒泉
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226784/index.m3u8
-#EXTINF:-1 tvg-id="崆峒" tvg-name="崆峒" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/崆峒.png" group-title="省内频道",崆峒
+#EXTINF:-1 tvg-id="崆峒" tvg-name="崆峒" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",崆峒
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226786/index.m3u8
-#EXTINF:-1 tvg-id="平凉" tvg-name="平凉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/平凉.png" group-title="省内频道",平凉
+#EXTINF:-1 tvg-id="平凉" tvg-name="平凉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",平凉
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226792/index.m3u8
-#EXTINF:-1 tvg-id="肃州" tvg-name="肃州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/肃州.png" group-title="省内频道",肃州
+#EXTINF:-1 tvg-id="肃州" tvg-name="肃州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",肃州
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226907/index.m3u8
-#EXTINF:-1 tvg-id="定西" tvg-name="定西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/定西.png" group-title="省内频道",定西
+#EXTINF:-1 tvg-id="定西" tvg-name="定西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",定西
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226903/index.m3u8
-#EXTINF:-1 tvg-id="泾川" tvg-name="泾川" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/泾川.png" group-title="省内频道",泾川
+#EXTINF:-1 tvg-id="泾川" tvg-name="泾川" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",泾川
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226901/index.m3u8
-#EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/岷县.png" group-title="省内频道",岷县
+#EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",岷县
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226877/index.m3u8
-#EXTINF:-1 tvg-id="酒泉文旅" tvg-name="酒泉文旅" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/酒泉文旅.png" group-title="省内频道",酒泉文旅
+#EXTINF:-1 tvg-id="酒泉文旅" tvg-name="酒泉文旅" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",酒泉文旅
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226867/index.m3u8
-#EXTINF:-1 tvg-id="华亭" tvg-name="华亭" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/华亭.png" group-title="省内频道",华亭
+#EXTINF:-1 tvg-id="华亭" tvg-name="华亭" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",华亭
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226871/index.m3u8
-#EXTINF:-1 tvg-id="阿克赛" tvg-name="阿克赛" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/阿克赛.png" group-title="省内频道",阿克赛
+#EXTINF:-1 tvg-id="阿克赛" tvg-name="阿克赛" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",阿克赛
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226790/index.m3u8
-#EXTINF:-1 tvg-id="陇西" tvg-name="陇西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/陇西.png" group-title="省内频道",陇西
+#EXTINF:-1 tvg-id="陇西" tvg-name="陇西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",陇西
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226794/index.m3u8
-#EXTINF:-1 tvg-id="肃北" tvg-name="肃北" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/肃北.png" group-title="省内频道",肃北
+#EXTINF:-1 tvg-id="肃北" tvg-name="肃北" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",肃北
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226796/index.m3u8
-#EXTINF:-1 tvg-id="武都" tvg-name="武都" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/武都.png" group-title="省内频道",武都
+#EXTINF:-1 tvg-id="武都" tvg-name="武都" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",武都
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226798/index.m3u8
-#EXTINF:-1 tvg-id="定西文旅生活" tvg-name="定西文旅生活" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/定西文旅生活.png" group-title="省内频道",定西文旅生活
+#EXTINF:-1 tvg-id="定西文旅生活" tvg-name="定西文旅生活" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",定西文旅生活
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226820/index.m3u8
-#EXTINF:-1 tvg-id="民勤" tvg-name="民勤" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/民勤.png" group-title="省内频道",民勤
+#EXTINF:-1 tvg-id="民勤" tvg-name="民勤" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",民勤
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226822/index.m3u8
-#EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/临洮.png" group-title="省内频道",临洮
+#EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",临洮
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226905/index.m3u8
-#EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/凉州.png" group-title="省内频道",凉州
+#EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",凉州
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226911/index.m3u8
-#EXTINF:-1 tvg-id="陇南公共频道" tvg-name="陇南公共频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/陇南公共频道.png" group-title="省内频道",陇南公共频道
+#EXTINF:-1 tvg-id="陇南公共频道" tvg-name="陇南公共频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",陇南公共频道
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226832/index.m3u8
-#EXTINF:-1 tvg-id="西和综合频道" tvg-name="西和综合频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/西和综合频道.png" group-title="省内频道",西和综合频道
+#EXTINF:-1 tvg-id="西和综合频道" tvg-name="西和综合频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",西和综合频道
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226919/index.m3u8
-#EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/灵台.png" group-title="省内频道",灵台
+#EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",灵台
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226915/index.m3u8
-#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/天祝.png" group-title="省内频道",天祝
+#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",天祝
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226909/index.m3u8
-#EXTINF:-1 tvg-id="玉门" tvg-name="玉门" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/玉门.png" group-title="省内频道",玉门
+#EXTINF:-1 tvg-id="玉门" tvg-name="玉门" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",玉门
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-id="敦煌" tvg-name="敦煌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/敦煌.png" group-title="省内频道",敦煌
+#EXTINF:-1 tvg-id="敦煌" tvg-name="敦煌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",敦煌
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226875/index.m3u8
-#EXTINF:-1 tvg-id="安定" tvg-name="安定" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/安定.png" group-title="省内频道",安定
+#EXTINF:-1 tvg-id="安定" tvg-name="安定" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",安定
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226873/index.m3u8
-#EXTINF:-1 tvg-id="金塔" tvg-name="金塔" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/金塔.png" group-title="省内频道",金塔
+#EXTINF:-1 tvg-id="金塔" tvg-name="金塔" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金塔
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226865/index.m3u8
-#EXTINF:-1 tvg-id="武威" tvg-name="武威" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/武威.png" group-title="省内频道",武威
+#EXTINF:-1 tvg-id="武威" tvg-name="武威" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",武威
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226826/index.m3u8
-#EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/嘉峪关综合.png" group-title="省内频道",嘉峪关综合
+#EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",嘉峪关综合
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226818/index.m3u8
-#EXTINF:-1 tvg-id="庄浪" tvg-name="庄浪" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/庄浪.png" group-title="省内频道",庄浪
+#EXTINF:-1 tvg-id="庄浪" tvg-name="庄浪" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",庄浪
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1 tvg-id="金昌" tvg-name="金昌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/金昌.png" group-title="省内频道",金昌
+#EXTINF:-1 tvg-id="金昌" tvg-name="金昌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金昌
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226782/index.m3u8
-#EXTINF:-1 tvg-id="酒泉" tvg-name="酒泉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/酒泉.png" group-title="省内频道",酒泉
+#EXTINF:-1 tvg-id="酒泉" tvg-name="酒泉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",酒泉
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226784/index.m3u8
-#EXTINF:-1 tvg-id="崆峒" tvg-name="崆峒" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/崆峒.png" group-title="省内频道",崆峒
+#EXTINF:-1 tvg-id="崆峒" tvg-name="崆峒" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",崆峒
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226786/index.m3u8
-#EXTINF:-1 tvg-id="平凉" tvg-name="平凉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/平凉.png" group-title="省内频道",平凉
+#EXTINF:-1 tvg-id="平凉" tvg-name="平凉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",平凉
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226792/index.m3u8
-#EXTINF:-1 tvg-id="肃州" tvg-name="肃州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/肃州.png" group-title="省内频道",肃州
+#EXTINF:-1 tvg-id="肃州" tvg-name="肃州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",肃州
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226907/index.m3u8
-#EXTINF:-1 tvg-id="定西" tvg-name="定西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/定西.png" group-title="省内频道",定西
+#EXTINF:-1 tvg-id="定西" tvg-name="定西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",定西
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226903/index.m3u8
-#EXTINF:-1 tvg-id="泾川" tvg-name="泾川" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/泾川.png" group-title="省内频道",泾川
+#EXTINF:-1 tvg-id="泾川" tvg-name="泾川" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",泾川
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226901/index.m3u8
-#EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/岷县.png" group-title="省内频道",岷县
+#EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",岷县
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226877/index.m3u8
-#EXTINF:-1 tvg-id="酒泉文旅" tvg-name="酒泉文旅" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/酒泉文旅.png" group-title="省内频道",酒泉文旅
+#EXTINF:-1 tvg-id="酒泉文旅" tvg-name="酒泉文旅" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",酒泉文旅
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226867/index.m3u8
-#EXTINF:-1 tvg-id="华亭" tvg-name="华亭" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/华亭.png" group-title="省内频道",华亭
+#EXTINF:-1 tvg-id="华亭" tvg-name="华亭" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",华亭
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226871/index.m3u8
-#EXTINF:-1 tvg-id="阿克赛" tvg-name="阿克赛" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/阿克赛.png" group-title="省内频道",阿克赛
+#EXTINF:-1 tvg-id="阿克赛" tvg-name="阿克赛" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",阿克赛
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226790/index.m3u8
-#EXTINF:-1 tvg-id="陇西" tvg-name="陇西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/陇西.png" group-title="省内频道",陇西
+#EXTINF:-1 tvg-id="陇西" tvg-name="陇西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",陇西
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226794/index.m3u8
-#EXTINF:-1 tvg-id="肃北" tvg-name="肃北" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/肃北.png" group-title="省内频道",肃北
+#EXTINF:-1 tvg-id="肃北" tvg-name="肃北" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",肃北
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226796/index.m3u8
-#EXTINF:-1 tvg-id="武都" tvg-name="武都" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/武都.png" group-title="省内频道",武都
+#EXTINF:-1 tvg-id="武都" tvg-name="武都" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",武都
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226798/index.m3u8
-#EXTINF:-1 tvg-id="定西文旅生活" tvg-name="定西文旅生活" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/定西文旅生活.png" group-title="省内频道",定西文旅生活
+#EXTINF:-1 tvg-id="定西文旅生活" tvg-name="定西文旅生活" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",定西文旅生活
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226820/index.m3u8
-#EXTINF:-1 tvg-id="民勤" tvg-name="民勤" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/民勤.png" group-title="省内频道",民勤
+#EXTINF:-1 tvg-id="民勤" tvg-name="民勤" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",民勤
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226822/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cctv-1.png" group-title="央视频道",CCTV-1
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000501/index.m3u8?channel-id=newtv&Contentid=9900000501&livemode=1
