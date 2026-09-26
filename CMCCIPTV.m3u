@@ -991,7 +991,7 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000072/index.m3u8?channel
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000093/index.m3u8?channel-id=newtv&Contentid=9900000093&livemode=1
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.404003.xyz/LOGO/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000061/index.m3u8?channel-id=newtv&Contentid=9900000061&livemode=1
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.404003.xyz/LOGO/北京纪实.png" group-title="数字频道",北京纪实
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.404003.xyz/LOGO/北京纪实科教.png" group-title="数字频道",北京纪实科教
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000515/index.m3u8?channel-id=newtv&Contentid=9900000515&livemode=1
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.404003.xyz/LOGO/山东教育.png" group-title="数字频道",山东教育
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000067/index.m3u8?channel-id=newtv&Contentid=9900000067&livemode=1
@@ -1005,7 +1005,7 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000074/index.m3u8?channel
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000076/index.m3u8?channel-id=newtv&Contentid=9900000076&livemode=1
 #EXTINF:-1 tvg-id="营养饮食" tvg-name="营养饮食" tvg-logo="https://live.404003.xyz/LOGO/营养饮食.png" group-title="购物频道",营养饮食
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000077/index.m3u8?channel-id=newtv&Contentid=9900000077&livemode=1
-#EXTINF:-1 tvg-id="文化收藏" tvg-name="文化收藏" tvg-logo="https://live.404003.xyz/LOGO/文化收藏.png" group-title="数字频道",文化收藏
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.404003.xyz/LOGO/优购物.png" group-title="购物频道",优购物
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000078/index.m3u8?channel-id=newtv&Contentid=9900000078&livemode=1
 #EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.404003.xyz/LOGO/健康养生.png" group-title="购物频道",健康养生
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000079/index.m3u8?channel-id=newtv&Contentid=9900000079&livemode=1
@@ -1157,7 +1157,7 @@ http://39.134.32.167:6610/270000001128/9900000037/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000516/index.m3u8?channel-id=newtv&Contentid=9900000516&livemode=1
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.404003.xyz/LOGO/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://39.134.32.167:6610/270000001128/9900000039/index.m3u8?channel-id=newtv&Contentid=9900000039&livemode=1
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.404003.xyz/LOGO/卡酷少儿.png" group-title="数字频道",卡酷卡通
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.404003.xyz/LOGO/卡酷少儿.png" group-title="数字频道",卡酷少儿
 http://39.134.39.39/000000001000PLTV/88888888/224/3221225643/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.404003.xyz/LOGO/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://39.134.32.167:6610/270000001128/9900000529/index.m3u8?channel-id=newtv&Contentid=9900000529&livemode=1
@@ -1219,7 +1219,7 @@ http://39.134.32.167:6610/270000001128/9900000072/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000093/index.m3u8?channel-id=newtv&Contentid=9900000093&livemode=1
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.404003.xyz/LOGO/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
 http://39.134.32.167:6610/270000001128/9900000061/index.m3u8?channel-id=newtv&Contentid=9900000061&livemode=1
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.404003.xyz/LOGO/北京纪实.png" group-title="数字频道",北京纪实
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.404003.xyz/LOGO/北京纪实科教.png" group-title="数字频道",北京纪实科教
 http://39.134.32.167:6610/270000001128/9900000515/index.m3u8?channel-id=newtv&Contentid=9900000515&livemode=1
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.404003.xyz/LOGO/山东教育.png" group-title="数字频道",山东教育
 http://39.134.32.167:6610/270000001128/9900000067/index.m3u8?channel-id=newtv&Contentid=9900000067&livemode=1
@@ -1233,7 +1233,7 @@ http://39.134.32.167:6610/270000001128/9900000074/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000076/index.m3u8?channel-id=newtv&Contentid=9900000076&livemode=1
 #EXTINF:-1 tvg-id="营养饮食" tvg-name="营养饮食" tvg-logo="https://live.404003.xyz/LOGO/营养饮食.png" group-title="购物频道",营养饮食
 http://39.134.32.167:6610/270000001128/9900000077/index.m3u8?channel-id=newtv&Contentid=9900000077&livemode=1
-#EXTINF:-1 tvg-id="文化收藏" tvg-name="文化收藏" tvg-logo="https://live.404003.xyz/LOGO/文化收藏.png" group-title="数字频道",文化收藏
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.404003.xyz/LOGO/优购物.png" group-title="购物频道",优购物
 http://39.134.32.167:6610/270000001128/9900000078/index.m3u8?channel-id=newtv&Contentid=9900000078&livemode=1
 #EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.404003.xyz/LOGO/健康养生.png" group-title="购物频道",健康养生
 http://39.134.32.167:6610/270000001128/9900000079/index.m3u8?channel-id=newtv&Contentid=9900000079&livemode=1
