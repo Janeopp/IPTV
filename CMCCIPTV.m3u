@@ -1003,7 +1003,7 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000073/index.m3u8?channel
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000074/index.m3u8?channel-id=newtv&Contentid=9900000074&livemode=1
 #EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://live.404003.xyz/LOGO/ 好享购物.png" group-title="购物频道",好享购物
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000076/index.m3u8?channel-id=newtv&Contentid=9900000076&livemode=1
-#EXTINF:-1 tvg-id="营养饮食" tvg-name="营养饮食" tvg-logo="https://live.404003.xyz/LOGO/营养饮食.png" group-title="购物频道",营养饮食
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.404003.xyz/LOGO/央广购物.png" group-title="购物频道",央广购物
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000077/index.m3u8?channel-id=newtv&Contentid=9900000077&livemode=1
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.404003.xyz/LOGO/优购物.png" group-title="购物频道",优购物
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000078/index.m3u8?channel-id=newtv&Contentid=9900000078&livemode=1
@@ -1231,7 +1231,7 @@ http://39.134.32.167:6610/270000001128/9900000073/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000074/index.m3u8?channel-id=newtv&Contentid=9900000074&livemode=1
 #EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://live.404003.xyz/LOGO/ 好享购物.png" group-title="购物频道",好享购物
 http://39.134.32.167:6610/270000001128/9900000076/index.m3u8?channel-id=newtv&Contentid=9900000076&livemode=1
-#EXTINF:-1 tvg-id="营养饮食" tvg-name="营养饮食" tvg-logo="https://live.404003.xyz/LOGO/营养饮食.png" group-title="购物频道",营养饮食
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.404003.xyz/LOGO/央广购物.png" group-title="购物频道",央广购物
 http://39.134.32.167:6610/270000001128/9900000077/index.m3u8?channel-id=newtv&Contentid=9900000077&livemode=1
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.404003.xyz/LOGO/优购物.png" group-title="购物频道",优购物
 http://39.134.32.167:6610/270000001128/9900000078/index.m3u8?channel-id=newtv&Contentid=9900000078&livemode=1
