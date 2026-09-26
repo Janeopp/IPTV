@@ -1001,7 +1001,7 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000070/index.m3u8?channel
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000073/index.m3u8?channel-id=newtv&Contentid=9900000073&livemode=1
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.404003.xyz/LOGO/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000074/index.m3u8?channel-id=newtv&Contentid=9900000074&livemode=1
-#EXTINF:-1 tvg-id="银发生活" tvg-name="银发生活" tvg-logo="https://live.404003.xyz/LOGO/银发生活.png" group-title="购物频道",银发生活
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://live.404003.xyz/LOGO/ 好享购物.png" group-title="购物频道",好享购物
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000076/index.m3u8?channel-id=newtv&Contentid=9900000076&livemode=1
 #EXTINF:-1 tvg-id="营养饮食" tvg-name="营养饮食" tvg-logo="https://live.404003.xyz/LOGO/营养饮食.png" group-title="购物频道",营养饮食
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000077/index.m3u8?channel-id=newtv&Contentid=9900000077&livemode=1
@@ -1011,7 +1011,7 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000078/index.m3u8?channel
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000079/index.m3u8?channel-id=newtv&Contentid=9900000079&livemode=1
 #EXTINF:-1 tvg-id="精品家居" tvg-name="精品家居" tvg-logo="https://live.404003.xyz/LOGO/精品家居.png" group-title="购物频道",精品家居
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000080/index.m3u8?channel-id=newtv&Contentid=9900000080&livemode=1
-#EXTINF:-1 tvg-id="康养保健" tvg-name="康养保健" tvg-logo="https://live.404003.xyz/LOGO/康养保健.png" group-title="购物频道",康养保健
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://live.404003.xyz/LOGO/  聚鲨环球精选.png" group-title="购物频道",聚鲨环球精选
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000081/index.m3u8?channel-id=newtv&Contentid=9900000081&livemode=1
 #EXTINF:-1 tvg-id="家电食品" tvg-name="家电食品" tvg-logo="https://live.404003.xyz/LOGO/家电食品.png" group-title="购物频道",家电食品
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000082/index.m3u8?channel-id=newtv&Contentid=9900000082&livemode=1
@@ -1229,7 +1229,7 @@ http://39.134.32.167:6610/270000001128/9900000070/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000073/index.m3u8?channel-id=newtv&Contentid=9900000073&livemode=1
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.404003.xyz/LOGO/金鹰纪实.png" group-title="数字频道",金鹰纪实
 http://39.134.32.167:6610/270000001128/9900000074/index.m3u8?channel-id=newtv&Contentid=9900000074&livemode=1
-#EXTINF:-1 tvg-id="银发生活" tvg-name="银发生活" tvg-logo="https://live.404003.xyz/LOGO/银发生活.png" group-title="购物频道",银发生活
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://live.404003.xyz/LOGO/ 好享购物.png" group-title="购物频道",好享购物
 http://39.134.32.167:6610/270000001128/9900000076/index.m3u8?channel-id=newtv&Contentid=9900000076&livemode=1
 #EXTINF:-1 tvg-id="营养饮食" tvg-name="营养饮食" tvg-logo="https://live.404003.xyz/LOGO/营养饮食.png" group-title="购物频道",营养饮食
 http://39.134.32.167:6610/270000001128/9900000077/index.m3u8?channel-id=newtv&Contentid=9900000077&livemode=1
@@ -1239,7 +1239,7 @@ http://39.134.32.167:6610/270000001128/9900000078/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000079/index.m3u8?channel-id=newtv&Contentid=9900000079&livemode=1
 #EXTINF:-1 tvg-id="精品家居" tvg-name="精品家居" tvg-logo="https://live.404003.xyz/LOGO/精品家居.png" group-title="购物频道",精品家居
 http://39.134.32.167:6610/270000001128/9900000080/index.m3u8?channel-id=newtv&Contentid=9900000080&livemode=1
-#EXTINF:-1 tvg-id="康养保健" tvg-name="康养保健" tvg-logo="https://live.404003.xyz/LOGO/康养保健.png" group-title="购物频道",康养保健
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://live.404003.xyz/LOGO/ 聚鲨环球精选.png" group-title="购物频道",聚鲨环球精选
 http://39.134.32.167:6610/270000001128/9900000081/index.m3u8?channel-id=newtv&Contentid=9900000081&livemode=1
 #EXTINF:-1 tvg-id="家电食品" tvg-name="家电食品" tvg-logo="https://live.404003.xyz/LOGO/家电食品.png" group-title="购物频道",家电食品
 http://39.134.32.167:6610/270000001128/9900000082/index.m3u8?channel-id=newtv&Contentid=9900000082&livemode=1
