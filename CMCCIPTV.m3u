@@ -765,7 +765,7 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226792/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226907/index.m3u8
 #EXTINF:-1 tvg-id="定西综合" tvg-name="定西综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/定西综合.png" group-title="省内频道",定西综合
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226903/index.m3u8
-#EXTINF:-1 tvg-id="泾川" tvg-name="泾川" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",泾川
+#EXTINF:-1 tvg-id="泾川" tvg-name="泾川" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/泾川.png" group-title="省内频道",泾川
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226901/index.m3u8
 #EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",岷县
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226877/index.m3u8
@@ -823,7 +823,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226792/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226907/index.m3u8
 #EXTINF:-1 tvg-id="定西综合" tvg-name="定西综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/定西综合.png" group-title="省内频道",定西综合
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226903/index.m3u8
-#EXTINF:-1 tvg-id="泾川" tvg-name="泾川" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",泾川
+#EXTINF:-1 tvg-id="泾川" tvg-name="泾川" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/泾川.png" group-title="省内频道",泾川
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226901/index.m3u8
 #EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",岷县
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226877/index.m3u8
