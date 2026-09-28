@@ -743,7 +743,7 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226909/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-id="敦煌" tvg-name="敦煌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/敦煌.png" group-title="省内频道",敦煌
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226875/index.m3u8
-#EXTINF:-1 tvg-id="安定" tvg-name="安定" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",安定
+#EXTINF:-1 tvg-id="安定" tvg-name="安定" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/安定.png" group-title="省内频道",安定
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226873/index.m3u8
 #EXTINF:-1 tvg-id="金塔" tvg-name="金塔" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金塔
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226865/index.m3u8
@@ -801,7 +801,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226909/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-id="敦煌" tvg-name="敦煌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/敦煌.png" group-title="省内频道",敦煌
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226875/index.m3u8
-#EXTINF:-1 tvg-id="安定" tvg-name="安定" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",安定
+#EXTINF:-1 tvg-id="安定" tvg-name="安定" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/安定.png" group-title="省内频道",安定
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226873/index.m3u8
 #EXTINF:-1 tvg-id="金塔" tvg-name="金塔" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金塔
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226865/index.m3u8
