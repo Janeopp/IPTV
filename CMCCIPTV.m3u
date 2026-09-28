@@ -755,7 +755,7 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226818/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1 tvg-id="金昌" tvg-name="金昌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金昌
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226782/index.m3u8
-#EXTINF:-1 tvg-id="酒泉" tvg-name="酒泉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",酒泉
+#EXTINF:-1 tvg-id="酒泉" tvg-name="酒泉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/酒泉.png" group-title="省内频道",酒泉
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226784/index.m3u8
 #EXTINF:-1 tvg-id="崆峒" tvg-name="崆峒" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",崆峒
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226786/index.m3u8
@@ -769,7 +769,7 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226903/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226901/index.m3u8
 #EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",岷县
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226877/index.m3u8
-#EXTINF:-1 tvg-id="酒泉文旅" tvg-name="酒泉文旅" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",酒泉文旅
+#EXTINF:-1 tvg-id="酒泉文旅" tvg-name="酒泉文旅" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/酒泉文旅.png" group-title="省内频道",酒泉文旅
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226867/index.m3u8
 #EXTINF:-1 tvg-id="华亭" tvg-name="华亭" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",华亭
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226871/index.m3u8
@@ -813,7 +813,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226818/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1 tvg-id="金昌" tvg-name="金昌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金昌
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226782/index.m3u8
-#EXTINF:-1 tvg-id="酒泉" tvg-name="酒泉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",酒泉
+#EXTINF:-1 tvg-id="酒泉" tvg-name="酒泉" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/酒泉.png" group-title="省内频道",酒泉
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226784/index.m3u8
 #EXTINF:-1 tvg-id="崆峒" tvg-name="崆峒" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",崆峒
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226786/index.m3u8
@@ -827,7 +827,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226903/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226901/index.m3u8
 #EXTINF:-1 tvg-id="岷县" tvg-name="岷县" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",岷县
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226877/index.m3u8
-#EXTINF:-1 tvg-id="酒泉文旅" tvg-name="酒泉文旅" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",酒泉文旅
+#EXTINF:-1 tvg-id="酒泉文旅" tvg-name="酒泉文旅" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/酒泉文旅.png" group-title="省内频道",酒泉文旅
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226867/index.m3u8
 #EXTINF:-1 tvg-id="华亭" tvg-name="华亭" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",华亭
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226871/index.m3u8
