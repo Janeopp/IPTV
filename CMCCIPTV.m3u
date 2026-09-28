@@ -731,9 +731,9 @@ http://39.134.32.167:6610/270000001128/9900000113/index.m3u8?channel-id=newtv&Co
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226905/index.m3u8
 #EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/凉州.png" group-title="省内频道",凉州
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226911/index.m3u8
-#EXTINF:-1 tvg-id="陇南公共频道" tvg-name="陇南公共频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/陇南公共频道.png" group-title="省内频道",陇南公共频道
+#EXTINF:-1 tvg-id="陇南公共" tvg-name="陇南公共" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/陇南公共频道.png" group-title="省内频道",陇南公共
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226832/index.m3u8
-#EXTINF:-1 tvg-id="西和综合频道" tvg-name="西和综合频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",西和综合频道
+#EXTINF:-1 tvg-id="西和综合" tvg-name="西和综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/西和综合.png" group-title="省内频道",西和综合
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226919/index.m3u8
 #EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/灵台.png" group-title="省内频道",灵台
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226915/index.m3u8
@@ -775,7 +775,7 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226867/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226871/index.m3u8
 #EXTINF:-1 tvg-id="阿克塞" tvg-name="阿克塞" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/阿克塞.png" group-title="省内频道",阿克塞
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226790/index.m3u8
-#EXTINF:-1 tvg-id="陇西" tvg-name="陇西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",陇西
+#EXTINF:-1 tvg-id="陇西" tvg-name="陇西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/陇西.png" group-title="省内频道",陇西
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226794/index.m3u8
 #EXTINF:-1 tvg-id="肃北" tvg-name="肃北" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/肃北.png" group-title="省内频道",肃北
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226796/index.m3u8
@@ -789,9 +789,9 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226822/index.m3u8
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226905/index.m3u8
 #EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/凉州.png" group-title="省内频道",凉州
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226911/index.m3u8
-#EXTINF:-1 tvg-id="陇南公共频道" tvg-name="陇南公共频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/陇南公共频道.png" group-title="省内频道",陇南公共频道
+#EXTINF:-1 tvg-id="陇南公共" tvg-name="陇南公共" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/陇南公共频道.png" group-title="省内频道",陇南公共
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226832/index.m3u8
-#EXTINF:-1 tvg-id="西和综合频道" tvg-name="西和综合频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",西和综合频道
+#EXTINF:-1 tvg-id="西和综合" tvg-name="西和综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/西和综合.png" group-title="省内频道",西和综合
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226919/index.m3u8
 #EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/灵台.png" group-title="省内频道",灵台
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226915/index.m3u8
@@ -833,7 +833,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226867/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226871/index.m3u8
 #EXTINF:-1 tvg-id="阿克塞" tvg-name="阿克塞" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/阿克塞.png" group-title="省内频道",阿克塞
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226790/index.m3u8
-#EXTINF:-1 tvg-id="陇西" tvg-name="陇西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",陇西
+#EXTINF:-1 tvg-id="陇西" tvg-name="陇西" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/陇西.png" group-title="省内频道",陇西
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226794/index.m3u8
 #EXTINF:-1 tvg-id="肃北" tvg-name="肃北" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/肃北.png" group-title="省内频道",肃北
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226796/index.m3u8
