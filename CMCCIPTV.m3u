@@ -751,7 +751,7 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226865/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226826/index.m3u8
 #EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/嘉峪关综合.png" group-title="省内频道",嘉峪关综合
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226818/index.m3u8
-#EXTINF:-1 tvg-id="庄浪" tvg-name="庄浪" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",庄浪
+#EXTINF:-1 tvg-id="庄浪" tvg-name="庄浪" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/庄浪.png" group-title="省内频道",庄浪
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1 tvg-id="金昌" tvg-name="金昌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金昌
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226782/index.m3u8
@@ -809,7 +809,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226865/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226826/index.m3u8
 #EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/嘉峪关综合.png" group-title="省内频道",嘉峪关综合
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226818/index.m3u8
-#EXTINF:-1 tvg-id="庄浪" tvg-name="庄浪" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",庄浪
+#EXTINF:-1 tvg-id="庄浪" tvg-name="庄浪" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/庄浪.png" group-title="省内频道",庄浪
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1 tvg-id="金昌" tvg-name="金昌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金昌
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226782/index.m3u8
