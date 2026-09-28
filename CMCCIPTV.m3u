@@ -735,9 +735,9 @@ http://39.134.32.167:6610/270000001128/9900000105/index.m3u8?channel-id=newtv&Co
 http://39.134.32.167:6610/270000001128/9900000112/index.m3u8?channel-id=newtv&Contentid=9900000112&livemode=1
 #EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/惊悚悬疑.png" group-title="NewTV频道",惊悚悬疑
 http://39.134.32.167:6610/270000001128/9900000113/index.m3u8?channel-id=newtv&Contentid=9900000113&livemode=1
-#EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",临洮
+#EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/临洮.png" group-title="省内频道",临洮
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226905/index.m3u8
-#EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",凉州
+#EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/凉州.png" group-title="省内频道",凉州
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226911/index.m3u8
 #EXTINF:-1 tvg-id="陇南公共频道" tvg-name="陇南公共频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",陇南公共频道
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226832/index.m3u8
@@ -755,7 +755,7 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226875/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226873/index.m3u8
 #EXTINF:-1 tvg-id="金塔" tvg-name="金塔" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金塔
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226865/index.m3u8
-#EXTINF:-1 tvg-id="武威" tvg-name="武威" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",武威
+#EXTINF:-1 tvg-id="武威综合" tvg-name="武威综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/武威综合.png" group-title="省内频道",武威综合
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226826/index.m3u8
 #EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",嘉峪关综合
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226818/index.m3u8
@@ -793,9 +793,9 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226798/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226820/index.m3u8
 #EXTINF:-1 tvg-id="民勤" tvg-name="民勤" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",民勤
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226822/index.m3u8
-#EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",临洮
+#EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/临洮.png" group-title="省内频道",临洮
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226905/index.m3u8
-#EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",凉州
+#EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/凉州.png" group-title="省内频道",凉州
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226911/index.m3u8
 #EXTINF:-1 tvg-id="陇南公共频道" tvg-name="陇南公共频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",陇南公共频道
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226832/index.m3u8
@@ -813,7 +813,7 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226875/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226873/index.m3u8
 #EXTINF:-1 tvg-id="金塔" tvg-name="金塔" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",金塔
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226865/index.m3u8
-#EXTINF:-1 tvg-id="武威" tvg-name="武威" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",武威
+#EXTINF:-1 tvg-id="武威综合" tvg-name="武威综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/武威综合.png" group-title="省内频道",武威综合
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226826/index.m3u8
 #EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",嘉峪关综合
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226818/index.m3u8
