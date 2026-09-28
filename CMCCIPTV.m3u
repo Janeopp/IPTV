@@ -743,11 +743,11 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226911/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226832/index.m3u8
 #EXTINF:-1 tvg-id="西和综合频道" tvg-name="西和综合频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",西和综合频道
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226919/index.m3u8
-#EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",灵台
+#EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/灵台.png" group-title="省内频道",灵台
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226915/index.m3u8
-#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",天祝
+#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/天祝.png" group-title="省内频道",天祝
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226909/index.m3u8
-#EXTINF:-1 tvg-id="玉门" tvg-name="玉门" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",玉门
+#EXTINF:-1 tvg-id="玉门" tvg-name="玉门" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/玉门.png" group-title="省内频道",玉门
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-id="敦煌" tvg-name="敦煌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",敦煌
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226875/index.m3u8
@@ -801,11 +801,11 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226911/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226832/index.m3u8
 #EXTINF:-1 tvg-id="西和综合频道" tvg-name="西和综合频道" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",西和综合频道
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226919/index.m3u8
-#EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",灵台
+#EXTINF:-1 tvg-id="灵台" tvg-name="灵台" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/灵台.png" group-title="省内频道",灵台
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226915/index.m3u8
-#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",天祝
+#EXTINF:-1 tvg-id="天祝" tvg-name="天祝" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/天祝.png" group-title="省内频道",天祝
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226909/index.m3u8
-#EXTINF:-1 tvg-id="玉门" tvg-name="玉门" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",玉门
+#EXTINF:-1 tvg-id="玉门" tvg-name="玉门" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/玉门.png" group-title="省内频道",玉门
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-id="敦煌" tvg-name="敦煌" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/省内频道.png" group-title="省内频道",敦煌
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226875/index.m3u8
