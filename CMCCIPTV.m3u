@@ -57,6 +57,8 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226616/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226819/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cctv-16.png" group-title="央视频道",CCTV-16
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cctv-17.png" group-title="央视频道",CCTV-17
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226823/index.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cetv-1.png" group-title="央视频道",CETV-1
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226883/index.m3u8
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cetv-4.png" group-title="央视频道",CETV-4
@@ -363,6 +365,8 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226616/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226819/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cctv-16.png" group-title="央视频道",CCTV-16
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cctv-17.png" group-title="央视频道",CCTV-17
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226823/index.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cetv-1.png" group-title="央视频道",CETV-1
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226883/index.m3u8
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cetv-4.png" group-title="央视频道",CETV-4
