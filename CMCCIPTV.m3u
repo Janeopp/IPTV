@@ -789,6 +789,8 @@ http://39.134.39.39/000000001000PLTV/88888888/224/3221226798/index.m3u8
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226820/index.m3u8
 #EXTINF:-1 tvg-id="民勤" tvg-name="民勤" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/民勤.png" group-title="省内频道",民勤
 http://39.134.39.39/000000001000PLTV/88888888/224/3221226822/index.m3u8
+#EXTINF:-1 tvg-id="漳县" tvg-name="漳县" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/漳县.png" group-title="省内频道",漳县
+http://39.134.39.39/000000001000PLTV/88888888/224/3221226824/index.m3u8
 #EXTINF:-1 tvg-id="临洮" tvg-name="临洮" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/临洮.png" group-title="省内频道",临洮
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226905/index.m3u8
 #EXTINF:-1 tvg-id="凉州" tvg-name="凉州" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/凉州.png" group-title="省内频道",凉州
@@ -847,6 +849,8 @@ http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226798/i
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226820/index.m3u8
 #EXTINF:-1 tvg-id="民勤" tvg-name="民勤" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/民勤.png" group-title="省内频道",民勤
 http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226822/index.m3u8
+#EXTINF:-1 tvg-id="漳县" tvg-name="漳县" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/漳县.png" group-title="省内频道",漳县
+http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226824/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cctv-1.png" group-title="央视频道",CCTV-1
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000501/index.m3u8?channel-id=newtv&Contentid=9900000501&livemode=1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gh-proxy.org/https://github.com/Janeopp/IPTV/blob/main/logo/cctv-2.png" group-title="央视频道",CCTV-2
