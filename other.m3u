@@ -1,887 +1,791 @@
 #EXTM3U
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%8E%E6%95%B0%E5%8A%A8%E4%BD%9C%E5%BD%B1%E9%99%A2.png",华数动作影院
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%8E%E6%95%B0%E5%8A%A8%E4%BD%9C%E5%BD%B1%E9%99%A2.png" group-title="🎞️电影直播",华数动作影院
 http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",CHC家庭影院
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="🎞️电影直播",CHC家庭影院
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",CHC动作电影
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="🎞️电影直播",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png",CHC影迷电影
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="🎞️电影直播",CHC影迷电影
 http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%93%E5%9C%BA.png",周星驰专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%98%9F%E9%A9%B0%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",周星驰专场
 https://huyazhibo.de5.net/?id=11336587
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%8E%E8%BF%9E%E6%9D%B0%E4%B8%93%E5%9C%BA.png",李连杰专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%8E%E8%BF%9E%E6%9D%B0%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",李连杰专场
 https://huyazhibo.de5.net/?id=11342390
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%93%E5%9C%BA.png",刘德华专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%98%E5%BE%B7%E5%8D%8E%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",刘德华专场
 https://huyazhibo.de5.net/?id=11342424
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E6%AD%A3%E8%8B%B1%E4%B8%93%E5%9C%BA.png",林正英专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E6%AD%A3%E8%8B%B1%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",林正英专场
 https://huyazhibo.de5.net/?id=11342421
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%B2%88%E8%85%BE%E4%B8%93%E5%9C%BA.png",沈腾专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B2%88%E8%85%BE%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",沈腾专场
 https://huyazhibo.de5.net/?id=11601968
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E6%B8%A4%E4%B8%93%E5%9C%BA.png",黄渤专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E6%B8%A4%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",黄渤专场
 https://huyazhibo.de5.net/?id=11352876
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%B6%A6%E5%8F%91%E4%B8%93%E5%9C%BA.png",周润发专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%B6%A6%E5%8F%91%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",周润发专场
 https://huyazhibo.de5.net/?id=11342387
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%88%90%E9%BE%99%E4%B8%93%E5%9C%BA.png",成龙专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%90%E9%BE%99%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",成龙专场
 https://huyazhibo.de5.net/?id=11342386
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%A4%E5%A4%A9%E4%B9%90%E4%B8%93%E5%9C%BA.png",古天乐专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%A4%E5%A4%A9%E4%B9%90%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",古天乐专场
 https://huyazhibo.de5.net/?id=29982675
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E6%99%B6%E4%B8%93%E5%9C%BA.png",王晶专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E6%99%B6%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",王晶专场
 https://huyazhibo.de5.net/?id=11602058
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%90%B4%E4%BA%AC%E4%B8%93%E5%9C%BA.png",吴京专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%90%B4%E4%BA%AC%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",吴京专场
 https://huyazhibo.de5.net/?id=11602077
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%B4%AA%E9%87%91%E5%AE%9D%E4%B8%93%E5%9C%BA.png",洪金宝专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B4%AA%E9%87%91%E5%AE%9D%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",洪金宝专场
 https://huyazhibo.de5.net/?id=11279251
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%BE%90%E5%85%8B%E4%B8%93%E5%9C%BA.png",徐克专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BE%90%E5%85%8B%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",徐克专场
 https://huyazhibo.de5.net/?id=11352909
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%BE%90%E5%B3%A5%E4%B8%93%E5%9C%BA.png",徐峥专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BE%90%E5%B3%A5%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",徐峥专场
 https://huyazhibo.de5.net/?id=11602043
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E9%82%93%E8%B6%85%E4%B8%93%E5%9C%BA.png",邓超专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%82%93%E8%B6%85%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",邓超专场
 https://huyazhibo.de5.net/?id=11336592
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%A2%81%E5%AE%B6%E8%BE%89%E4%B8%93%E5%9C%BA.png",梁家辉专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A2%81%E5%AE%B6%E8%BE%89%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",梁家辉专场
 https://huyazhibo.de5.net/?id=11342429
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E5%8D%AB%E5%81%A5%E4%B8%93%E5%9C%BA.png",张卫健专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E5%8D%AB%E5%81%A5%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",张卫健专场
 https://huyazhibo.de5.net/?id=11342423
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E5%AE%9D%E5%BC%BA%E4%B8%93%E5%9C%BA.png",王宝强专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E5%AE%9D%E5%BC%BA%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",王宝强专场
 https://huyazhibo.de5.net/?id=30080251
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E5%B0%8F%E6%98%A5%E4%B8%93%E5%9C%BA.png",陈小春专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E5%B0%8F%E6%98%A5%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",陈小春专场
 https://huyazhibo.de5.net/?id=11336719
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E9%83%AD%E5%AF%8C%E5%9F%8E%E4%B8%93%E5%9C%BA.png",郭富城专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%83%AD%E5%AF%8C%E5%9F%8E%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",郭富城专场
 https://huyazhibo.de5.net/?id=20985865
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%90%B4%E9%95%87%E5%AE%87%E4%B8%93%E5%9C%BA.png",吴镇宇专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%90%B4%E9%95%87%E5%AE%87%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",吴镇宇专场
 https://huyazhibo.de5.net/?id=23865096
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E9%99%86%E5%B0%8F%E5%87%A4%E4%B8%93%E5%9C%BA.png",陆小凤专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%86%E5%B0%8F%E5%87%A4%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",陆小凤专场
 https://huyazhibo.de5.net/?id=11342427
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%BC%BA%E6%A3%AE%E4%B8%93%E5%9C%BA.png",强森专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%BA%E6%A3%AE%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",强森专场
 https://huyazhibo.de5.net/?id=21059581
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%96%AF%E5%9D%A6%E6%A3%AE%E4%B8%93%E5%9C%BA.png",斯坦森专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%96%AF%E5%9D%A6%E6%A3%AE%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",斯坦森专场
 https://huyazhibo.de5.net/?id=21059588
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E9%A9%AC%E4%B8%9C%E9%94%A1%E4%B8%93%E5%9C%BA.png",马东锡专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%A9%AC%E4%B8%9C%E9%94%A1%E4%B8%93%E5%9C%BA.png" group-title="🎞️电影直播",马东锡专场
 https://huyazhibo.de5.net/?id=21059556
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%81%BE%E9%9A%BE%E7%89%87%E7%B3%BB%E5%88%97.png",灾难片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%81%BE%E9%9A%BE%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",灾难片系列
 https://huyazhibo.de5.net/?id=23728647
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B4%BA%E5%B2%81%E7%89%87%E7%B3%BB%E5%88%97.png",贺岁片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B4%BA%E5%B2%81%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",贺岁片系列
 https://huyazhibo.de5.net/?id=11601986
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%A7%91%E5%B9%BB%E7%89%87%E7%B3%BB%E5%88%97.png",科幻片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A7%91%E5%B9%BB%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",科幻片系列
 https://huyazhibo.de5.net/?id=11352965
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%A7%E5%B0%B8%E7%89%87%E7%B3%BB%E5%88%97.png",丧尸片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%A7%E5%B0%B8%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",丧尸片系列
 https://huyazhibo.de5.net/?id=24314160
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%80%AA%E5%85%BD%E7%89%87%E7%B3%BB%E5%88%97.png",怪兽片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%80%AA%E5%85%BD%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",怪兽片系列
 https://huyazhibo.de5.net/?id=29982674
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%88%98%E4%BA%89%E7%89%87%E7%B3%BB%E5%88%97.png",战争片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%98%E4%BA%89%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",战争片系列
 https://huyazhibo.de5.net/?id=21059618
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%A1%AC%E6%B1%89%E7%89%87%E7%B3%BB%E5%88%97.png",硬汉片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A1%AC%E6%B1%89%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",硬汉片系列
 https://huyazhibo.de5.net/?id=23864973
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E4%BD%9C%E7%89%87%E7%B3%BB%E5%88%97.png",动作片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E4%BD%9C%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",动作片系列
 https://huyazhibo.de5.net/?id=10871113
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E6%83%85%E7%89%87%E7%B3%BB%E5%88%97.png",爱情片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E6%83%85%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",爱情片系列
 https://huyazhibo.de5.net/?id=29982639
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%8A%AF%E7%BD%AA%E7%89%87%E7%B3%BB%E5%88%97.png",犯罪片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8A%AF%E7%BD%AA%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",犯罪片系列
 https://huyazhibo.de5.net/?id=30080213
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A5%87%E5%B9%BB%E7%89%87%E7%B3%BB%E5%88%97.png",奇幻片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A5%87%E5%B9%BB%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",奇幻片系列
 https://huyazhibo.de5.net/?id=26355847
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%86%92%E9%99%A9%E7%89%87%E7%B3%BB%E5%88%97.png",冒险片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%86%92%E9%99%A9%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",冒险片系列
 https://huyazhibo.de5.net/?id=21059566
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%9B%97%E5%A2%93%E7%89%87%E7%B3%BB%E5%88%97.png",盗墓片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%9B%97%E5%A2%93%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",盗墓片系列
 https://huyazhibo.de5.net/?id=11601981
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%A9%BF%E8%B6%8A%E7%89%87%E7%B3%BB%E5%88%97.png",穿越片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A9%BF%E8%B6%8A%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",穿越片系列
 https://huyazhibo.de5.net/?id=29465892
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%82%AC%E7%96%91%E7%89%87%E7%B3%BB%E5%88%97.png",悬疑片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%82%AC%E7%96%91%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",悬疑片系列
 https://huyazhibo.de5.net/?id=21059530
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%96%9C%E5%89%A7%E7%89%87%E7%B3%BB%E5%88%97.png",喜剧片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%96%9C%E5%89%A7%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",喜剧片系列
 https://huyazhibo.de5.net/?id=11602044
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E7%89%87%E7%B3%BB%E5%88%97.png",英雄片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",英雄片系列
 https://huyazhibo.de5.net/?id=11601980
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%9E%AA%E6%88%98%E7%89%87%E7%B3%BB%E5%88%97.png",枪战片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%AA%E6%88%98%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",枪战片系列
 https://huyazhibo.de5.net/?id=21059579
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A6%E4%BE%A0%E7%89%87%E7%B3%BB%E5%88%97.png",武侠片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A6%E4%BE%A0%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",武侠片系列
 https://huyazhibo.de5.net/?id=29982677
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%8D%E4%BB%87%E7%89%87%E7%B3%BB%E5%88%97.png",复仇片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%8D%E4%BB%87%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",复仇片系列
 https://huyazhibo.de5.net/?id=29982645
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E7%90%83%E7%89%87%E7%B3%BB%E5%88%97.png",星球片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E7%90%83%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",星球片系列
 https://huyazhibo.de5.net/?id=30080234
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%A0%A1%E5%9B%AD%E7%89%87%E7%B3%BB%E5%88%97.png",校园片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A0%A1%E5%9B%AD%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",校园片系列
 https://huyazhibo.de5.net/?id=11352934
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E8%AD%A6%E5%8C%AA%E7%89%87%E7%B3%BB%E5%88%97.png",警匪片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%AD%A6%E5%8C%AA%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",警匪片系列
 https://huyazhibo.de5.net/?id=30041512
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B0%8D%E6%88%98%E7%89%87%E7%B3%BB%E5%88%97.png",谍战片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B0%8D%E6%88%98%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",谍战片系列
 https://huyazhibo.de5.net/?id=26355810
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E7%94%BB%E7%89%87%E7%B3%BB%E5%88%97.png",动画片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E7%94%BB%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",动画片系列
 https://huyazhibo.de5.net/?id=11352878
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%81%90%E6%80%96%E7%89%87%E7%B3%BB%E5%88%97.png",恐怖片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%81%90%E6%80%96%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",恐怖片系列
 https://huyazhibo.de5.net/?id=11601960
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E6%83%8A%E6%82%9A%E7%89%87%E7%B3%BB%E5%88%97.png",惊悚片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%83%8A%E6%82%9A%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",惊悚片系列
 https://huyazhibo.de5.net/?id=26355802
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%83%B5%E5%B0%B8%E7%89%87%E7%B3%BB%E5%88%97.png",僵尸片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%83%B5%E5%B0%B8%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",僵尸片系列
 https://huyazhibo.de5.net/?id=11352917
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E4%BD%93%E8%82%B2%E7%89%87%E7%B3%BB%E5%88%97.png",体育片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BD%93%E8%82%B2%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",体育片系列
 https://huyazhibo.de5.net/?id=23864480
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E9%A6%99%E6%B8%AF%E7%89%87%E7%B3%BB%E5%88%97.png",香港片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%A6%99%E6%B8%AF%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",香港片系列
 https://huyazhibo.de5.net/?id=30631706
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%B0%E5%BA%A6%E7%89%87%E7%B3%BB%E5%88%97.png",印度片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%B0%E5%BA%A6%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",印度片系列
 https://huyazhibo.de5.net/?id=26355799
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%83%AD%E9%97%A8%E7%89%87%E7%B3%BB%E5%88%97.png",热门片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%83%AD%E9%97%A8%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",热门片系列
 https://huyazhibo.de5.net/?id=880261
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E9%AB%98%E5%88%86%E7%89%87%E7%B3%BB%E5%88%97.png",高分片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AB%98%E5%88%86%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",高分片系列
 https://huyazhibo.de5.net/?id=23902225
-#EXTINF:-1 group-title="🎞️电影直播" tvg-logo="https://epg.112114.xyz/logo/%E7%9F%AD%E7%89%87%E7%B3%BB%E5%88%97.png",短片系列
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%9F%AD%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="🎞️电影直播",短片系列
 http://live.nctv.top/douyu1.php?id=8700367
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9F%A9%E5%9B%BD%E7%BB%BC%E8%89%BA.png",韩国综艺
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%A9%E5%9B%BD%E7%BB%BC%E8%89%BA.png" group-title="📽️综艺直播",韩国综艺
 https://huyazhibo.de5.net/?id=11336725
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98.png",极限挑战
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98.png" group-title="📽️综艺直播",极限挑战
 https://huyazhibo.de5.net/?id=23352563
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E7%94%B7%E7%94%9F%E5%A5%B3%E7%94%9F%E5%90%91%E5%89%8D%E5%86%B2%E4%B8%93%E5%9C%BA.png",男生女生向前冲专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%94%B7%E7%94%9F%E5%A5%B3%E7%94%9F%E5%90%91%E5%89%8D%E5%86%B2%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",男生女生向前冲专场
 https://huyazhibo.de5.net/?id=30021042
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9D%92%E6%98%A5%E7%8E%AF%E6%B8%B8%E4%B8%93%E5%9C%BA.png",青春环游专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%92%E6%98%A5%E7%8E%AF%E6%B8%B8%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",青春环游专场
 https://huyazhibo.de5.net/?id=30080246
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E%E4%B8%93%E5%9C%BA.png",五十公里桃花坞专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",五十公里桃花坞专场
 https://huyazhibo.de5.net/?id=29465869
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E9%AB%98%E8%83%BD%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%93%E5%9C%BA.png",高能少年团专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AB%98%E8%83%BD%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",高能少年团专场
 https://huyazhibo.de5.net/?id=29982609
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B0%8F%E6%97%B6%E4%B8%93%E5%9C%BA.png",二十四小时专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%B0%8F%E6%97%B6%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",二十四小时专场
 https://huyazhibo.de5.net/?id=29982610
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E4%B8%93%E5%9C%BA.png",哈哈哈哈哈专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",哈哈哈哈哈专场
 https://huyazhibo.de5.net/?id=30080247
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%84%E5%BC%9F%E4%B8%93%E5%9C%BA.png",奔跑吧兄弟专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%84%E5%BC%9F%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",奔跑吧兄弟专场
 https://huyazhibo.de5.net/?id=29465870
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E4%B8%93%E5%9C%BA.png",最强大脑专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",最强大脑专场
 https://huyazhibo.de5.net/?id=29465880
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%E4%B8%93%E5%9C%BA.png",现在就出发专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",现在就出发专场
 https://huyazhibo.de5.net/?id=21059551
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%E4%B8%93%E5%9C%BA.png",脱口秀大会专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%84%B1%E5%8F%A3%E7%A7%80%E5%A4%A7%E4%BC%9A%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",脱口秀大会专场
 https://huyazhibo.de5.net/?id=30080243
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E6%B8%B8%E8%AE%B0%E4%B8%93%E5%9C%BA.png",新游记专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E6%B8%B8%E8%AE%B0%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",新游记专场
 https://huyazhibo.de5.net/?id=20985794
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E8%B5%90%E7%9A%84%E5%A3%B0%E9%9F%B3%E4%B8%93%E5%9C%BA.png",天赐的声音专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E8%B5%90%E7%9A%84%E5%A3%B0%E9%9F%B3%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",天赐的声音专场
 https://huyazhibo.de5.net/?id=30080249
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E5%92%B1%E4%BB%AC%E7%A9%BF%E8%B6%8A%E5%90%A7%E4%B8%93%E5%9C%BA.png",咱们穿越吧专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%92%B1%E4%BB%AC%E7%A9%BF%E8%B6%8A%E5%90%A7%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",咱们穿越吧专场
 https://huyazhibo.de5.net/?id=11352907
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E6%88%91%E6%98%AF%E5%A4%A7%E4%BE%A6%E6%8E%A2%E4%B8%93%E5%9C%BA.png",我是大侦探专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%91%E6%98%AF%E5%A4%A7%E4%BE%A6%E6%8E%A2%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",我是大侦探专场
 https://huyazhibo.de5.net/?id=20969140
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E6%9C%8B%E5%8F%8B%E8%AF%B7%E5%90%83%E9%A5%AD%E4%B8%93%E5%9C%BA.png",朋友请吃饭专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9C%8B%E5%8F%8B%E8%AF%B7%E5%90%83%E9%A5%AD%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",朋友请吃饭专场
 https://huyazhibo.de5.net/?id=11352918
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/12%E9%81%93%E9%94%8B%E5%91%B3%E4%B8%93%E5%9C%BA.png",12道锋味专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/12%E9%81%93%E9%94%8B%E5%91%B3%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",12道锋味专场
 https://huyazhibo.de5.net/?id=30080162
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E6%88%91%E4%BB%AC%E7%9A%84%E5%AE%A2%E6%A0%88%E4%B8%93%E5%9C%BA.png",我们的客栈专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%91%E4%BB%AC%E7%9A%84%E5%AE%A2%E6%A0%88%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",我们的客栈专场
 https://huyazhibo.de5.net/?id=24609812
-#EXTINF:-1 group-title="📽️综艺直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%98%E5%BD%A2%E8%AE%A1%E4%B8%93%E5%9C%BA.png",变形计专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%98%E5%BD%A2%E8%AE%A1%E4%B8%93%E5%9C%BA.png" group-title="📽️综艺直播",变形计专场
 https://huyazhibo.de5.net/?id=23903164
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E6%8E%A2%E6%A1%88%E5%89%A7%E4%B8%93%E5%8C%BA.png",探案剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%8E%A2%E6%A1%88%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",探案剧专区
 https://huyazhibo.de5.net/?id=20969144
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E9%83%BD%E5%B8%82%E5%89%A7%E4%B8%93%E5%8C%BA.png",都市剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%83%BD%E5%B8%82%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",都市剧专区
 https://huyazhibo.de5.net/?id=29982666
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E5%88%91%E4%BE%A6%E5%89%A7%E4%B8%93%E5%8C%BA.png",刑侦剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%91%E4%BE%A6%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",刑侦剧专区
 https://huyazhibo.de5.net/?id=20969130
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%B6%E5%BA%AD%E5%89%A7%E4%B8%93%E5%8C%BA.png",家庭剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%B6%E5%BA%AD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",家庭剧专区
 https://huyazhibo.de5.net/?id=11352872
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E7%BB%8F%E5%85%B8%E5%89%A7%E4%B8%93%E5%8C%BA.png",经典剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BB%8F%E5%85%B8%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",经典剧专区
 https://huyazhibo.de5.net/?id=11602081
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E6%80%80%E6%97%A7%E5%89%A7%E4%B8%93%E5%8C%BA.png",怀旧剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%80%80%E6%97%A7%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",怀旧剧专区
 https://huyazhibo.de5.net/?id=30080241
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E6%8A%97%E6%88%98%E5%89%A7%E4%B8%93%E5%8C%BA.png",抗战剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%8A%97%E6%88%98%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",抗战剧专区
 https://huyazhibo.de5.net/?id=11602072
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%B0%E6%B9%BE%E5%89%A7%E4%B8%93%E5%8C%BA.png",台湾剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%B0%E6%B9%BE%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",台湾剧专区
 https://huyazhibo.de5.net/?id=11342436
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9F%A9%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png",韩国剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%A9%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",韩国剧专区
 https://huyazhibo.de5.net/?id=23863787
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png",美国剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",美国剧专区
 https://huyazhibo.de5.net/?id=20985825
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png",英国剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E5%9B%BD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",英国剧专区
 https://huyazhibo.de5.net/?id=29982659
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E6%A0%A1%E5%9B%AD%E5%89%A7%E4%B8%93%E5%8C%BA.png",校园剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A0%A1%E5%9B%AD%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",校园剧专区
 https://huyazhibo.de5.net/?id=30080228
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B0%8D%E6%88%98%E5%89%A7%E4%B8%93%E5%8C%BA.png",谍战剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B0%8D%E6%88%98%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",谍战剧专区
 https://huyazhibo.de5.net/?id=30080225
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%A4%E8%A3%85%E5%89%A7%E4%B8%93%E5%8C%BA.png",古装剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%A4%E8%A3%85%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",古装剧专区
 https://huyazhibo.de5.net/?id=24314158
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B9%A1%E6%9D%91%E5%89%A7%E4%B8%93%E5%8C%BA.png",乡村剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B9%A1%E6%9D%91%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",乡村剧专区
 https://huyazhibo.de5.net/?id=30080255
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E5%81%B6%E5%83%8F%E5%89%A7%E4%B8%93%E5%8C%BA.png",偶像剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%81%B6%E5%83%8F%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",偶像剧专区
 https://huyazhibo.de5.net/?id=11601964
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E6%83%85%E5%89%A7%E4%B8%93%E5%8C%BA.png",爱情剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E6%83%85%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",爱情剧专区
 https://huyazhibo.de5.net/?id=29982671
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E6%90%9E%E7%AC%91%E5%89%A7%E4%B8%93%E5%8C%BA.png",搞笑剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%90%9E%E7%AC%91%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",搞笑剧专区
 https://huyazhibo.de5.net/?id=21059634
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A6%E4%BE%A0%E5%89%A7%E4%B8%93%E5%8C%BA.png",武侠剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A6%E4%BE%A0%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",武侠剧专区
 https://huyazhibo.de5.net/?id=20985816
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E7%A9%BF%E8%B6%8A%E5%89%A7%E4%B8%93%E5%8C%BA.png",穿越剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A9%BF%E8%B6%8A%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",穿越剧专区
 https://huyazhibo.de5.net/?id=26355857
-#EXTINF:-1 group-title="📺电视剧直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B9%B4%E4%BB%A3%E5%89%A7%E4%B8%93%E5%8C%BA.png",年代剧专区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B9%B4%E4%BB%A3%E5%89%A7%E4%B8%93%E5%8C%BA.png" group-title="📺电视剧直播",年代剧专区
 https://huyazhibo.de5.net/?id=20969095
-#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/%E7%A2%8E%E7%89%87%E8%AE%B0.png",碎片记
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A2%8E%E7%89%87%E8%AE%B0.png" group-title="💽纪录片直播",碎片记
 http://live.nctv.top/douyu1.php?id=9412981
-#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%87%E5%AE%99%E8%A7%86%E7%95%8C.png",宇宙视界
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%87%E5%AE%99%E8%A7%86%E7%95%8C.png" group-title="💽纪录片直播",宇宙视界
 http://live.nctv.top/douyu1.php?id=9498354
-#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/%E7%A7%91%E5%AD%A6%E6%94%BE%E6%98%A0%E5%AE%A4.png",科学放映室
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A7%91%E5%AD%A6%E6%94%BE%E6%98%A0%E5%AE%A4.png" group-title="💽纪录片直播",科学放映室
 http://live.nctv.top/douyu1.php?id=9439712
-#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%87%E5%AE%99%E6%8E%A2%E7%B4%A2%E9%A3%9E%E8%88%B9.png",宇宙探索飞船
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%87%E5%AE%99%E6%8E%A2%E7%B4%A2%E9%A3%9E%E8%88%B9.png" group-title="💽纪录片直播",宇宙探索飞船
 http://live.nctv.top/douyu1.php?id=9456028
-#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%96%E7%95%8C%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%B0%9C.png",世界未解之谜
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%96%E7%95%8C%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%B0%9C.png" group-title="💽纪录片直播",世界未解之谜
 http://live.nctv.top/douyu1.php?id=9369468
-#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/%E8%88%AA%E6%8B%8D%E4%B8%AD%E5%9B%BD.png",航拍中国
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%88%AA%E6%8B%8D%E4%B8%AD%E5%9B%BD.png" group-title="💽纪录片直播",航拍中国
 https://huyazhibo.de5.net/?id=22414123
-#EXTINF:-1 group-title="💽纪录片直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%9B%BD%E9%80%9A%E5%8F%B2.png",中国通史
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%9B%BD%E9%80%9A%E5%8F%B2.png" group-title="💽纪录片直播",中国通史
 https://huyazhibo.de5.net/?id=20985822
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%93%E5%9C%BA.png",端游/英雄联盟专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",端游/英雄联盟专场
 https://huyazhibo.de5.net/?id=660000
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E4%B8%93%E5%9C%BA.png",端游/无畏契约专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",端游/无畏契约专场
 https://huyazhibo.de5.net/?id=660679
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E4%BA%91%E9%A1%B6%E4%B9%8B%E5%BC%88%E4%B8%93%E5%9C%BA.png",端游/云顶之弈专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E4%BA%91%E9%A1%B6%E4%B9%8B%E5%BC%88%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",端游/云顶之弈专场
 https://huyazhibo.de5.net/?id=24423598
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%E4%B8%93%E5%9C%BA.png",端游/穿越火线专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",端游/穿越火线专场
 https://huyazhibo.de5.net/?id=660101
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%E4%B8%93%E5%9C%BA.png",端游/炉石传说专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",端游/炉石传说专场
 https://huyazhibo.de5.net/?id=21103932
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%E4%B8%93%E5%9C%BA.png",端游/永劫无间专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",端游/永劫无间专场
 https://huyazhibo.de5.net/?id=660115
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2FDOTA2%E4%B8%93%E5%9C%BA.png",端游/DOTA2专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2FDOTA2%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",端游/DOTA2专场
 https://huyazhibo.de5.net/?id=476318
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E5%9C%B0%E4%B8%8B%E5%9F%8E%E4%B8%8E%E5%8B%87%E5%A3%AB%E4%B8%93%E5%9C%BA.png",端游/地下城与勇士专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AB%AF%E6%B8%B8%2F%E5%9C%B0%E4%B8%8B%E5%9F%8E%E4%B8%8E%E5%8B%87%E5%A3%AB%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",端游/地下城与勇士专场
 https://huyazhibo.de5.net/?id=21103948
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%93%E5%9C%BA.png",手游/王者荣耀专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/王者荣耀专场
 https://huyazhibo.de5.net/?id=660002
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E5%A4%A9%E5%A4%A9%E5%90%83%E9%B8%A1%E4%B8%93%E5%9C%BA.png",手游/天天吃鸡专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E5%A4%A9%E5%A4%A9%E5%90%83%E9%B8%A1%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/天天吃鸡专场
 https://huyazhibo.de5.net/?id=660004
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E4%B8%93%E5%9C%BA.png",手游/三角洲行动专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/三角洲行动专场
 https://huyazhibo.de5.net/?id=29701539
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E4%B8%93%E5%9C%BA.png",手游/和平精英专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/和平精英专场
 https://huyazhibo.de5.net/?id=660135
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%93%E5%9C%BA.png",手游/英雄联盟专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/英雄联盟专场
 https://huyazhibo.de5.net/?id=24318577
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2FCF%E4%B8%93%E5%9C%BA.png",手游/CF专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2FCF%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/CF专场
 https://huyazhibo.de5.net/?id=660102
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2FDNF%E4%B8%93%E5%9C%BA.png",手游/DNF专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2FDNF%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/DNF专场
 https://huyazhibo.de5.net/?id=29886331
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E4%B8%93%E5%9C%BA.png",手游/火影忍者专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/火影忍者专场
 https://huyazhibo.de5.net/?id=25567648
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E7%AC%AC5%E4%BA%BA%E6%A0%BC%E4%B8%93%E5%9C%BA.png",手游/第5人格专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E7%AC%AC5%E4%BA%BA%E6%A0%BC%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/第5人格专场
 https://huyazhibo.de5.net/?id=461698
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E5%8E%9F%E7%A5%9E%E4%B8%93%E5%9C%BA.png",手游/原神专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E5%8E%9F%E7%A5%9E%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/原神专场
 https://huyazhibo.de5.net/?id=25567635
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2FQQ%E9%A3%9E%E8%BD%A6%E4%B8%93%E5%9C%BA.png",手游/QQ飞车专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2FQQ%E9%A3%9E%E8%BD%A6%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/QQ飞车专场
 https://huyazhibo.de5.net/?id=660117
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2FJJ%E6%96%97%E5%9C%B0%E4%B8%BB%E4%B8%93%E5%9C%BA.png",手游/JJ斗地主专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2FJJ%E6%96%97%E5%9C%B0%E4%B8%BB%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/JJ斗地主专场
 https://huyazhibo.de5.net/?id=30814433
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB%E4%B8%93%E5%9C%BA.png",手游/欢乐斗地主专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%8B%E6%B8%B8%2F%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",手游/欢乐斗地主专场
 https://huyazhibo.de5.net/?id=21103928
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%95%E6%9C%BA%2F%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%93%E5%9C%BA.png",单机/我的世界专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%95%E6%9C%BA%2F%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",单机/我的世界专场
 https://huyazhibo.de5.net/?id=667788
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%95%E6%9C%BA%2F%E6%8B%B3%E7%9A%87%E4%B8%93%E5%9C%BA.png",单机/拳皇专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%95%E6%9C%BA%2F%E6%8B%B3%E7%9A%87%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",单机/拳皇专场
 https://huyazhibo.de5.net/?id=17167271
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%95%E6%9C%BA%2F%E5%B0%8F%E9%9C%B8%E7%8E%8B%E4%B8%93%E5%9C%BA.png",单机/小霸王专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%95%E6%9C%BA%2F%E5%B0%8F%E9%9C%B8%E7%8E%8B%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",单机/小霸王专场
 https://huyazhibo.de5.net/?id=24723731
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%95%E6%9C%BA%2F%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E4%B8%93%E5%9C%BA.png",单机/植物大战僵尸专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%95%E6%9C%BA%2F%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E4%B8%93%E5%9C%BA.png" group-title="🎮游戏直播",单机/植物大战僵尸专场
 https://huyazhibo.de5.net/?id=29386152
-#EXTINF:-1 group-title="🎮游戏直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%95%E6%9C%BA%2F%E4%B8%89%E5%9B%BD%E6%88%98%E8%AE%B0.png",单机/三国战记
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%95%E6%9C%BA%2F%E4%B8%89%E5%9B%BD%E6%88%98%E8%AE%B0.png" group-title="🎮游戏直播",单机/三国战记
 http://live.nctv.top/douyu1.php?id=6122419
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E9%98%BF%E4%B8%83%E7%82%B9%E6%AD%8C%E5%8F%B0.png",阿七点歌台
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%98%BF%E4%B8%83%E7%82%B9%E6%AD%8C%E5%8F%B0.png" group-title="🎧音乐直播",阿七点歌台
 http://live.nctv.top/douyu1.php?id=3186217
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E6%82%A6%E5%96%B5%E7%82%B9%E6%AD%8C%E5%8F%B0.png",音悦喵点歌台
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E6%82%A6%E5%96%B5%E7%82%B9%E6%AD%8C%E5%8F%B0.png" group-title="🎧音乐直播",音悦喵点歌台
 http://live.nctv.top/douyu1.php?id=3870925
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90%E5%8F%B0%E9%95%BF.png",音乐台长
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90%E5%8F%B0%E9%95%BF.png" group-title="🎧音乐直播",音乐台长
 http://live.nctv.top/douyu1.php?id=9629943
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8B%E9%A5%AD%E9%9F%B3%E4%B9%90.png",下饭音乐
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8B%E9%A5%AD%E9%9F%B3%E4%B9%90.png" group-title="🎧音乐直播",下饭音乐
 http://live.nctv.top/douyu1.php?id=8661966
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90Wu%E5%93%A5.png",音乐Wu哥
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90Wu%E5%93%A5.png" group-title="🎧音乐直播",音乐Wu哥
 http://live.nctv.top/douyu1.php?id=8667755
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90%E5%BF%AB%E6%96%97.png",音乐快斗
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90%E5%BF%AB%E6%96%97.png" group-title="🎧音乐直播",音乐快斗
 http://live.nctv.top/douyu1.php?id=8324627
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E8%9A%95%E8%B1%86%E7%94%B5%E5%8F%B0.png",蚕豆电台
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%9A%95%E8%B1%86%E7%94%B5%E5%8F%B0.png" group-title="🎧音乐直播",蚕豆电台
 http://live.nctv.top/douyu1.php?id=8768792
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90%E7%8C%9B%E6%8A%AC%E5%A4%B4.png",音乐猛抬头
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90%E7%8C%9B%E6%8A%AC%E5%A4%B4.png" group-title="🎧音乐直播",音乐猛抬头
 http://live.nctv.top/douyu1.php?id=8666105
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E5%96%B5%E5%96%B5%E9%9F%B3%E4%B9%90%E5%8F%B0.png",喵喵音乐台
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%96%B5%E5%96%B5%E9%9F%B3%E4%B9%90%E5%8F%B0.png" group-title="🎧音乐直播",喵喵音乐台
 http://live.nctv.top/douyu1.php?id=9568091
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E7%B3%96%E9%9F%B3%E4%B9%90%E7%A7%80.png",黑糖音乐秀
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E7%B3%96%E9%9F%B3%E4%B9%90%E7%A7%80.png" group-title="🎧音乐直播",黑糖音乐秀
 http://live.nctv.top/douyu1.php?id=9560563
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E8%8D%92%E8%8D%89%E9%9F%B3%E4%B9%90.png",荒草音乐
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8D%92%E8%8D%89%E9%9F%B3%E4%B9%90.png" group-title="🎧音乐直播",荒草音乐
 http://live.nctv.top/douyu1.php?id=8706465
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E7%83%AD%E6%98%9F%E9%9F%B3%E4%B9%90%E8%8F%8C.png",热星音乐菌
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%83%AD%E6%98%9F%E9%9F%B3%E4%B9%90%E8%8F%8C.png" group-title="🎧音乐直播",热星音乐菌
 http://live.nctv.top/douyu1.php?id=8405922
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90Fans%E5%B0%8F%E7%90%BC.png",音乐Fans小琼
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90Fans%E5%B0%8F%E7%90%BC.png" group-title="🎧音乐直播",音乐Fans小琼
 http://live.nctv.top/douyu1.php?id=8666210
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E9%A3%9E%E9%A3%9E%E6%B5%81%E8%A1%8CDJ%E9%9F%B3%E4%B9%90.png",小飞飞流行DJ音乐
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E9%A3%9E%E9%A3%9E%E6%B5%81%E8%A1%8CDJ%E9%9F%B3%E4%B9%90.png" group-title="🎧音乐直播",小飞飞流行DJ音乐
 http://live.nctv.top/douyu1.php?id=10469362
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E8%88%9E%E7%82%B9%E6%AD%8C%E5%8F%B0.png",小舞点歌台
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E8%88%9E%E7%82%B9%E6%AD%8C%E5%8F%B0.png" group-title="🎧音乐直播",小舞点歌台
 https://huyazhibo.de5.net/?id=15590571
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/24%E5%B0%8F%E6%97%B6%E7%82%B9%E6%AD%8C%E5%8F%B0.png",24小时点歌台
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/24%E5%B0%8F%E6%97%B6%E7%82%B9%E6%AD%8C%E5%8F%B0.png" group-title="🎧音乐直播",24小时点歌台
 https://huyazhibo.de5.net/?id=25261191
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%9F%B3%E6%A6%B4.png",音乐小石榴
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%9F%B3%E6%A6%B4.png" group-title="🎧音乐直播",音乐小石榴
 https://huyazhibo.de5.net/?id=17091681
-#EXTINF:-1 group-title="🎧音乐直播" tvg-logo="https://epg.112114.xyz/logo/%E6%97%A5%E8%AF%AD%E4%B8%93%E5%9C%BA.png",日语专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%97%A5%E8%AF%AD%E4%B8%93%E5%9C%BA.png" group-title="🎧音乐直播",日语专场
 https://huyazhibo.de5.net/?id=21241795
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97.png",名侦探柯南
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97.png" group-title="🎎动漫直播",名侦探柯南
 https://huyazhibo.de5.net/?id=30080236
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85.png",火影忍者
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85.png" group-title="🎎动漫直播",火影忍者
 https://huyazhibo.de5.net/?id=29465866
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E8%B4%BC%E7%8E%8B.png",海贼王
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E8%B4%BC%E7%8E%8B.png" group-title="🎎动漫直播",海贼王
 https://huyazhibo.de5.net/?id=29982634
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D.png",神奇宝贝
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D.png" group-title="🎎动漫直播",神奇宝贝
 https://huyazhibo.de5.net/?id=21241784
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%AB%E5%B4%8E%E9%AA%8F.png",宫崎骏
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%AB%E5%B4%8E%E9%AA%8F.png" group-title="🎎动漫直播",宫崎骏
 https://huyazhibo.de5.net/?id=21059614
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E9%92%A2%E4%B9%8B%E7%82%BC%E9%87%91%E6%9C%AF%E5%B8%88.png",钢之炼金术师
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%92%A2%E4%B9%8B%E7%82%BC%E9%87%91%E6%9C%AF%E5%B8%88.png" group-title="🎎动漫直播",钢之炼金术师
 https://huyazhibo.de5.net/?id=20985859
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E5%AD%90%E7%9A%84%E7%AF%AE%E7%90%83.png",黑子的篮球
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E5%AD%90%E7%9A%84%E7%AF%AE%E7%90%83.png" group-title="🎎动漫直播",黑子的篮球
 https://huyazhibo.de5.net/?id=30080253
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E7%91%9E%E5%85%8B%E4%B8%8E%E8%8E%AB%E8%92%82.png",瑞克与莫蒂
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%91%9E%E5%85%8B%E4%B8%8E%E8%8E%AB%E8%92%82.png" group-title="🎎动漫直播",瑞克与莫蒂
 https://huyazhibo.de5.net/?id=29982655
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B0.png",成龙历险记
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B0.png" group-title="🎎动漫直播",成龙历险记
 https://huyazhibo.de5.net/?id=11352946
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0.png",蜡笔小新
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0.png" group-title="🎎动漫直播",蜡笔小新
 https://huyazhibo.de5.net/?id=11352970
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E6%A8%B1%E6%A1%83%E5%B0%8F%E4%B8%B8%E5%AD%90.png",樱桃小丸子
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A8%B1%E6%A1%83%E5%B0%8F%E4%B8%B8%E5%AD%90.png" group-title="🎎动漫直播",樱桃小丸子
 https://huyazhibo.de5.net/?id=11342394
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0.png",猫和老鼠
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0.png" group-title="🎎动漫直播",猫和老鼠
 https://huyazhibo.de5.net/?id=11352879
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E8%BF%AA%E8%BF%A6%E5%A5%A5%E7%89%B9%E6%9B%BC.png",迪迦奥特曼
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%BF%AA%E8%BF%A6%E5%A5%A5%E7%89%B9%E6%9B%BC.png" group-title="🎎动漫直播",迪迦奥特曼
 https://huyazhibo.de5.net/?id=11601966
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B5%9B%E6%96%87%E5%A5%A5%E7%89%B9%E6%9B%BC.png",赛文奥特曼
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B5%9B%E6%96%87%E5%A5%A5%E7%89%B9%E6%9B%BC.png" group-title="🎎动漫直播",赛文奥特曼
 https://huyazhibo.de5.net/?id=11602065
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E6%B3%B0%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC.png",泰罗奥特曼
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B3%B0%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC.png" group-title="🎎动漫直播",泰罗奥特曼
 https://huyazhibo.de5.net/?id=11352889
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B.png",全职高手
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B.png" group-title="🎎动漫直播",全职高手
 https://huyazhibo.de5.net/?id=21059628
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%93%86%E5%95%A6A%E6%A2%A6.png",哆啦A梦
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%86%E5%95%A6A%E6%A2%A6.png" group-title="🎎动漫直播",哆啦A梦
 https://huyazhibo.de5.net/?id=11601963
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D.png",海绵宝宝
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D.png" group-title="🎎动漫直播",海绵宝宝
 https://huyazhibo.de5.net/?id=11352919
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3.png",魔法少女
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3.png" group-title="🎎动漫直播",魔法少女
 https://huyazhibo.de5.net/?id=21059587
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E7%8C%8E%E4%BA%BA.png",全职猎人
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E7%8C%8E%E4%BA%BA.png" group-title="🎎动漫直播",全职猎人
 https://huyazhibo.de5.net/?id=30080254
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%9B%9B%E9%A9%B1%E5%85%84%E5%BC%9F.png",四驱兄弟
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%9B%9B%E9%A9%B1%E5%85%84%E5%BC%9F.png" group-title="🎎动漫直播",四驱兄弟
 https://huyazhibo.de5.net/?id=11352922
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E7%BD%91%E7%90%83%E7%8E%8B%E5%AD%90.png",网球王子
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BD%91%E7%90%83%E7%8E%8B%E5%AD%90.png" group-title="🎎动漫直播",网球王子
 https://huyazhibo.de5.net/?id=11352882
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%98.png",玩具总动员
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%98.png" group-title="🎎动漫直播",玩具总动员
 https://huyazhibo.de5.net/?id=30080256
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E9%80%9A%E7%81%B5%E7%8E%8B.png",通灵王
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%80%9A%E7%81%B5%E7%8E%8B.png" group-title="🎎动漫直播",通灵王
 https://huyazhibo.de5.net/?id=20969112
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E6%B8%B8%E6%88%8F%E7%8E%8B.png",游戏王
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%B8%E6%88%8F%E7%8E%8B.png" group-title="🎎动漫直播",游戏王
 https://huyazhibo.de5.net/?id=20985856
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E7%94%B7%E5%AD%90%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9A%84%E6%97%A5%E5%B8%B8.png",男子高中生的日常
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%94%B7%E5%AD%90%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9A%84%E6%97%A5%E5%B8%B8.png" group-title="🎎动漫直播",男子高中生的日常
 https://huyazhibo.de5.net/?id=20985858
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%85%83%E6%B0%94%E5%B0%91%E5%A5%B3%E7%BC%98%E7%BB%93%E7%A5%9E.png",元气少女缘结神
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%83%E6%B0%94%E5%B0%91%E5%A5%B3%E7%BC%98%E7%BB%93%E7%A5%9E.png" group-title="🎎动漫直播",元气少女缘结神
 https://huyazhibo.de5.net/?id=11352967
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E6%B3%95%E5%B8%88.png",全职法师
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E6%B3%95%E5%B8%88.png" group-title="🎎动漫直播",全职法师
 https://huyazhibo.de5.net/?id=26355772
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%B8%E5%85%84.png",尸兄
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%B8%E5%85%84.png" group-title="🎎动漫直播",尸兄
 https://huyazhibo.de5.net/?id=26355846
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E5%A4%B4%E5%84%BF%E5%AD%90%E5%B0%8F%E5%A4%B4%E7%88%B8%E7%88%B8.png",大头儿子小头爸爸
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E5%A4%B4%E5%84%BF%E5%AD%90%E5%B0%8F%E5%A4%B4%E7%88%B8%E7%88%B8.png" group-title="🎎动漫直播",大头儿子小头爸爸
 https://huyazhibo.de5.net/?id=20969114
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%93%AA%E5%90%92%E4%BC%A0%E5%A5%87.png",哪吒传奇
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%AA%E5%90%92%E4%BC%A0%E5%A5%87.png" group-title="🎎动漫直播",哪吒传奇
 https://huyazhibo.de5.net/?id=26355782
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E6%97%8F.png",龙族
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E6%97%8F.png" group-title="🎎动漫直播",龙族
 https://huyazhibo.de5.net/?id=23865086
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6.png",间谍过家家
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6.png" group-title="🎎动漫直播",间谍过家家
 https://huyazhibo.de5.net/?id=30080149
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B0.png",罗小黑战记
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B0.png" group-title="🎎动漫直播",罗小黑战记
 https://huyazhibo.de5.net/?id=24314159
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F.png",葫芦兄弟
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F.png" group-title="🎎动漫直播",葫芦兄弟
 https://huyazhibo.de5.net/?id=20985834
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98.png",咒术回战
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98.png" group-title="🎎动漫直播",咒术回战
 https://huyazhibo.de5.net/?id=21059561
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%8D%E5%8F%9B%E7%9A%84%E9%B2%81%E8%B7%AF%E4%BF%AE.png",反叛的鲁路修
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8F%8D%E5%8F%9B%E7%9A%84%E9%B2%81%E8%B7%AF%E4%BF%AE.png" group-title="🎎动漫直播",反叛的鲁路修
 https://huyazhibo.de5.net/?id=20969113
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B6%85%E8%87%AA%E7%84%B6%E6%AD%A6%E8%A3%85%E5%BD%93%E5%93%92%E5%BD%93.png",超自然武装当哒当
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B6%85%E8%87%AA%E7%84%B6%E6%AD%A6%E8%A3%85%E5%BD%93%E5%93%92%E5%BD%93.png" group-title="🎎动漫直播",超自然武装当哒当
 https://huyazhibo.de5.net/?id=20985850
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB.png",新世纪福音战士
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB.png" group-title="🎎动漫直播",新世纪福音战士
 https://huyazhibo.de5.net/?id=20985862
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E8%BD%BB%E7%BE%BD%E9%A3%9E%E6%89%AC.png",轻羽飞扬
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%BD%BB%E7%BE%BD%E9%A3%9E%E6%89%AC.png" group-title="🎎动漫直播",轻羽飞扬
 https://huyazhibo.de5.net/?id=30805998
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E8%99%AB%E5%B8%88.png",虫师
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%99%AB%E5%B8%88.png" group-title="🎎动漫直播",虫师
 https://huyazhibo.de5.net/?id=21241791
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E7%A5%9E%E8%8B%B1%E9%9B%84%E4%BC%A0.png",魔神英雄传
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E7%A5%9E%E8%8B%B1%E9%9B%84%E4%BC%A0.png" group-title="🎎动漫直播",魔神英雄传
 https://huyazhibo.de5.net/?id=21241839
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%8D%8E%E5%B0%8F%E5%BD%93%E5%AE%B6.png",中华小当家
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%8D%8E%E5%B0%8F%E5%BD%93%E5%AE%B6.png" group-title="🎎动漫直播",中华小当家
 https://huyazhibo.de5.net/?id=30613314
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E7%8B%AE%E5%AD%90%E7%8E%8B.png",狮子王
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8B%AE%E5%AD%90%E7%8E%8B.png" group-title="🎎动漫直播",狮子王
 https://huyazhibo.de5.net/?id=11601977
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90.png",夏目友人帐
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90.png" group-title="🎎动漫直播",夏目友人帐
 https://huyazhibo.de5.net/?id=23865058
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8E%A8%E7%A5%9E%E5%B0%8F%E5%BD%93%E5%AE%B6.png",厨神小当家
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8E%A8%E7%A5%9E%E5%B0%8F%E5%BD%93%E5%AE%B6.png" group-title="🎎动漫直播",厨神小当家
 https://huyazhibo.de5.net/?id=24257300
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B.png",灌篮高手
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B.png" group-title="🎎动漫直播",灌篮高手
 https://huyazhibo.de5.net/?id=25039461
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%93%91%E8%88%8D.png",哑舍
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%91%E8%88%8D.png" group-title="🎎动漫直播",哑舍
 https://huyazhibo.de5.net/?id=16020022
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E6%8E%92%E7%90%83.png",小排球
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E6%8E%92%E7%90%83.png" group-title="🎎动漫直播",小排球
 https://huyazhibo.de5.net/?id=20985802
-#EXTINF:-1 group-title="🎎动漫直播" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png",英雄联盟
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="🎎动漫直播",英雄联盟
 https://huyazhibo.de5.net/?id=23903196
-#EXTINF:-1 group-title="🍿短剧直播" tvg-logo="https://epg.112114.xyz/logo/%E7%9F%AD%E5%89%A7%E6%97%A0%E6%9E%81%E9%99%90.png",短剧无极限
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%9F%AD%E5%89%A7%E6%97%A0%E6%9E%81%E9%99%90.png" group-title="🍿短剧直播",短剧无极限
 https://huyazhibo.de5.net/?id=31001847
-#EXTINF:-1 group-title="🍿短剧直播" tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A.png",陈翔六点半
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E7%BF%94%E5%85%AD%E7%82%B9%E5%8D%8A.png" group-title="🍿短剧直播",陈翔六点半
 https://huyazhibo.de5.net/?id=11274154
-#EXTINF:-1 group-title="🍿短剧直播" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%BA%E7%94%9F%E5%9B%9E%E7%AD%94%E6%9C%BA%E6%9C%AC%E6%9C%BA.png",人生回答机本机
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BA%BA%E7%94%9F%E5%9B%9E%E7%AD%94%E6%9C%BA%E6%9C%AC%E6%9C%BA.png" group-title="🍿短剧直播",人生回答机本机
 http://live.nctv.top/douyu1.php?id=9409722
-#EXTINF:-1 group-title="🍿短剧直播" tvg-logo="https://epg.112114.xyz/logo/%E9%83%91%E4%BA%91%E5%B7%A5%E4%BD%9C%E5%AE%A4.png",郑云工作室
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%83%91%E4%BA%91%E5%B7%A5%E4%BD%9C%E5%AE%A4.png" group-title="🍿短剧直播",郑云工作室
 http://live.nctv.top/douyu1.php?id=2995636
-#EXTINF:-1 group-title="🍿短剧直播" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8BLi%E5%B7%AE%E7%82%B9%E7%BA%A2.png",王Li差点红
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8BLi%E5%B7%AE%E7%82%B9%E7%BA%A2.png" group-title="🍿短剧直播",王Li差点红
 http://live.nctv.top/douyu1.php?id=9348469
-#EXTINF:-1 group-title="🍿短剧直播" tvg-logo="https://epg.112114.xyz/logo/%E5%93%88%E5%88%A9%E5%BD%B1%E8%A7%86.png",哈利影视
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%93%88%E5%88%A9%E5%BD%B1%E8%A7%86.png" group-title="🍿短剧直播",哈利影视
 http://live.nctv.top/douyu1.php?id=8475821
-#EXTINF:-1 group-title="🍿短剧直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8D%E6%80%9D%E5%BC%82%E5%89%A7%E5%9C%BA.png",不思异剧场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8D%E6%80%9D%E5%BC%82%E5%89%A7%E5%9C%BA.png" group-title="🍿短剧直播",不思异剧场
 http://live.nctv.top/douyu1.php?id=9297412
-#EXTINF:-1 group-title="🧨小品直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B5%B5%E6%9C%AC%E5%B1%B1%E4%B8%93%E5%9C%BA.png",赵本山专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B5%B5%E6%9C%AC%E5%B1%B1%E4%B8%93%E5%9C%BA.png" group-title="🧨小品直播",赵本山专场
 http://live.nctv.top/douyu1.php?id=9817716
-#EXTINF:-1 group-title="🧨小品直播" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%8B%E5%B0%8F%E5%AE%9D%E4%B8%93%E5%9C%BA.png",宋小宝专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AE%8B%E5%B0%8F%E5%AE%9D%E4%B8%93%E5%9C%BA.png" group-title="🧨小品直播",宋小宝专场
 http://live.nctv.top/douyu1.php?id=9817729
-#EXTINF:-1 group-title="🧨小品直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B4%BE%E7%8E%B2%E4%B8%93%E5%9C%BA.png",贾玲专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B4%BE%E7%8E%B2%E4%B8%93%E5%9C%BA.png" group-title="🧨小品直播",贾玲专场
 http://live.nctv.top/douyu1.php?id=10419541
-#EXTINF:-1 group-title="🧨小品直播" tvg-logo="https://epg.112114.xyz/logo/%E8%AE%B8%E5%90%9B%E8%81%AA%E4%B8%93%E5%9C%BA.png",许君聪专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%AE%B8%E5%90%9B%E8%81%AA%E4%B8%93%E5%9C%BA.png" group-title="🧨小品直播",许君聪专场
 http://live.nctv.top/douyu1.php?id=10419558
-#EXTINF:-1 group-title="🧨小品直播" tvg-logo="https://epg.112114.xyz/logo/%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E4%B8%93%E5%9C%BA.png",沈腾马丽专场
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E4%B8%93%E5%9C%BA.png" group-title="🧨小品直播",沈腾马丽专场
 http://live.nctv.top/douyu1.php?id=10153463
-#EXTINF:-1 group-title="🧨小品直播" tvg-logo="https://epg.112114.xyz/logo/3030%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81.png",3030相声小品
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/3030%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81.png" group-title="🧨小品直播",3030相声小品
 http://live.nctv.top/douyu1.php?id=9286868
-#EXTINF:-1 group-title="🎚️相声直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E9%A5%AD%E4%BA%8B%E4%BB%B6%E8%96%84.png",小饭事件薄
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E9%A5%AD%E4%BA%8B%E4%BB%B6%E8%96%84.png" group-title="🎚️相声直播",小饭事件薄
 https://huyazhibo.de5.net/?id=20985830
-#EXTINF:-1 group-title="📚听书直播" tvg-logo="https://epg.112114.xyz/logo/%E8%8D%92%E9%87%8E%E6%9C%89%E5%A3%B0%E4%B9%A6.png",荒野有声书
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8D%92%E9%87%8E%E6%9C%89%E5%A3%B0%E4%B9%A6.png" group-title="📚听书直播",荒野有声书
 http://live.nctv.top/douyu1.php?id=10650322
-#EXTINF:-1 group-title="📚听书直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E5%B0%8F%E9%B9%BF%E8%80%81%E5%B8%88.png",小小鹿老师
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E5%B0%8F%E9%B9%BF%E8%80%81%E5%B8%88.png" group-title="📚听书直播",小小鹿老师
 http://live.nctv.top/douyu1.php?id=9442889
-#EXTINF:-1 group-title="📚听书直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B4%9F%E6%8B%85%E4%BA%A1%E9%AD%82.png",负担亡魂
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B4%9F%E6%8B%85%E4%BA%A1%E9%AD%82.png" group-title="📚听书直播",负担亡魂
 http://live.nctv.top/douyu1.php?id=10308242
-#EXTINF:-1 group-title="📖评书直播" tvg-logo="https://epg.112114.xyz/logo/%E6%91%84%E6%B0%8F%E9%9B%B6%E5%BA%A6.png",摄氏零度
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%91%84%E6%B0%8F%E9%9B%B6%E5%BA%A6.png" group-title="📖评书直播",摄氏零度
 https://huyazhibo.de5.net/?id=11602032
-#EXTINF:-1 group-title="👴🏻老年直播" tvg-logo="https://epg.112114.xyz/logo/%E6%88%8F%E5%89%A7%E5%BD%B1%E8%A7%86.png",戏剧影视
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%8F%E5%89%A7%E5%BD%B1%E8%A7%86.png" group-title="👴🏻老年直播",戏剧影视
 http://xatv-yt.xiancity.cn/live/4/index.m3u8
-#EXTINF:-1 group-title="👴🏻老年直播" tvg-logo="https://epg.112114.xyz/logo/%E7%82%B9%E6%8E%8C%E8%B4%A2%E7%BB%8F.png",点掌财经
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%82%B9%E6%8E%8C%E8%B4%A2%E7%BB%8F.png" group-title="👴🏻老年直播",点掌财经
 https://volcanopull.aniu.tv/live/aniu2/index.m3u8
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%A5%E5%91%80%E5%AE%98%E4%BA%BAV.png",来呀官人V
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%A5%E5%91%80%E5%AE%98%E4%BA%BAV.png" group-title="🔊解说直播",来呀官人V
 http://live.nctv.top/douyu1.php?id=9986305
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E9%98%BF%E6%96%97%E5%BD%92%E6%9D%A5%E4%BA%86.png",阿斗归来了
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%98%BF%E6%96%97%E5%BD%92%E6%9D%A5%E4%BA%86.png" group-title="🔊解说直播",阿斗归来了
 https://huyazhibo.de5.net/?id=13303478
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E8%8A%AE%E6%A9%99%E8%AF%B4%E5%89%A7.png",芮橙说剧
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8A%AE%E6%A9%99%E8%AF%B4%E5%89%A7.png" group-title="🔊解说直播",芮橙说剧
 https://huyazhibo.de5.net/?id=30287258
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E7%8B%97%E5%93%A5%E5%90%83%E7%81%AB%E9%94%85.png",狗哥吃火锅
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8B%97%E5%93%A5%E5%90%83%E7%81%AB%E9%94%85.png" group-title="🔊解说直播",狗哥吃火锅
 https://huyazhibo.de5.net/?id=21059624
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%81%E8%B1%86%E7%9C%8B%E7%94%B5%E5%BD%B1.png",扁豆看电影
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%81%E8%B1%86%E7%9C%8B%E7%94%B5%E5%BD%B1.png" group-title="🔊解说直播",扁豆看电影
 https://huyazhibo.de5.net/?id=16028551
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E5%90%9B%E9%99%8C%E8%A7%82%E5%BD%B1.png",君陌观影
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%90%9B%E9%99%8C%E8%A7%82%E5%BD%B1.png" group-title="🔊解说直播",君陌观影
 https://huyazhibo.de5.net/?id=29420446
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E7%94%B5%E5%BD%B1%E7%8B%82%E4%BA%BAA.png",电影狂人A
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%94%B5%E5%BD%B1%E7%8B%82%E4%BA%BAA.png" group-title="🔊解说直播",电影狂人A
 https://huyazhibo.de5.net/?id=18715610
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%9B%E5%93%A5%E5%BD%B1%E8%A7%86.png",力哥影视
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8A%9B%E5%93%A5%E5%BD%B1%E8%A7%86.png" group-title="🔊解说直播",力哥影视
 https://huyazhibo.de5.net/?id=23419131
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E4%B8%91%E8%AE%B2%E7%94%B5%E5%BD%B1.png",小丑讲电影
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E4%B8%91%E8%AE%B2%E7%94%B5%E5%BD%B1.png" group-title="🔊解说直播",小丑讲电影
 https://huyazhibo.de5.net/?id=16857432
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E5%90%BE%E8%81%8A%E7%94%B5%E5%BD%B1.png",吾聊电影
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%90%BE%E8%81%8A%E7%94%B5%E5%BD%B1.png" group-title="🔊解说直播",吾聊电影
 https://huyazhibo.de5.net/?id=16424416
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E8%89%AF%E5%B0%91%E8%81%8A%E6%BC%AB%E5%A8%81.png",良少聊漫威
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%89%AF%E5%B0%91%E8%81%8A%E6%BC%AB%E5%A8%81.png" group-title="🔊解说直播",良少聊漫威
 https://huyazhibo.de5.net/?id=25523725
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E7%94%B5%E5%BD%B1%E6%9C%80TOP.png",电影最TOP
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%94%B5%E5%BD%B1%E6%9C%80TOP.png" group-title="🔊解说直播",电影最TOP
 https://huyazhibo.de5.net/?id=11774959
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/S%E5%93%A5%E5%BD%B1%E8%A7%86.png",S哥影视
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/S%E5%93%A5%E5%BD%B1%E8%A7%86.png" group-title="🔊解说直播",S哥影视
 https://huyazhibo.de5.net/?id=24720260
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E7%A1%AC%E6%B1%89%E5%BD%B1%E6%8E%A2.png",硬汉影探
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A1%AC%E6%B1%89%E5%BD%B1%E6%8E%A2.png" group-title="🔊解说直播",硬汉影探
 https://huyazhibo.de5.net/?id=24614407
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E5%BD%B1%E5%B0%8F%E6%B8%94.png",影小渔
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BD%B1%E5%B0%8F%E6%B8%94.png" group-title="🔊解说直播",影小渔
 https://huyazhibo.de5.net/?id=30296971
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E6%96%8C%E5%93%A5%E6%BC%AB%E8%AF%B4.png",斌哥漫说
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%96%8C%E5%93%A5%E6%BC%AB%E8%AF%B4.png" group-title="🔊解说直播",斌哥漫说
 https://huyazhibo.de5.net/?id=18632116
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E8%A5%BF%E8%A7%86%E9%A2%91.png",南西视频
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E8%A5%BF%E8%A7%86%E9%A2%91.png" group-title="🔊解说直播",南西视频
 https://huyazhibo.de5.net/?id=16913382
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E8%B1%A1%E6%94%BE%E6%98%A0%E5%AE%A4.png",大象放映室
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E8%B1%A1%E6%94%BE%E6%98%A0%E5%AE%A4.png" group-title="🔊解说直播",大象放映室
 https://huyazhibo.de5.net/?id=21277391
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E9%98%BF%E8%89%AF%E8%AF%B4%E7%BE%8E%E5%89%A7.png",阿良说美剧
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%98%BF%E8%89%AF%E8%AF%B4%E7%BE%8E%E5%89%A7.png" group-title="🔊解说直播",阿良说美剧
 https://huyazhibo.de5.net/?id=20488841
-#EXTINF:-1 group-title="🔊解说直播" tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A2%E6%88%88%E7%94%B5%E5%BD%B1.png",止戈电影
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A2%E6%88%88%E7%94%B5%E5%BD%B1.png" group-title="🔊解说直播",止戈电影
 https://huyazhibo.de5.net/?id=19863777
-#EXTINF:-1 group-title="👁️‍🗨️监控直播" tvg-logo="https://epg.112114.xyz/logo/%E6%BE%8E%E6%B9%83%E6%99%AF%E5%8C%BA.png",澎湃景区
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%BE%8E%E6%B9%83%E6%99%AF%E5%8C%BA.png" group-title="👁️‍🗨️监控直播",澎湃景区
 https://play-a2.quklive.com/live/1765245429980053.m3u8
-#EXTINF:-1 group-title="👁️‍🗨️监控直播" tvg-logo="https://epg.112114.xyz/logo/%E9%99%86%E5%AE%B6%E5%98%B4.png",陆家嘴
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%86%E5%AE%B6%E5%98%B4.png" group-title="👁️‍🗨️监控直播",陆家嘴
 https://tftp4ge3drmt1go5nhcju8yzdrptpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=8a15d23fe661e20e47cce670-177203770982085&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168187559701054860
-#EXTINF:-1 group-title="👁️‍🗨️监控直播" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E9%83%BD%E7%9C%BC.png",魔都眼
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E9%83%BD%E7%9C%BC.png" group-title="👁️‍🗨️监控直播",魔都眼
 https://tftp0gaa1hcjagozdcmttgyan45djq311475uf3issh5pchzgg55p.100ycdn.com/live-ws.kksmg.com/live/sdi6/playlist.m3u8?wsSession=5b0157b25e26fa5fbe3ebedf-177204125960201&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168218615997031039
-#EXTINF:-1 group-title="👁️‍🗨️监控直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%96%E6%BB%A9%E8%A7%82%E5%85%89%E5%B9%B3%E5%8F%B0.png",外滩观光平台
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%96%E6%BB%A9%E8%A7%82%E5%85%89%E5%B9%B3%E5%8F%B0.png" group-title="👁️‍🗨️监控直播",外滩观光平台
 https://tftp1go3nhqbtfa3d1mtugessa4mscwszqh3qppizg5m8f3ts65e.100ycdn.com/live-ws.kksmg.com/live/sdi4/playlist.m3u8?wsSession=e18328672261b2e3fcadcc17-177204266364389&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168276898037564649
-#EXTINF:-1 group-title="👁️‍🗨️监控直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8C%97%E5%A4%96%E6%BB%A9.png",北外滩
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8C%97%E5%A4%96%E6%BB%A9.png" group-title="👁️‍🗨️监控直播",北外滩
 https://tftp6graunmttghanhctofa3uymmcpf5gkmmzqczgs45upiu1ha5xpw.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=3ccfdb4284eaea73bb7cab60-177204275008725&wsIPSercert=832abf7ce82ccc02b32b56b105f24835&wsBindIP=2&wsserid=1168218612390266553
-#EXTINF:-1 group-title="👁️‍🗨️监控直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7G1503%E4%B8%9C%E5%A4%A7%E9%81%93.png",上海G1503东大道
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7G1503%E4%B8%9C%E5%A4%A7%E9%81%93.png" group-title="👁️‍🗨️监控直播",上海G1503东大道
 https://rvsh.jtw.sh.gov.cn/live/200120a4-3d7c-4a7d-82dc-71fdfef3e045_sub/index.m3u8?t=1902119605&k=2c3e3086e3191872
-#EXTINF:-1 group-title="👁️‍🗨️监控直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E4%B8%B4%E6%B8%AF%E5%A4%A7%E9%81%93%E4%B8%9C%E5%A4%A7%E5%85%AC%E8%B7%AF.png",上海临港大道东大公路
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E4%B8%B4%E6%B8%AF%E5%A4%A7%E9%81%93%E4%B8%9C%E5%A4%A7%E5%85%AC%E8%B7%AF.png" group-title="👁️‍🗨️监控直播",上海临港大道东大公路
 https://rvsh.jtw.sh.gov.cn/live/310120a4-3d7c-4a7d-82dc-71fde233e060_sub/index.m3u8?t=1902119782&k=e5d9cad0fb4bde78
-#EXTINF:-1 group-title="💖爱奇艺直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%96%9C%E5%89%A7%E5%A4%A7%E8%B5%9B.png",一年一度喜剧大赛
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%96%9C%E5%89%A7%E5%A4%A7%E8%B5%9B.png" group-title="💖爱奇艺直播",一年一度喜剧大赛
 https://alicoccdncmnet-hd.inter.71edge.com/tslive/l1/c51_lb_728_300_t10/S2SosBg_68g057-zBj7nmfrgs91iP37_pf6vxKx85ogguLIU3CU8SW_Y7H-1PHvyi99Ii2JFYijxYOei6iZner8QzyvFSNdDHH4HKjClgQKWGTbBdcHKOCHdsU3b1N-BrKiw3S7j3SCX6dyCTs7rcy64zcIPximAOEVgehMq3yBKfCmtJcbxGNJTLBalpWxFnS9TqEPfTjxnpz6YXBKxsqktgAuvSZh0YMwgtqXXpGW4Acf6eDoCMetaXupxvOjeXiYwJ8PWE2EHCz8E5RUSVIkgzqdr0H_UCDMLBgDOxh9Fx5wQklSuDVjds1N736MIdknpyHFEh4FV_aYUv-nsSA/1dd9185f7c7a34c902ab9b23bf6e849c8/c51_lb_728_300_t10.m3u8?key=0baa5db205ac0d2962788b935d5dc8a5c&dis_t=1752408293&random=1&rand_hash=0&uuid=6f1d53dc-6873a0e5-454&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
-#EXTINF:-1 group-title="💖爱奇艺直播" tvg-logo="https://epg.112114.xyz/logo/%E6%88%98%E4%BA%89%E5%A4%A7%E7%89%87%E4%B8%8D%E9%97%B4%E6%96%AD.png",战争大片不间断
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%88%98%E4%BA%89%E5%A4%A7%E7%89%87%E4%B8%8D%E9%97%B4%E6%96%AD.png" group-title="💖爱奇艺直播",战争大片不间断
 https://bscdncmnet.inter.71edge.com/tslive/l1/c53_lb_549_300_t10/nyNwfh1_ucKhYKBD_TC9H1cpPSW_kASRIHpzOyCbAlSQKCoa7yX04RS-69HeMU8vCtcLuBJr7PGxskrxih6fuqCnWcqae7adNI637bzmiWKfT_5A6rzyfSZ0MGGLVBTtyXGJSL_WfsYMsulW2MG8itaUpLb_fvhCXnp17W6sSRRqLz0TAntuHJX6Y_vRC2F5yK9Obu3pf-GYMV6g9nu9HxQQtP3HHX0Mv6VU0Jt4MbYOz49rR_krhRY1JjgFrM36_XgKxzRdQ9Z3pV96146JaeZMoAEJa9thzHYsP180Ex4pnwDC-hKCjxCHkeys7slENFpiSFYXlRqpkcxXAM9_Uw/1a38f2e9c9e4c3cce8152b1a430323419/c53_lb_549_300_t10.m3u8?key=0baa5db205ac0d2966049d19ebdc0a20d&dis_t=1752408382&uuid=6f1d53dc-6873a13e-458&qdpv=3&qd_bid=1&qd_sft=0&pv=0.1&cpt=0
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E6%A5%9A%E6%B1%89%E9%AA%84%E9%9B%84.png",楚汉骄雄
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A5%9A%E6%B1%89%E9%AA%84%E9%9B%84.png" group-title="🎨埋堆堆直播",楚汉骄雄
 https://huyazhibo.de5.net/?id=29465854
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%81%E7%A5%9E%E6%A6%9C.png",封神榜
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%81%E7%A5%9E%E6%A6%9C.png" group-title="🎨埋堆堆直播",封神榜
 https://huyazhibo.de5.net/?id=29465849
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E5%9C%B0%E4%BA%89%E9%9C%B8%E7%BE%8E%E7%8C%B4%E7%8E%8B.png",天地争霸美猴王
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E5%9C%B0%E4%BA%89%E9%9C%B8%E7%BE%8E%E7%8C%B4%E7%8E%8B.png" group-title="🎨埋堆堆直播",天地争霸美猴王
 https://huyazhibo.de5.net/?id=29465859
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E5%94%90%E5%8F%8C%E9%BE%99%E4%BC%A0.png",大唐双龙传
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E5%94%90%E5%8F%8C%E9%BE%99%E4%BC%A0.png" group-title="🎨埋堆堆直播",大唐双龙传
 https://huyazhibo.de5.net/?id=29465850
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E5%88%91%E4%BA%8B%E4%BE%A6%E7%BC%89%E6%A1%A3%E6%A1%88.png",刑事侦缉档案
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%91%E4%BA%8B%E4%BE%A6%E7%BC%89%E6%A1%A3%E6%A1%88.png" group-title="🎨埋堆堆直播",刑事侦缉档案
 https://huyazhibo.de5.net/?id=29465856
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E6%B4%97%E5%86%A4%E5%BD%95.png",洗冤录
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B4%97%E5%86%A4%E5%BD%95.png" group-title="🎨埋堆堆直播",洗冤录
 https://huyazhibo.de5.net/?id=29465851
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E9%99%80%E6%9E%AA%E5%B8%88%E5%A7%90.png",陀枪师姐
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%80%E6%9E%AA%E5%B8%88%E5%A7%90.png" group-title="🎨埋堆堆直播",陀枪师姐
 https://huyazhibo.de5.net/?id=29465857
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E6%89%AB%E9%BB%84%E5%85%88%E9%94%8B.png",扫黄先锋
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%89%AB%E9%BB%84%E5%85%88%E9%94%8B.png" group-title="🎨埋堆堆直播",扫黄先锋
 https://huyazhibo.de5.net/?id=29465855
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A6%99%E6%89%8B%E4%BB%81%E5%BF%83.png",妙手仁心
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A6%99%E6%89%8B%E4%BB%81%E5%BF%83.png" group-title="🎨埋堆堆直播",妙手仁心
 https://huyazhibo.de5.net/?id=29465853
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8E%E8%9B%AE%E4%BA%B2%E5%AE%B6.png",野蛮亲家
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%87%8E%E8%9B%AE%E4%BA%B2%E5%AE%B6.png" group-title="🎨埋堆堆直播",野蛮亲家
 https://huyazhibo.de5.net/?id=23863796
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E7%AC%91%E7%9C%8B%E9%A3%8E%E4%BA%91.png",笑看风云
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AC%91%E7%9C%8B%E9%A3%8E%E4%BA%91.png" group-title="🎨埋堆堆直播",笑看风云
 https://huyazhibo.de5.net/?id=29465858
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9F%A6%E5%B0%8F%E5%AE%9D.png",韦小宝
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9F%A6%E5%B0%8F%E5%AE%9D.png" group-title="🎨埋堆堆直播",韦小宝
 https://huyazhibo.de5.net/?id=23650774
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E6%B8%AF%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0.png",港版西游记
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B8%AF%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0.png" group-title="🎨埋堆堆直播",港版西游记
 https://huyazhibo.de5.net/?id=29465860
-#EXTINF:-1 group-title="🎨埋堆堆直播" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png",雪山飞狐
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="🎨埋堆堆直播",雪山飞狐
 https://huyazhibo.de5.net/?id=23734176
-#EXTINF:-1 group-title="🧘🏻‍♀️瑜伽裤直播" tvg-logo="https://epg.112114.xyz/logo/%E4%BD%A0%E7%9A%84%E7%91%9C%E4%BC%BD%E5%A5%B3%E5%AD%A9.png",你的瑜伽女孩
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BD%A0%E7%9A%84%E7%91%9C%E4%BC%BD%E5%A5%B3%E5%AD%A9.png" group-title="🧘🏻‍♀️瑜伽裤直播",你的瑜伽女孩
 http://live.nctv.top/douyu1.php?id=10205199
-#EXTINF:-1 group-title="🧘🏻‍♀️瑜伽裤直播" tvg-logo="https://epg.112114.xyz/logo/%E7%94%9C%E7%BE%8E%E7%9A%84%E8%BD%AF%E6%9E%9C%E5%84%BF.png",甜美的软果儿
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%94%9C%E7%BE%8E%E7%9A%84%E8%BD%AF%E6%9E%9C%E5%84%BF.png" group-title="🧘🏻‍♀️瑜伽裤直播",甜美的软果儿
 https://huyazhibo.de5.net/?id=31031544
-#EXTINF:-1 group-title="🧘🏻‍♀️瑜伽裤直播" tvg-logo="https://epg.112114.xyz/logo/%E5%86%AC%E5%86%AC%E7%97%95%E6%89%AC.png",冬冬痕扬
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%86%AC%E5%86%AC%E7%97%95%E6%89%AC.png" group-title="🧘🏻‍♀️瑜伽裤直播",冬冬痕扬
 https://huyazhibo.de5.net/?id=30867827
-#EXTINF:-1 group-title="🧘🏻‍♀️瑜伽裤直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B6%8A%E6%B0%8F%E9%85%A5%E9%BA%BB1.png",越氏酥麻1
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B6%8A%E6%B0%8F%E9%85%A5%E9%BA%BB1.png" group-title="🧘🏻‍♀️瑜伽裤直播",越氏酥麻1
 https://huyazhibo.de5.net/?id=30764822
-#EXTINF:-1 group-title="🧘🏻‍♀️瑜伽裤直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B6%8A%E6%B0%8F%E9%85%A5%E9%BA%BB2.png",越氏酥麻2
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B6%8A%E6%B0%8F%E9%85%A5%E9%BA%BB2.png" group-title="🧘🏻‍♀️瑜伽裤直播",越氏酥麻2
 https://huyazhibo.de5.net/?id=30764818
-#EXTINF:-1 group-title="🧘🏻‍♀️瑜伽裤直播" tvg-logo="https://epg.112114.xyz/logo/%E6%9F%94%E6%B0%8F%E8%A7%A3%E5%8E%8B.png",柔氏解压
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9F%94%E6%B0%8F%E8%A7%A3%E5%8E%8B.png" group-title="🧘🏻‍♀️瑜伽裤直播",柔氏解压
 https://huyazhibo.de5.net/?id=30764819
-#EXTINF:-1 group-title="🧘🏻‍♀️瑜伽裤直播" tvg-logo="https://epg.112114.xyz/logo/%E6%98%AF%E4%B8%80%E6%9D%A1%E5%B0%8F%E8%9B%87.png",是一条小蛇
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%98%AF%E4%B8%80%E6%9D%A1%E5%B0%8F%E8%9B%87.png" group-title="🧘🏻‍♀️瑜伽裤直播",是一条小蛇
 https://huyazhibo.de5.net/?id=30805937
-#EXTINF:-1 group-title="🧘🏻‍♀️瑜伽裤直播" tvg-logo="https://epg.112114.xyz/logo/%E8%8A%B1%E8%8A%B1%E5%8A%AA%E5%8A%9B%E5%81%A5%E8%BA%AB%E4%B8%AD.png",花花努力健身中
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8A%B1%E8%8A%B1%E5%8A%AA%E5%8A%9B%E5%81%A5%E8%BA%AB%E4%B8%AD.png" group-title="🧘🏻‍♀️瑜伽裤直播",花花努力健身中
 https://huyazhibo.de5.net/?id=30805993
-#EXTINF:-1 group-title="🧘🏻‍♀️瑜伽裤直播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%80%E8%B5%B7%E5%AD%A6%E5%81%A5%E8%BA%AB.png",一起学健身
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%80%E8%B5%B7%E5%AD%A6%E5%81%A5%E8%BA%AB.png" group-title="🧘🏻‍♀️瑜伽裤直播",一起学健身
 https://huyazhibo.de5.net/?id=20753449
-#EXTINF:-1 group-title="🧘🏻‍♀️瑜伽裤直播" tvg-logo="https://epg.112114.xyz/logo/%E5%85%AE%E5%85%AE%E5%BE%88%E7%94%9C%E9%B8%AD.png",兮兮很甜鸭
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%AE%E5%85%AE%E5%BE%88%E7%94%9C%E9%B8%AD.png" group-title="🧘🏻‍♀️瑜伽裤直播",兮兮很甜鸭
 https://huyazhibo.de5.net/?id=31063692
-#EXTINF:-1 group-title="👙模特直播" tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E5%90%83%E6%A1%83%E5%AD%90%E7%9A%84%E5%96%B5.png",爱吃桃子的喵
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E5%90%83%E6%A1%83%E5%AD%90%E7%9A%84%E5%96%B5.png" group-title="👙模特直播",爱吃桃子的喵
 https://huyazhibo.de5.net/?id=18501378
-#EXTINF:-1 group-title="💋车模直播" tvg-logo="https://epg.112114.xyz/logo/%E8%B5%B5%E6%9C%AC%E5%88%A0%E4%B8%8D%E5%88%A0.png",赵本删不删
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B5%B5%E6%9C%AC%E5%88%A0%E4%B8%8D%E5%88%A0.png" group-title="💋车模直播",赵本删不删
 http://live.nctv.top/douyu1.php?id=9837104
-#EXTINF:-1 group-title="💋车模直播" tvg-logo="https://epg.112114.xyz/logo/%E8%BD%A6%E6%A8%A1%E9%A2%9C%E5%80%BC%E5%A4%A7%E8%B5%8F.png",车模颜值大赏
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%BD%A6%E6%A8%A1%E9%A2%9C%E5%80%BC%E5%A4%A7%E8%B5%8F.png" group-title="💋车模直播",车模颜值大赏
 http://live.nctv.top/douyu1.php?id=10118209
-#EXTINF:-1 group-title="💋车模直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8C%97%E4%BA%AC%E5%BD%B1%E5%B8%9D%E7%9A%84%E5%88%86%E8%BA%AB.png",北京影帝的分身
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8C%97%E4%BA%AC%E5%BD%B1%E5%B8%9D%E7%9A%84%E5%88%86%E8%BA%AB.png" group-title="💋车模直播",北京影帝的分身
 http://live.nctv.top/douyu1.php?id=9805480
-#EXTINF:-1 group-title="💄女团直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A5%B3%E5%9B%A2%E7%A4%BE%E9%A2%9C%E8%80%81%E5%B8%88.png",女团社颜老师
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A5%B3%E5%9B%A2%E7%A4%BE%E9%A2%9C%E8%80%81%E5%B8%88.png" group-title="💄女团直播",女团社颜老师
 http://live.nctv.top/douyu1.php?id=11327316
-#EXTINF:-1 group-title="💄女团直播" tvg-logo="https://epg.112114.xyz/logo/7%E5%B8%88%E5%82%85.png",7师傅
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/7%E5%B8%88%E5%82%85.png" group-title="💄女团直播",7师傅
 http://live.nctv.top/douyu1.php?id=17732
-#EXTINF:-1 group-title="💄女团直播" tvg-logo="https://epg.112114.xyz/logo/%E5%BD%BC%E5%B2%B8%E9%9B%B6%E5%8F%AF%E6%98%9F%E7%90%83.png",彼岸零可星球
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BD%BC%E5%B2%B8%E9%9B%B6%E5%8F%AF%E6%98%9F%E7%90%83.png" group-title="💄女团直播",彼岸零可星球
 http://live.nctv.top/douyu1.php?id=40471
-#EXTINF:-1 group-title="💄女团直播" tvg-logo="https://epg.112114.xyz/logo/%E7%9D%A1%E4%B8%9D%E8%99%AB.png",睡丝虫
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%9D%A1%E4%B8%9D%E8%99%AB.png" group-title="💄女团直播",睡丝虫
 http://live.nctv.top/douyu1.php?id=10308234
-#EXTINF:-1 group-title="💄女团直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B4%94%E6%9D%8B%E5%9C%AD%E4%BA%94%E9%A2%9C%E4%B8%80.png",崔杋圭五颜一
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B4%94%E6%9D%8B%E5%9C%AD%E4%BA%94%E9%A2%9C%E4%B8%80.png" group-title="💄女团直播",崔杋圭五颜一
 http://live.nctv.top/douyu1.php?id=8189873
-#EXTINF:-1 group-title="💃🏻热舞直播" tvg-logo="https://epg.112114.xyz/logo/%E9%A1%BE%E6%AD%A2%E6%9C%80%E7%88%B1%E7%9A%84%E5%B0%8F%E8%83%96%E5%AE%9D%E8%B4%9D.png",顾止最爱的小胖宝贝
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%A1%BE%E6%AD%A2%E6%9C%80%E7%88%B1%E7%9A%84%E5%B0%8F%E8%83%96%E5%AE%9D%E8%B4%9D.png" group-title="💃🏻热舞直播",顾止最爱的小胖宝贝
 http://live.nctv.top/douyu1.php?id=238643
-#EXTINF:-1 group-title="💃🏻热舞直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%91%E6%89%93%E7%99%BD%E9%AA%A8%E7%B2%BE.png",少打白骨精
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%91%E6%89%93%E7%99%BD%E9%AA%A8%E7%B2%BE.png" group-title="💃🏻热舞直播",少打白骨精
 http://live.nctv.top/douyu1.php?id=11531165
-#EXTINF:-1 group-title="💃🏻热舞直播" tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E7%88%B1%E5%B0%8Fs.png",爱爱小s
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E7%88%B1%E5%B0%8Fs.png" group-title="💃🏻热舞直播",爱爱小s
 http://live.nctv.top/douyu1.php?id=10308312
-#EXTINF:-1 group-title="💃🏻热舞直播" tvg-logo="https://epg.112114.xyz/logo/%E6%95%A2%E6%9D%A5%E7%A2%B0%E6%88%91.png",敢来碰我
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%95%A2%E6%9D%A5%E7%A2%B0%E6%88%91.png" group-title="💃🏻热舞直播",敢来碰我
 http://live.nctv.top/douyu1.php?id=10308225
-#EXTINF:-1 group-title="💃🏻热舞直播" tvg-logo="https://epg.112114.xyz/logo/%E7%A7%8B%E6%9C%88%E5%89%AA%E6%B0%B4.png",秋月剪水
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A7%8B%E6%9C%88%E5%89%AA%E6%B0%B4.png" group-title="💃🏻热舞直播",秋月剪水
 http://live.nctv.top/douyu1.php?id=9588891
-#EXTINF:-1 group-title="🤖Ai直播" tvg-logo="https://epg.112114.xyz/logo/%E6%B7%B1%E7%94%9C%E8%80%81%E5%B8%88.png",深甜老师
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B7%B1%E7%94%9C%E8%80%81%E5%B8%88.png" group-title="🤖Ai直播",深甜老师
 https://huyazhibo.de5.net/?id=30765289
-#EXTINF:-1 group-title="🎣钓鱼直播" tvg-logo="https://epg.112114.xyz/logo/%E9%92%93%E9%B1%BC%E6%AC%A7%E5%B0%BC.png",钓鱼欧尼
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%92%93%E9%B1%BC%E6%AC%A7%E5%B0%BC.png" group-title="🎣钓鱼直播",钓鱼欧尼
 http://live.nctv.top/douyu1.php?id=10616765
-#EXTINF:-1 group-title="🌲乡野直播" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%8E%E5%AD%90%E6%9F%92.png",李子柒
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%8E%E5%AD%90%E6%9F%92.png" group-title="🌲乡野直播",李子柒
 https://huyazhibo.de5.net/?id=21969336
-#EXTINF:-1 group-title="🚗集锦直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%9A%E5%A4%9A%E7%9C%8B%E8%BD%A6.png",多多看车
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%9A%E5%A4%9A%E7%9C%8B%E8%BD%A6.png" group-title="🚗集锦直播",多多看车
 http://live.nctv.top/douyu1.php?id=4921957
-#EXTINF:-1 group-title="🚗集锦直播" tvg-logo="https://epg.112114.xyz/logo/Mordon.png",Mordon
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Mordon.png" group-title="🚗集锦直播",Mordon
 http://live.nctv.top/douyu1.php?id=9524579
-#EXTINF:-1 group-title="🚗集锦直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E6%98%8E%E4%B8%8D%E8%83%8C%E9%94%85up.png",小明不背锅up
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E6%98%8E%E4%B8%8D%E8%83%8C%E9%94%85up.png" group-title="🚗集锦直播",小明不背锅up
 http://live.nctv.top/douyu1.php?id=117854
-#EXTINF:-1 group-title="🧁漫画直播" tvg-logo="https://epg.112114.xyz/logo/%E6%80%A0%E6%83%B0%E5%AE%88%E5%A4%9C.png",怠惰守夜
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%80%A0%E6%83%B0%E5%AE%88%E5%A4%9C.png" group-title="🧁漫画直播",怠惰守夜
 http://live.nctv.top/douyu1.php?id=8842108
-#EXTINF:-1 group-title="🧁漫画直播" tvg-logo="https://epg.112114.xyz/logo/%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B0%8F%E6%B3%A2%E5%AD%90.png",快乐的小波子
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BF%AB%E4%B9%90%E7%9A%84%E5%B0%8F%E6%B3%A2%E5%AD%90.png" group-title="🧁漫画直播",快乐的小波子
 http://live.nctv.top/douyu1.php?id=9039399
-#EXTINF:-1 group-title="🗣️脱口秀直播" tvg-logo="https://epg.112114.xyz/logo/%E8%80%81%E9%AB%98%E4%B8%8E%E5%B0%8F%E8%8C%89.png",老高与小茉
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%80%81%E9%AB%98%E4%B8%8E%E5%B0%8F%E8%8C%89.png" group-title="🗣️脱口秀直播",老高与小茉
 http://live.nctv.top/douyu1.php?id=236461
-#EXTINF:-1 group-title="🗣️脱口秀直播" tvg-logo="https://epg.112114.xyz/logo/%E8%87%AA%E8%AF%B4%E8%87%AA%E8%AF%9D%E7%9A%84%E6%80%BB%E8%A3%81.png",自说自话的总裁
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%87%AA%E8%AF%B4%E8%87%AA%E8%AF%9D%E7%9A%84%E6%80%BB%E8%A3%81.png" group-title="🗣️脱口秀直播",自说自话的总裁
 http://live.nctv.top/douyu1.php?id=9317739
-#EXTINF:-1 group-title="🗣️脱口秀直播" tvg-logo="https://epg.112114.xyz/logo/%E6%82%89%E5%A5%87.png",悉奇
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%82%89%E5%A5%87.png" group-title="🗣️脱口秀直播",悉奇
 http://live.nctv.top/douyu1.php?id=9401473
-#EXTINF:-1 group-title="🗣️脱口秀直播" tvg-logo="https://epg.112114.xyz/logo/%E7%BA%B3%E8%B1%86%E5%A5%B6%E5%A5%B6.png",纳豆奶奶
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BA%B3%E8%B1%86%E5%A5%B6%E5%A5%B6.png" group-title="🗣️脱口秀直播",纳豆奶奶
 http://live.nctv.top/douyu1.php?id=8745628
-#EXTINF:-1 group-title="🗣️脱口秀直播" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E6%A0%97%E5%AD%90Ye.png",黄栗子Ye
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%84%E6%A0%97%E5%AD%90Ye.png" group-title="🗣️脱口秀直播",黄栗子Ye
 http://live.nctv.top/douyu1.php?id=9046097
-#EXTINF:-1 group-title="🗣️脱口秀直播" tvg-logo="https://epg.112114.xyz/logo/%E7%94%B5%E8%A7%86%E8%BF%99%E4%B8%AA%E5%9C%88%E5%AD%90.png",电视这个圈子
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%94%B5%E8%A7%86%E8%BF%99%E4%B8%AA%E5%9C%88%E5%AD%90.png" group-title="🗣️脱口秀直播",电视这个圈子
 http://live.nctv.top/douyu1.php?id=9425669
-#EXTINF:-1 group-title="🗣️脱口秀直播" tvg-logo="https://epg.112114.xyz/logo/%E7%81%AB%E5%AE%97%E5%90%9B.png",火宗君
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%81%AB%E5%AE%97%E5%90%9B.png" group-title="🗣️脱口秀直播",火宗君
 http://live.nctv.top/douyu1.php?id=9580477
-#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-logo="https://epg.112114.xyz/logo/%E5%BE%AE%E7%AC%91%E5%92%8C%E8%8B%A6%E7%93%9C.png",微笑和苦瓜
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BE%AE%E7%AC%91%E5%92%8C%E8%8B%A6%E7%93%9C.png" group-title="🤣沙雕动画直播",微笑和苦瓜
 https://huyazhibo.de5.net/?id=28213261
-#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-logo="https://epg.112114.xyz/logo/%E7%86%8A%E5%AD%A9%E5%AD%90%E6%B2%99%E9%9B%95%E5%8A%A8%E7%94%BB.png",熊孩子沙雕动画
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%86%8A%E5%AD%A9%E5%AD%90%E6%B2%99%E9%9B%95%E5%8A%A8%E7%94%BB.png" group-title="🤣沙雕动画直播",熊孩子沙雕动画
 https://huyazhibo.de5.net/?id=25243852
-#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91.png",小小天才搞笑视频
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E5%B0%8F%E5%A4%A9%E6%89%8D%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91.png" group-title="🤣沙雕动画直播",小小天才搞笑视频
 http://live.nctv.top/douyu1.php?id=9419678
-#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-logo="https://epg.112114.xyz/logo/%E5%86%B0%E7%B3%96%E8%91%AB%E8%8A%A6%E6%B2%A1%E6%94%BE%E7%9B%90V.png",冰糖葫芦没放盐V
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%86%B0%E7%B3%96%E8%91%AB%E8%8A%A6%E6%B2%A1%E6%94%BE%E7%9B%90V.png" group-title="🤣沙雕动画直播",冰糖葫芦没放盐V
 http://live.nctv.top/douyu1.php?id=3505453
-#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E7%94%BB%E5%A4%A7%E5%B8%88%E5%A7%90.png",动画大师姐
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E7%94%BB%E5%A4%A7%E5%B8%88%E5%A7%90.png" group-title="🤣沙雕动画直播",动画大师姐
 http://live.nctv.top/douyu1.php?id=9742136
-#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-logo="https://epg.112114.xyz/logo/%E7%AB%8B%E7%A7%8B%E5%8A%A8%E7%94%BB.png",立秋动画
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%AB%8B%E7%A7%8B%E5%8A%A8%E7%94%BB.png" group-title="🤣沙雕动画直播",立秋动画
 http://live.nctv.top/douyu1.php?id=10351891
-#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%89%8D%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%95%8A.png",天才大熊猫啊
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%89%8D%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%95%8A.png" group-title="🤣沙雕动画直播",天才大熊猫啊
 http://live.nctv.top/douyu1.php?id=10646699
-#EXTINF:-1 group-title="🤣沙雕动画直播" tvg-logo="https://epg.112114.xyz/logo/%E7%BB%98%E8%AF%B4%E7%AF%AE%E7%90%83C.png",绘说篮球C
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BB%98%E8%AF%B4%E7%AF%AE%E7%90%83C.png" group-title="🤣沙雕动画直播",绘说篮球C
 http://live.nctv.top/douyu1.php?id=9401305
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E8%87%B3%E8%87%BB%E8%A7%86%E7%95%8C4K.png",至臻视界4K
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E8%87%B3%E8%87%BB%E8%A7%86%E7%95%8C4K.png",至臻视界4K
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&$24M-FifastbLive
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C4K.png",咪视界4K
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C1.png",咪视界1
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C2.png",咪视界2
-http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C3.png",咪视界3
-http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C4.png",咪视界4
-http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C5.png",咪视界5
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C6.png",咪视界6
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C7.png",咪视界7
-http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C8.png",咪视界8
-http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C9.png",咪视界9
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C10.png",咪视界10
-http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3$
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C11.png",咪视界11
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C12.png",咪视界12
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C13.png",咪视界13
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C14.png",咪视界14
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C15.png",咪视界15
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C16.png",咪视界16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C17.png",咪视界17
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C18.png",咪视界18
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C19.png",咪视界19
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C20.png",咪视界20
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C21.png",咪视界21
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C22.png",咪视界22
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C23.png",咪视界23
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C24.png",咪视界24
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C25.png",咪视界25
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C26.png",咪视界26
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C27.png",咪视界27
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C28.png",咪视界28
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C29.png",咪视界29
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C30.png",咪视界30
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C32.png",咪视界32
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C33.png",咪视界33
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=yu&mode=1&$8M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C34.png",咪视界34
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C35.png",咪视界35
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️咪视界直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E8%A7%86%E7%95%8C36.png",咪视界36
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=yu&mode=1&$5M
-#EXTINF:-1 group-title="✴️BestTV直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BE%E8%A7%86%E9%80%9A1.png",百视通1
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="✴️BestTV直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BE%E8%A7%86%E9%80%9A2.png",百视通2
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="✴️BestTV直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BE%E8%A7%86%E9%80%9A3.png",百视通3
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="✴️BestTV直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BE%E8%A7%86%E9%80%9A4.png",百视通4
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000018009&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="✴️BestTV直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BE%E8%A7%86%E9%80%9A5.png",百视通5
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="✴️BestTV直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BE%E8%A7%86%E9%80%9A6.png",百视通6
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="✴️BestTV直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BE%E8%A7%86%E9%80%9A7.png",百视通7
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="✴️BestTV直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BE%E8%A7%86%E9%80%9A8.png",百视通8
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="✴️BestTV直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BE%E8%A7%86%E9%80%9A9.png",百视通9
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="✴️BestTV直播[移动]" tvg-logo="https://epg.112114.xyz/logo/%E7%99%BE%E8%A7%86%E9%80%9A10.png",百视通10
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E7%9F%AD%E8%A7%86%E9%A2%91%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女短视频[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E7%9F%AD%E8%A7%86%E9%A2%91%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女短视频[刷新就是新内容]
 http://av.npcq.cn/api.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84DJ%E8%88%9E%E6%9B%B2%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄DJ舞曲[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84DJ%E8%88%9E%E6%9B%B2%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄DJ舞曲[刷新就是新内容]
 http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%844K%E8%A7%86%E9%A2%91%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄4K视频[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%844K%E8%A7%86%E9%A2%91%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄4K视频[刷新就是新内容]
 http://xjj1.716888.xyz/fenlei/4k/4k.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E4%B8%8D%E5%90%83%E9%A6%99%E8%8F%9C%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄不吃香菜[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E4%B8%8D%E5%90%83%E9%A6%99%E8%8F%9C%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄不吃香菜[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/mvmn/mvmn.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E2%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女热舞2[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E2%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女热舞2[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/gengxin/gengxin.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA1%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示1[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA1%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示1[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/jipinyz/jipinyz.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA2%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示2[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA2%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示2[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/xuejie/xuejie.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA3%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示3[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA3%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示3[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/kawayi/kawayi.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA4%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示4[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA4%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示4[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/nennen/nennen.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA5%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示5[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA5%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示5[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/sihuawd/sihuawd.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA6%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示6[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA6%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示6[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/manyao/manyao.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA7%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示7[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA7%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示7[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/sihuadd/sihuadd.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA8%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示8[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA8%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示8[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/qingchun/qingchun.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA9%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示9[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA9%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示9[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/cos/cos.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA10%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示10[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA10%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示10[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/heji1/heji1.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA11%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示11[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA11%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示11[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/jingpinbz/jingpinbz.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA12%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示12[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA12%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示12[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/jipinll/jipinll.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA13%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示13[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA13%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示13[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/nideym/nideym.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA14%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示14[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA14%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示14[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/tianmei/tianmei.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA15%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示15[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA15%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示15[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/yusi/yusi.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA17%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示17[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA17%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示17[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/rewu/rewu.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA18%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示18[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA18%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示18[刷新就是新内容]
 http://xjj2.716888.xyz/fenlei/zj/jingpinsc/jingpinsc.php
-#EXTINF:-1 group-title="🔯API随机点播" tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA22%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png",🔄美女展示22[刷新就是新内容]
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%F0%9F%94%84%E7%BE%8E%E5%A5%B3%E5%B1%95%E7%A4%BA22%5B%E5%88%B7%E6%96%B0%E5%B0%B1%E6%98%AF%E6%96%B0%E5%86%85%E5%AE%B9%5D.png" group-title="🔯API随机点播",🔄美女展示22[刷新就是新内容]
 http://xjj1.716888.xyz/fenlei/kuan2/v.php
-#EXTINF:-1 group-title="✡️周杰伦歌曲点播" tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E7%90%B4%E6%B5%B7.png",爱琴海
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E7%90%B4%E6%B5%B7.png" group-title="✡️周杰伦歌曲点播",爱琴海
 https://k0u3cydy43y9zw2408x8760xfx5xx9z.djvod.ndcimgs.com/bs2/photo-video-mz/5254575056101873604_d3fb5f7443d7c902_5581_v6UltraV5.mp4
-#EXTINF:-1 group-title="✡️周杰伦歌曲点播" tvg-logo="https://epg.112114.xyz/logo/%E7%93%A6%E8%A7%A3.png",瓦解
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%93%A6%E8%A7%A3.png" group-title="✡️周杰伦歌曲点播",瓦解
 https://txmov2.a.kwimgs.com/upic/2025/05/18/18/BMjAyNTA1MTgxODM3NDdfMTA1MDEwOTk4Ml8xNjQ2MDE0MjY0NjVfMl8z_b_Bbfb62e6b9d724cd45a3ed462e4c16f39.mp4
-#EXTINF:-1 group-title="✡️周杰伦歌曲点播" tvg-logo="https://epg.112114.xyz/logo/%E5%88%86%E8%A3%82.png",分裂
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%86%E8%A3%82.png" group-title="✡️周杰伦歌曲点播",分裂
 https://alimov2.a.kwimgs.com/upic/2024/10/09/09/BMjAyNDEwMDkwOTA4NDFfMTMxNzAwMDUwNV8xNDU2Nzg0MDk5MDdfMl8z_b_Bf4bc983e2d5804ab066c988ba7652ec5.mp4
-#EXTINF:-1 group-title="✡️周杰伦歌曲点播" tvg-logo="https://epg.112114.xyz/logo/%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD.png",秘密花园
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD.png" group-title="✡️周杰伦歌曲点播",秘密花园
 https://k0u3cydy43yaz.djvod.ndcimgs.com/bs2/photo-video-mz/5225864605208445410_36e3cffbcde751f5_4169_sl200hd15.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%B2%BE%E9%80%89120%E9%A6%96(8%E5%B0%8F%E6%97%B6).png",周杰伦精选120首(8小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%B2%BE%E9%80%89120%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",周杰伦精选120首(8小时)
 https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%B2%BE%E9%80%8981%E9%A6%96(5%E5%B0%8F%E6%97%B6).png",林俊杰精选81首(5小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%B2%BE%E9%80%8981%E9%A6%96(5%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",林俊杰精选81首(5小时)
 https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E6%BD%98%E7%8E%AE%E6%9F%8F%E7%B2%BE%E9%80%8928%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",潘玮柏精选28首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%BD%98%E7%8E%AE%E6%9F%8F%E7%B2%BE%E9%80%8928%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",潘玮柏精选28首(1小时)
 https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E7%BD%97%E5%BF%97%E7%A5%A5%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",罗志祥精选16首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%BD%97%E5%BF%97%E7%A5%A5%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",罗志祥精选16首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0et0mfog65hj1cq0130&ratio=720p&line=0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/SHE%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",SHE精选40首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SHE%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",SHE精选40首(2小时)
 https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3MzAxOTEyNDhfODI4NTk1NTQ0XzEwOTI2ODgxNTQyOF8yXzM=_b_B1770e5ac950c20cda3df1678ded64cbc.mp4?tag=1-1754625871-std-1-9msmgkqnic-492b9eaf83438074&clientCacheKey=3xdck2arwksxhfw_b.mp4&tt=b&di=88ccff4&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%BE%90%E8%89%AF%E7%B2%BE%E9%80%8930%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",徐良精选30首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BE%90%E8%89%AF%E7%B2%BE%E9%80%8930%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",徐良精选30首(1小时)
 https://txmov2.a.kwimgs.com/upic/2024/05/08/20/BMjAyNDA1MDgyMDAyMjFfMTg1NzcxNTYxOF8xMzE5MDIyNTY0NzNfMl8z_b_B62cb1e50d6a0dea4efc3e6da93662aa4.mp4?tag=1-1754626109-std-1-9zwa2xbfok-40061606b10eb007&clientCacheKey=3xfdxxsd94byium_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E8%AE%B8%E5%B5%A9%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",许嵩精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%AE%B8%E5%B5%A9%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",许嵩精选30首(2小时)
 https://alimov2.a.kwimgs.com/upic/2020/09/14/21/BMjAyMDA5MTQyMTMzMDdfODI4NTk1NTQ0XzM2MDUzMTE1NjM5XzJfMw==_b_B789c6ea6a87d1b67019f19f16c9f71f7.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",汪苏泷精选20首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",汪苏泷精选20首(1小时)
 https://txmov2.a.kwimgs.com/upic/2020/09/30/22/BMjAyMDA5MzAyMjA3NDNfODI4NTk1NTQ0XzM2ODY2MzQxNzg4XzJfMw==_b_Bb726df27e24fda5e4d31b724d84ab8d4.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E9%99%B6%E5%96%86%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",陶喆精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%B6%E5%96%86%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",陶喆精选30首(2小时)
 https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzEzMzhfODM0NDUzMTQ2XzEwOTgxMDA2NzAyNF8wXzM=_b_B5e5a6bf1ef67081a9a226a2f6145ea2d.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E5%A5%95%E8%BF%85%E7%B2%BE%E9%80%8934%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",陈奕迅精选34首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E5%A5%95%E8%BF%85%E7%B2%BE%E9%80%8934%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",陈奕迅精选34首(2小时)
 https://txmov2.a.kwimgs.com/upic/2022/12/22/17/BMjAyMjEyMjIxNzM3NDNfMTg1NzcxNTYxOF85MTcyMjE1NDQzNV8yXzM=_b_B16479ab3769c6fcfed15a06b75c2656e.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E9%82%93%E7%B4%AB%E6%A3%8B%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",邓紫棋精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%82%93%E7%B4%AB%E6%A3%8B%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",邓紫棋精选30首(2小时)
 https://txmov2.a.kwimgs.com/upic/2023/05/08/12/BMjAyMzA1MDgxMjIwNTNfMzQ4MzI0MjA1OF8xMDI1NjYyMjM5MDZfMF8z_b_B0675fa55fe8ce0583fb05fa02330e9f1.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",薛之谦精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",薛之谦精选30首(2小时)
 https://txmov2.a.kwimgs.com/upic/2023/07/28/13/BMjAyMzA3MjgxMzUwMzRfODM0NDUzMTQ2XzEwOTA3NjA4NDU2Nl8wXzM=_b_B480250201ec7378867d92e4d29f7a644.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%9C%88%E5%A4%A9%E7%B2%BE%E9%80%8937%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",五月天精选37首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%9C%88%E5%A4%A9%E7%B2%BE%E9%80%8937%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",五月天精选37首(2小时)
 https://txmov2.a.kwimgs.com/upic/2021/12/07/23/BMjAyMTEyMDcyMzU2MzBfMjgwMTM4ODFfNjIzMTcwNTU3MTlfMl8z_b_Bd70a16353267a52b31d11f2cb77c6c5b.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E8%94%A1%E4%BE%9D%E6%9E%97%E7%B2%BE%E9%80%89102%E9%A6%96(6%E5%B0%8F%E6%97%B6).png",蔡依林精选102首(6小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%94%A1%E4%BE%9D%E6%9E%97%E7%B2%BE%E9%80%89102%E9%A6%96(6%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",蔡依林精选102首(6小时)
 https://txmov2.a.kwimgs.com/upic/2025/06/12/20/BMjAyNTA2MTIyMDUzMjFfNDQzMTI2Mjg0XzE2NjY1MzM5MjYxMV8yXzM=_b_B3bed4c7c1a80388966791d398e318edd.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E4%BB%BB%E7%84%B6%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",任然精选20首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BB%BB%E7%84%B6%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",任然精选20首(1小时)
 https://txmov2.a.kwimgs.com/upic/2020/09/23/14/BMjAyMDA5MjMxNDA1MjFfMTc4NDYxNDcyNl8zNjQ5NDI4NzI1Nl8yXzM=_b_B0f6d5151ab2c346816996328a0b66b78.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%B2%BE%E9%80%8996%E9%A6%96(6%E5%B0%8F%E6%97%B6).png",张韶涵精选96首(6小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%B2%BE%E9%80%8996%E9%A6%96(6%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张韶涵精选96首(6小时)
 https://txmov2.a.kwimgs.com/upic/2023/04/24/02/BMjAyMzA0MjQwMjA4MDlfMjE0OTExOTI2N18xMDEzNTM2NjA5OTFfMF8z_b_Baa658d527c452cd09e6dc0e9684c1bed.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E5%BF%83%E5%87%8C%E7%B2%BE%E9%80%8969%E9%A6%96(4%E5%B0%8F%E6%97%B6).png",王心凌精选69首(4小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E5%BF%83%E5%87%8C%E7%B2%BE%E9%80%8969%E9%A6%96(4%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",王心凌精选69首(4小时)
 https://txmov2.a.kwimgs.com/upic/2023/07/26/22/BMjAyMzA3MjYyMjExNTNfMzYxMjUyNDA3MV8xMDg5NTQ4NjE1ODlfMF8z_b_Bdded2693ce6f7de089cfd7030b45bef7.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E8%8E%AB%E6%96%87%E8%94%9A%E7%B2%BE%E9%80%8972%E9%A6%96(5%E5%B0%8F%E6%97%B6).png",莫文蔚精选72首(5小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8E%AB%E6%96%87%E8%94%9A%E7%B2%BE%E9%80%8972%E9%A6%96(5%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",莫文蔚精选72首(5小时)
 https://txmov2.a.kwimgs.com/upic/2023/07/27/21/BMjAyMzA3MjcyMTQ2MjdfMzYxMjUyNDA3MV8xMDkwMzM1MjA2NTJfMF8z_b_B144de29e473911c6e9187c9d591b8943.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E6%85%A7%E7%90%B3%E7%B2%BE%E9%80%8930%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",陈慧琳精选30首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E6%85%A7%E7%90%B3%E7%B2%BE%E9%80%8930%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",陈慧琳精选30首(1小时)
 https://txmov2.a.kwimgs.com/upic/2025/02/09/20/BMjAyNTAyMDkyMDIzNTVfMTg1NzcxNTYxOF8xNTY0NDk2NjMzNTZfMl8z_b_Bd072695cb8d3a79a9d1ac8cdb5b3b3bc.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E8%94%A1%E5%81%A5%E9%9B%85%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",蔡健雅精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%94%A1%E5%81%A5%E9%9B%85%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",蔡健雅精选30首(2小时)
 https://txmov2.a.kwimgs.com/upic/2023/08/18/21/BMjAyMzA4MTgyMTA4MzZfODM0NDUzMTQ2XzExMDgyNTA1MjcwM18wXzM=_b_B0d509c2419313652932c68153a65e4ed.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E6%9D%B0%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",王杰精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E6%9D%B0%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",王杰精选30首(2小时)
 https://txmov2.a.kwimgs.com/upic/2020/09/06/17/BMjAyMDA5MDYxNzU1MjJfMTc4NDYxNDcyNl8zNTYyMjQ2ODIxNl8yXzM=_b_Bc35f6a28c8cf25ea947bc122c176b034.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E4%B9%94%E6%B4%8B%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",乔洋精选20首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B9%94%E6%B4%8B%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",乔洋精选20首(1小时)
 https://txmov2.a.kwimgs.com/upic/2024/01/05/17/BMjAyNDAxMDUxNzEwMTJfNDQzMTI2Mjg0XzEyMTM5OTg3NTU2MV8yXzM=_b_Bf81e0b3d32a3fe727949531d0929868e.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%BA%84%E5%BF%83%E5%A6%8D%E7%B2%BE%E9%80%8944%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",庄心妍精选44首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BA%84%E5%BF%83%E5%A6%8D%E7%B2%BE%E9%80%8944%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",庄心妍精选44首(2小时)
 https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E6%A2%81%E9%9D%99%E8%8C%B9%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",梁静茹精选40首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%A2%81%E9%9D%99%E8%8C%B9%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",梁静茹精选40首(2小时)
 https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzA3MTVfODM0NDUzMTQ2XzEwOTgwOTYwMjQ1OV8wXzM=_b_Bd9c215cb7ac961de3d5db54cb7bffed6.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",王力宏精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",王力宏精选30首(2小时)
 https://txmov2.a.kwimgs.com/upic/2020/09/30/21/BMjAyMDA5MzAyMTU2NTNfODI4NTk1NTQ0XzM2ODY1NDA2MDM3XzJfMw==_b_Bf61393cb3ef5f8ab4b687ae367ed1211.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%AD%99%E7%87%95%E5%A7%BF%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",孙燕姿精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AD%99%E7%87%95%E5%A7%BF%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",孙燕姿精选30首(2小时)
 https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%B7%B1%E7%B2%BE%E9%80%8972%E9%A6%96(5%E5%B0%8F%E6%97%B6).png",周深精选72首(5小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E6%B7%B1%E7%B2%BE%E9%80%8972%E9%A6%96(5%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",周深精选72首(5小时)
 https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E9%A3%9E%E8%BD%AE%E6%B5%B7%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",飞轮海精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%A3%9E%E8%BD%AE%E6%B5%B7%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",飞轮海精选30首(2小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cra24sfog65t497nn1o0&ratio=720p&line=0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/Alin%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",Alin精选16首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Alin%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",Alin精选16首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cvt3q87og65l7fblbmog&ratio=720p&line=0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%A8%E4%B8%9E%E7%90%B3%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",杨丞琳精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%A8%E4%B8%9E%E7%90%B3%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",杨丞琳精选30首(2小时)
 https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0XzM2MzcyMzIwMzYzXzJfMw==_b_B8aa481540d89fe5ec2b3507f8209c663.mp4?tag=1-1750931214-std-1-wz3snqjkat-8298da1fe959ffc7&clientCacheKey=3x8t5k75nb5mzyc_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E6%8B%B3%E5%A6%88%E5%A6%88%E7%B2%BE%E9%80%8913%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",南拳妈妈精选13首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E6%8B%B3%E5%A6%88%E5%A6%88%E7%B2%BE%E9%80%8913%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",南拳妈妈精选13首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cqfnlknog65p5u0cnn9g&ratio=720p&line=0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E6%9D%B0%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",张杰精选40首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E6%9D%B0%E7%B2%BE%E9%80%8940%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张杰精选40首(2小时)
 https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzIxNDZfODM0NDUzMTQ2XzEwOTgxMDY1NjE0MF8wXzM=_b_Bd5fedc48db11e5ccd52e4c2de1d8213a.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B9%E5%A4%A7%E5%90%8C%E7%B2%BE%E9%80%8933%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",方大同精选33首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%96%B9%E5%A4%A7%E5%90%8C%E7%B2%BE%E9%80%8933%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",方大同精选33首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0300fg10000cv2nd2nog65v744ae6i0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/Beyond%E7%B2%BE%E9%80%8940%E9%A6%96(3%E5%B0%8F%E6%97%B6).png",Beyond精选40首(3小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Beyond%E7%B2%BE%E9%80%8940%E9%A6%96(3%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",Beyond精选40首(3小时)
 https://txmov2.a.kwimgs.com/upic/2024/01/24/14/BMjAyNDAxMjQxNDQxMjZfODI4NTk1NTQ0XzEyMzAwNzQ1MTk1Ml8yXzM=_b_Bf4811084a61390aced44f1c86a2ebddf.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/By2%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",By2精选16首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/By2%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",By2精选16首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000d1j0n57og65pvurg65ag&ratio=720p&line=0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E4%BC%A0%E9%9B%84%E7%B2%BE%E9%80%8984%E9%A6%96(6%E5%B0%8F%E6%97%B6).png",周传雄精选84首(6小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%91%A8%E4%BC%A0%E9%9B%84%E7%B2%BE%E9%80%8984%E9%A6%96(6%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",周传雄精选84首(6小时)
 https://tymov2.a.kwimgs.com/upic/2025/10/23/09/BMjAyNTEwMjMwOTE1NTFfNDQzMTI2Mjg0XzE3ODA0ODgzMDI2NV8yXzM=_b_B2ba9b9699f2554de32104e6bc944bd17.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E5%AD%A6%E5%8F%8B%E7%B2%BE%E9%80%89124%E9%A6%96(9%E5%B0%8F%E6%97%B6).png",张学友精选124首(9小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E5%AD%A6%E5%8F%8B%E7%B2%BE%E9%80%89124%E9%A6%96(9%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张学友精选124首(9小时)
 https://tymov2.a.kwimgs.com/upic/2025/10/23/09/BMjAyNTEwMjMwOTU1MjRfNDQzMTI2Mjg0XzE3ODA1MDQxODE1N18yXzM=_b_B99036df6b80af26d509c6ad67517e1c0.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%88%98%E5%BE%B7%E5%8D%8E%E7%B2%BE%E9%80%89109%E9%A6%96(8%E5%B0%8F%E6%97%B6).png",刘德华精选109首(8小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%88%98%E5%BE%B7%E5%8D%8E%E7%B2%BE%E9%80%89109%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",刘德华精选109首(8小时)
 https://tymov2.a.kwimgs.com/upic/2025/10/20/11/BMjAyNTEwMjAxMTQyNDFfNDQzMTI2Mjg0XzE3Nzg1NDI4MDg4NF8yXzM=_b_B986f50911251468679643173540572e9.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%8E%E6%98%8E%E7%B2%BE%E9%80%89117%E9%A6%96(8%E5%B0%8F%E6%97%B6).png",黎明精选117首(8小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%BB%8E%E6%98%8E%E7%B2%BE%E9%80%89117%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",黎明精选117首(8小时)
 https://tymov2.a.kwimgs.com/upic/2026/04/23/05/BMjAyNjA0MjMwNTExMzFfNDQzMTI2Mjg0XzE5Mzg0OTkzMzEwMF8yXzM=_b_Bad1fcf6e0ecc5709c93bf60638c65454.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E8%8F%B2%E7%B2%BE%E9%80%89145%E9%A6%96(10%E5%B0%8F%E6%97%B6).png",王菲精选145首(10小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%8E%8B%E8%8F%B2%E7%B2%BE%E9%80%89145%E9%A6%96(10%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",王菲精选145首(10小时)
 https://tymov2.a.kwimgs.com/upic/2025/06/15/12/BMjAyNTA2MTUxMjQxMzBfNDQzMTI2Mjg0XzE2Njg4MDIxNDA2M18yXzM=_b_B291baabeaab840af0758f797d6b30862.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%83%E5%BF%97%E9%BE%99%E7%B2%BE%E9%80%8919%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",权志龙精选19首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%83%E5%BF%97%E9%BE%99%E7%B2%BE%E9%80%8919%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",权志龙精选19首(1小时)
 https://tymov2.a.kwimgs.com/upic/2024/01/06/03/BMjAyNDAxMDYwMzM5NTZfNDQzMTI2Mjg0XzEyMTQzNzg5NTQzNl8yXzM=_b_Ba6909c68ab1c5217276621ad0a94c3ab.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E6%83%A0%E5%A6%B9%E7%B2%BE%E9%80%8950%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",张惠妹精选50首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BC%A0%E6%83%A0%E5%A6%B9%E7%B2%BE%E9%80%8950%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",张惠妹精选50首(2小时)
 https://tymov2.a.kwimgs.com/upic/2023/10/29/15/BMjAyMzEwMjkxNTUzMjJfODc4MDI5MjJfMTE2MDM0MDI2OTYzXzBfMw==_b_Baf9af8d16355a3b6a472969e267cd720.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E7%B2%92%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",陈粒精选20首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%99%88%E7%B2%92%E7%B2%BE%E9%80%8920%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",陈粒精选20首(1小时)
 https://txmov2.a.kwimgs.com/upic/2020/10/04/21/BMjAyMDEwMDQyMTI1NDZfMTc4NDYxNDcyNl8zNzE2MjYzNjA2N18yXzM=_b_B916781f8115d7d5caf6554e522a17daa.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E8%90%A7%E4%BA%9A%E8%BD%A9%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",萧亚轩精选16首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%90%A7%E4%BA%9A%E8%BD%A9%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",萧亚轩精选16首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0d00fg10000cvtpr1nog65jio7np2o0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E8%B0%AD%E5%92%8F%E9%BA%9F%E7%B2%BE%E9%80%89124%E9%A6%96(8%E5%B0%8F%E6%97%B6).png",谭咏麟精选124首(8小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B0%AD%E5%92%8F%E9%BA%9F%E7%B2%BE%E9%80%89124%E9%A6%96(8%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",谭咏麟精选124首(8小时)
 https://tymov2.a.kwimgs.com/upic/2025/06/12/20/BMjAyNTA2MTIyMDIzMzlfNDQzMTI2Mjg0XzE2NjY1MDYzNDc1OF8yXzM=_b_B0bd6ebd8a66377f39dec750ce771810a.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E5%BF%86%E8%8E%B2%E7%B2%BE%E9%80%8957%E9%A6%96(4%E5%B0%8F%E6%97%B6).png",林忆莲精选57首(4小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E5%BF%86%E8%8E%B2%E7%B2%BE%E9%80%8957%E9%A6%96(4%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",林忆莲精选57首(4小时)
 https://tymov2.a.kwimgs.com/upic/2024/01/16/07/BMjAyNDAxMTYwNzEzNTNfODI4NTk1NTQ0XzEyMjIyODI2OTMyM18yXzM=_b_B358e6b1dbf7db9a80ffc4f82cee98a4e.mp4
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E8%B4%B1%E7%B2%BE%E9%80%899%E9%A6%96(%E5%8D%8A%E5%B0%8F%E6%97%B6).png",小贱精选9首(半小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%8F%E8%B4%B1%E7%B2%BE%E9%80%899%E9%A6%96(%E5%8D%8A%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",小贱精选9首(半小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d2l30hfog65v5tq1s9fg&ratio=720p&line=0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E5%BC%9F%E7%B2%BE%E9%80%899%E9%A6%96(%E5%8D%8A%E5%B0%8F%E6%97%B6).png",星弟精选9首(半小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E5%BC%9F%E7%B2%BE%E9%80%899%E9%A6%96(%E5%8D%8A%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",星弟精选9首(半小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c83jq9bc77ud2ru6t4n0&ratio=720p&line=0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E4%BB%BB%E8%B4%A4%E9%BD%90%E7%B2%BE%E9%80%8936%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",任贤齐精选36首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%BB%BB%E8%B4%A4%E9%BD%90%E7%B2%BE%E9%80%8936%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",任贤齐精选36首(2小时)
 https://txmov2.a.kwimgs.com/bs3/video-hls/5254012023525680703_hlsb.m3u8
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E5%BF%86%E8%8E%B2%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",林忆莲精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9E%97%E5%BF%86%E8%8E%B2%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",林忆莲精选30首(2小时)
 https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%81%E5%BD%93%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png",丁当精选30首(2小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%81%E5%BD%93%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",丁当精选30首(2小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ch5q3urc77u1uogf5aq0&ratio=720p&line=0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AF%E7%B2%BE%E9%80%8921%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",贾斯汀比伯精选21首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B4%BE%E6%96%AF%E6%B1%80%E6%AF%94%E4%BC%AF%E7%B2%BE%E9%80%8921%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",贾斯汀比伯精选21首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c73r123c77u5kmhu1kh0&ratio=720p&line=0
-#EXTINF:-1 group-title="🔯歌手合集点播" tvg-logo="https://epg.112114.xyz/logo/%E9%83%AD%E9%9D%99%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png",郭静精选16首(1小时)
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%83%AD%E9%9D%99%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="🔯歌手合集点播",郭静精选16首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0300fg10000d27kqc7og65u9r5sb1a0
